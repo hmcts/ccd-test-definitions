@@ -81,13 +81,13 @@ task definitionsToJson(dependsOn: sourcesJar) {
     description = "Runs DefinitionConverter for Excel to JSON"
 
     doFirst() {
-        fileTree("${project.projectDir}/src/main/resources/uk/gov/hmcts/befta/dse/ccd/definitions/excel").matching {
+        fileTree("${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel").matching {
             include "*.xlsx"
             exclude "~*.xlsx"
         }.visit { FileVisitDetails details ->
             def name = details.getName()
-            def inputPath = "${project.projectDir}/src/main/resources/uk/gov/hmcts/befta/dse/ccd/definitions/excel/${name}"
-            def outputFolderPath = "${project.projectDir}/src/main/resources/uk/gov/hmcts/befta/dse/ccd/definitions/valid/"
+            def inputPath = "${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel/${name}"
+            def outputFolderPath = "${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/valid/"
             def useJurisdictionName = false;
 
             // overrides for BEFTA Master
@@ -153,7 +153,7 @@ task elasticCurlCommands() {
 
 def getCaseTypes() {
     def caseTypes = []
-    new File("${projectDir}/src/main/resources/uk/gov/hmcts/befta/dse/ccd/definitions/valid/").eachDir { 
+    new File("${projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/valid/").eachDir { 
         new File(it.path).eachDir {
             if (it.name != 'common') caseTypes << it.name
         }

@@ -1,0 +1,29 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_ComplexFieldsOrdering",
+  "CaseFieldID" : "Address1",
+  "AccessProfile" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_ComplexFieldsOrdering",
+  "CaseFieldID" : "Address2",
+  "AccessProfile" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_ComplexFieldsOrdering",
+  "CaseFieldID" : "Name",
+  "AccessProfile" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_ComplexFieldsOrdering",
+  "CaseFieldID" : "RespondentDetails",
+  "AccessProfile" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+} ]

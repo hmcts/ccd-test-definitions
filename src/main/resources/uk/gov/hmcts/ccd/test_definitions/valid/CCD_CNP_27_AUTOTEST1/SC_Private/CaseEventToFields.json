@@ -1,0 +1,17 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Private",
+  "CaseEventID" : "createCase",
+  "CaseFieldID" : "PrivateTextField",
+  "PageFieldDisplayOrder" : 1,
+  "PageColumnNumber" : "",
+  "READONLY" : "",
+  "DisplayContext" : "Optional",
+  "PageID" : "SingleFormPage",
+  "PageLabel" : "Data Field Types Page",
+  "PageDisplayOrder" : 1,
+  "FieldShowCondition" : "",
+  "PageShowCondition" : "",
+  "ShowSummaryChangeOption" : "Y"
+} ]

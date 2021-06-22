@@ -1,0 +1,8 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Restricted",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+} ]

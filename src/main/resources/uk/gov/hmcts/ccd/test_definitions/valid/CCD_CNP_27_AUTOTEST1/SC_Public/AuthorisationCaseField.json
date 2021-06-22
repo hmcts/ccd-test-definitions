@@ -1,0 +1,22 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Public",
+  "CaseFieldID" : "PublicTextField",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Public",
+  "CaseFieldID" : "PrivateTextField",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Public",
+  "CaseFieldID" : "RestrictedTextField",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+} ]

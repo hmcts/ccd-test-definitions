@@ -1,0 +1,43 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Public",
+  "ID" : "PublicTextField",
+  "Label" : "PublicTextField",
+  "HintText" : "",
+  "FieldType" : "Text",
+  "FieldTypeParameter" : "",
+  "DefaultHidden" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Public",
+  "ID" : "PrivateTextField",
+  "Label" : "PrivateTextField",
+  "HintText" : "",
+  "FieldType" : "Text",
+  "FieldTypeParameter" : "",
+  "DefaultHidden" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Private",
+  "Min" : "",
+  "Max" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Public",
+  "ID" : "RestrictedTextField",
+  "Label" : "RestrictedTextField",
+  "HintText" : "",
+  "FieldType" : "Text",
+  "FieldTypeParameter" : "",
+  "DefaultHidden" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Restricted",
+  "Min" : "",
+  "Max" : ""
+} ]

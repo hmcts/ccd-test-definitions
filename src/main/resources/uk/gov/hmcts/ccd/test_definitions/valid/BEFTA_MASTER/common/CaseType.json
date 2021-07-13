@@ -208,4 +208,14 @@
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CRUD",
+  "Name" : "FT- CRUD",
+  "Description" : "Case Type for testing CRUD",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
 } ]

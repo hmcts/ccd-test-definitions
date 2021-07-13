@@ -3,6 +3,6 @@
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCases",
   "CaseEventID" : "createCase",
-  "AccessProfile" : "caseworker-befta_master",
+  "UserRole" : "caseworker-befta_master",
   "CRUD" : "R"
 } ]

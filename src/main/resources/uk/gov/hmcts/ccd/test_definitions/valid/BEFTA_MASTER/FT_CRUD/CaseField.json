@@ -46,4 +46,36 @@
   "Max" : "",
   "DefaultHidden" : "No",
   "Searchable" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "ID" : "TextField4",
+  "Label" : "TextField4",
+  "HintText" : "",
+  "FieldType" : "Text",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "ID" : "TextField5",
+  "Label" : "TextField5: no C access",
+  "HintText" : "",
+  "FieldType" : "Text",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : ""
 } ]

@@ -39,7 +39,7 @@
   "CaseTypeID" : "FT_CRUD",
   "CaseEventID" : "moveToStateNoCAccess",
   "UserRole" : "caseworker-befta_master",
-  "CRUD" : "CRUD"
+  "CRUD" : "CUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",

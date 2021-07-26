@@ -221,6 +221,16 @@
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
+  "ID" : "FT_CRUD_2",
+  "Name" : "FT- CRUD-2",
+  "Description" : "Case Type for testing case creation without CaseType R  Access",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
   "ID" : "FT_CRUD_3",
   "Name" : "FT- CRUD-3",
   "Description" : "Case Type with no U CRUD access",

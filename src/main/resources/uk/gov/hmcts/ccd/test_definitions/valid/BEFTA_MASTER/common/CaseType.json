@@ -208,4 +208,54 @@
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CRUD",
+  "Name" : "FT- CRUD",
+  "Description" : "Case Type for testing CRUD",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CRUD_2",
+  "Name" : "FT- CRUD-2",
+  "Description" : "Case Type for testing case creation without CaseType R  Access",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CRUD_3",
+  "Name" : "FT- CRUD-3",
+  "Description" : "Case Type with no U CRUD access",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CRUD_4",
+  "Name" : "FT- CRUD-4",
+  "Description" : "Case Type with no C CRUD access",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CRUD_5",
+  "Name" : "FT- CRUD-5",
+  "Description" : "Case Type with a case Event Createcase without C access",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
 } ]

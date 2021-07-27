@@ -3,27 +3,27 @@
   "LiveTo" : "",
   "CaseTypeID" : "FT_DateTimeFormats",
   "CaseEventID" : "CREATE",
-  "AccessProfile" : "caseworker-befta_master",
+  "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_DateTimeFormats",
   "CaseEventID" : "UPDATE",
-  "AccessProfile" : "caseworker-befta_master",
+  "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_DateTimeFormats",
   "CaseEventID" : "COMPLETE",
-  "AccessProfile" : "caseworker-befta_master",
+  "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_DateTimeFormats",
   "CaseEventID" : "CLOSE",
-  "AccessProfile" : "caseworker-befta_master",
+  "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 } ]

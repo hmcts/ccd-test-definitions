@@ -1,0 +1,36 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "CaseFieldID" : "TextField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "CaseFieldID" : "TextField2",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "CaseFieldID" : "TextField3",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "RUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "CaseFieldID" : "TextField4",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "CaseFieldID" : "TextField5",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "RUD"
+} ]

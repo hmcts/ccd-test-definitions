@@ -1,0 +1,29 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT1",
+  "CaseEventID" : "Create",
+  "UserRole" : "Solicitor",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT1",
+  "CaseEventID" : "Create",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT1",
+  "CaseEventID" : "Issue",
+  "UserRole" : "[APPELLANT]",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT1",
+  "CaseEventID" : "Issue",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+} ]

@@ -1,0 +1,61 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "CT1",
+  "Name" : "PrivateCaseType-J1-CT1",
+  "Description" : "Private CaseType for Jurisdiction1",
+  "JurisdictionID" : "Jurisdiction1",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "PRIVATE"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "CT2",
+  "Name" : "PublicCaseType-J1-CT2",
+  "Description" : "Private CaseType for Jurisdiction1",
+  "JurisdictionID" : "Jurisdiction1",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "PUBLIC"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "CT4",
+  "Name" : "PublicCaseType-J1-CT4",
+  "Description" : "Private CaseType for Jurisdiction1",
+  "JurisdictionID" : "Jurisdiction1",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "PUBLIC"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "CT5",
+  "Name" : "PublicCaseType-J1-CT5",
+  "Description" : "Private CaseType for Jurisdiction1",
+  "JurisdictionID" : "Jurisdiction1",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "PUBLIC"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "CT6",
+  "Name" : "PublicCaseType-J1-CT6",
+  "Description" : "Private CaseType for Jurisdiction1",
+  "JurisdictionID" : "Jurisdiction1",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "PUBLIC"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "CT7",
+  "Name" : "PublicCaseType-J1-CT7",
+  "Description" : "Private CaseType for Jurisdiction1",
+  "JurisdictionID" : "Jurisdiction1",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "PUBLIC"
+} ]

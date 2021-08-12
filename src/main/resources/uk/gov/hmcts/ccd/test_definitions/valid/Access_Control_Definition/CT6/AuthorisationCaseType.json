@@ -1,0 +1,25 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT6",
+  "UserRole" : "Solicitor",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT6",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT6",
+  "UserRole" : "[APPELLANT]",
+  "CRUD" : "RU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT6",
+  "UserRole" : "[RESPONDENT]",
+  "CRUD" : "RU"
+} ]

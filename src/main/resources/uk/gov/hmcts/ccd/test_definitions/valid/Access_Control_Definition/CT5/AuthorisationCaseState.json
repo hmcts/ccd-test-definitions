@@ -1,0 +1,85 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Unissued1",
+  "UserRole" : "[APPELLANT]",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Unissued1",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Unissued2",
+  "UserRole" : "[APPELLANT]",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Unissued2",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Unissued1",
+  "UserRole" : "Other",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Unissued2",
+  "UserRole" : "Other",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Issued1",
+  "UserRole" : "[APPELLANT]",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Issued1",
+  "UserRole" : "[RESPONDENT]",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Issued1",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Issued2",
+  "UserRole" : "[APPELLANT]",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Issued2",
+  "UserRole" : "[RESPONDENT]",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT5",
+  "CaseStateID" : "Issued2",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+} ]

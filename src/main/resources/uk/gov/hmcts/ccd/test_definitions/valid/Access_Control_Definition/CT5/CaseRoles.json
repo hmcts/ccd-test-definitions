@@ -1,0 +1,11 @@
+[ {
+  "CaseTypeID" : "CT5",
+  "ID" : "[APPELLANT]",
+  "Name" : "Appellant",
+  "Description" : "Appellant"
+}, {
+  "CaseTypeID" : "CT5",
+  "ID" : "[RESPONDENT]",
+  "Name" : "Respondent ",
+  "Description" : "Respondent "
+} ]

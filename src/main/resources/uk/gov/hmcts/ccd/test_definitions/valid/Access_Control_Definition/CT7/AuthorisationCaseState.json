@@ -1,0 +1,71 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Unissued1",
+  "UserRole" : "caseworker-J1-solicitor",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Unissued1",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Unissued2",
+  "UserRole" : "caseworker-J1-solicitor",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Unissued2",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Unissued1",
+  "UserRole" : "Other",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Unissued2",
+  "UserRole" : "Other",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Issued1",
+  "UserRole" : "caseworker-J1-solicitor",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Issued1",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Issued2",
+  "UserRole" : "caseworker-J1-solicitor",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseStateID" : "Issued2",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+} ]

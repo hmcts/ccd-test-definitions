@@ -1,0 +1,43 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseEventID" : "Create",
+  "UserRole" : "caseworker-J1-solicitor",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseEventID" : "Create",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseEventID" : "Update",
+  "UserRole" : "caseworker-J1-solicitor",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseEventID" : "Update",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseEventID" : "Issue",
+  "UserRole" : "caseworker-J1-solicitor",
+  "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT7",
+  "CaseEventID" : "Issue",
+  "UserRole" : "Staff",
+  "CRUD" : "CRU"
+} ]

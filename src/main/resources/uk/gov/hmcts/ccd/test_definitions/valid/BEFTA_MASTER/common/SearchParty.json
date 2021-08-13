@@ -1,12 +1,12 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeId" : "FT_MasterCaseType",
-  "SearchPartyName" : "TextField",
-  "SearchPartyEmailAddress" : "EmailField",
-  "SearchPartyAddressLine1" : "TextField",
-  "SearchPartyPostCode" : "TextField",
-  "SearchPartyDOB" : "TextField"
+  "CaseTypeId" : "FT_ComplexFieldsOrdering",
+  "SearchPartyName" : "Name",
+  "SearchPartyEmailAddress" : "Name",
+  "SearchPartyAddressLine1" : "Name",
+  "SearchPartyPostCode" : "Name",
+  "SearchPartyDOB" : "Name"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",

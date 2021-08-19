@@ -76,14 +76,14 @@
   "UserRole" : "[APPELLANT]",
   "CRUD" : "CRU"
 }, {
-  "LiveFrom" : "DD/01/YYYY",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "CT2",
   "CaseStateID" : "Issued2",
   "UserRole" : "[RESPONDENT]",
   "CRUD" : "CRU"
 }, {
-  "LiveFrom" : "DD/01/YYYY",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "CT2",
   "CaseStateID" : "Issued2",

@@ -1,0 +1,13 @@
+[ {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "1/1/17",
+  "CaseTypeID" : "CT3J2",
+  "AccessProfile" : "",
+  "CaseFieldID" : "F1",
+  "ListElementCode" : "",
+  "Label" : "field",
+  "DisplayOrder" : 1,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : "",
+  "UseCase" : "orgcases"
+} ]

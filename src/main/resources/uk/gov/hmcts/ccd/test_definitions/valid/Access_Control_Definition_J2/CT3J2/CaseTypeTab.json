@@ -1,0 +1,14 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT3J2",
+  "Channel" : "notApplicable",
+  "TabID" : "NameTab",
+  "TabLabel" : "Details",
+  "TabDisplayOrder" : 1,
+  "CaseFieldID" : "F1",
+  "TabFieldDisplayOrder" : 1,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
+} ]

@@ -1,0 +1,11 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "CT3J2",
+  "Name" : "PublicCaseType-J2-CT3",
+  "Description" : "Private CaseType for Jurisdiction2",
+  "JurisdictionID" : "Jurisdiction2",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "PUBLIC"
+} ]

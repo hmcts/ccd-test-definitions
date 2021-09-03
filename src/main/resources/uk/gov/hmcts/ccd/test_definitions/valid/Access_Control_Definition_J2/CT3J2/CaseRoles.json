@@ -1,0 +1,21 @@
+[ {
+  "CaseTypeID" : "CT3J2",
+  "ID" : "[APPELLANT]",
+  "Name" : "Appellant",
+  "Description" : "Appellant"
+}, {
+  "CaseTypeID" : "CT3J2",
+  "ID" : "[RESPONDENT]",
+  "Name" : "Respondent ",
+  "Description" : "Respondent "
+}, {
+  "CaseTypeID" : "CT3J2",
+  "ID" : "[Staff]",
+  "Name" : "Staff",
+  "Description" : "Staff"
+}, {
+  "CaseTypeID" : "CT3J2",
+  "ID" : "[Solicitor]",
+  "Name" : "Solicitor",
+  "Description" : "Solicitor"
+} ]

@@ -6,7 +6,7 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.4.2-prerelease"
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.4.4-prerelease"
 
 group 'com.github.hmcts'
 
@@ -82,7 +82,7 @@ task definitionsToJson(dependsOn: sourcesJar) {
 
     doFirst() {
         fileTree("${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel").matching {
-            include "Access_Control_Definition.xlsx"
+            include "Access_Control_Definition_J2.xlsx"
             exclude "~*.xlsx"
         }.visit { FileVisitDetails details ->
             def name = details.getName()
@@ -137,7 +137,7 @@ publishing {
 wrapper.gradleVersion = '2.10'
 
 dependencies {
-    compile group: 'com.github.hmcts', name: 'befta-fw', version: '8.3.0-prerelease'
+    compile group: 'com.github.hmcts', name: 'befta-fw', version: '8.3.1'
 }
 // end::dependencies[]
 

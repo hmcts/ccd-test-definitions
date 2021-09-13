@@ -25,4 +25,13 @@
   "Description" : "",
   "DisplayOrder" : 1,
   "TitleDisplay" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "ID" : "state4",
+  "Name" : "state4",
+  "Description" : "",
+  "DisplayOrder" : 1,
+  "TitleDisplay" : ""
 } ]

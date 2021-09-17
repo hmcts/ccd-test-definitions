@@ -7,13 +7,4 @@
   "Label" : "Text Field",
   "DisplayOrder" : 1,
   "DisplayContextParameter" : ""
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_CRUD",
-  "CaseFieldID" : "TextField2",
-  "ListElementCode" : "",
-  "Label" : "Text Field",
-  "DisplayOrder" : 1,
-  "DisplayContextParameter" : ""
 } ]

@@ -63,6 +63,8 @@
   "DefaultHidden" : "",
   "Searchable" : ""
 }, {
+  "LiveFrom" : "",
+  "LiveTo" : "",
   "CaseTypeID" : "CT2",
   "ID" : "caseManagementLocation",
   "Label" : "Case Management Location",
@@ -71,9 +73,9 @@
   "CategoryID" : "",
   "FieldTypeParameter" : "",
   "RegularExpression" : "",
-  "SecurityClassification" : "Public",
+  "SecurityClassification" : "PUBLIC",
   "Min" : "",
   "Max" : "",
-  "DefaultHidden" : "No",
+  "DefaultHidden" : "",
   "Searchable" : ""
 } ]

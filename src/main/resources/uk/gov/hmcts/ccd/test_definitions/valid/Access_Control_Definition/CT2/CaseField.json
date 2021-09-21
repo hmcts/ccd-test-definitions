@@ -62,4 +62,18 @@
   "Max" : "",
   "DefaultHidden" : "",
   "Searchable" : ""
+}, {
+  "CaseTypeID" : "CT2",
+  "ID" : "caseManagementLocation",
+  "Label" : "Case Management Location",
+  "HintText" : "",
+  "FieldType" : "CaseLocation",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : ""
 } ]

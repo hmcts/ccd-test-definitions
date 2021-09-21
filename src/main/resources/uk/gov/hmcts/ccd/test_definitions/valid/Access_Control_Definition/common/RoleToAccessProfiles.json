@@ -214,4 +214,16 @@
   "Notes" : "",
   "Column2" : "",
   "Column3" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Staff",
+  "Authorisation" : "",
+  "CaseTypeID" : "CT6",
+  "AccessProfiles" : "Staff",
+  "ReadOnly" : "N",
+  "Disabled" : "N",
+  "Notes" : "",
+  "Column2" : "",
+  "Column3" : ""
 } ]

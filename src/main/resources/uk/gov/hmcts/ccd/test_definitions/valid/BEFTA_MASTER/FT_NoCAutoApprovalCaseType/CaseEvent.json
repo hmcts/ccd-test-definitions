@@ -20,7 +20,8 @@
   "ShowEventNotes" : "Y",
   "CanSaveDraft" : "",
   "EndButtonLabel" : "",
-  "Publish" : ""
+  "Publish" : "",
+  "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -43,7 +44,8 @@
   "ShowEventNotes" : "Y",
   "CanSaveDraft" : "",
   "EndButtonLabel" : "",
-  "Publish" : ""
+  "Publish" : "",
+  "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -66,5 +68,6 @@
   "ShowEventNotes" : "Y",
   "CanSaveDraft" : "",
   "EndButtonLabel" : "",
-  "Publish" : ""
+  "Publish" : "",
+  "TTLIncrement" : ""
 } ]

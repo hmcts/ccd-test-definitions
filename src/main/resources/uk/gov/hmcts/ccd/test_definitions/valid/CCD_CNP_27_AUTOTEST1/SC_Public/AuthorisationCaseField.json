@@ -17,6 +17,6 @@
   "LiveTo" : "",
   "CaseTypeID" : "SC_Public",
   "CaseFieldID" : "RestrictedTextField",
-  "UserRole" : "caseworker-autotest1",
+  "UserRole" : "caseworker-autotest1-senior",
   "CRUD" : "CRUD"
 } ]

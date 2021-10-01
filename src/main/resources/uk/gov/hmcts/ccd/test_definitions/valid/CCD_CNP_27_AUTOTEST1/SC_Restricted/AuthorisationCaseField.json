@@ -3,6 +3,6 @@
   "LiveTo" : "",
   "CaseTypeID" : "SC_Restricted",
   "CaseFieldID" : "RestrictedTextField",
-  "UserRole" : "caseworker-autotest1-senior",
+  "UserRole" : "caseworker-autotest1",
   "CRUD" : "CRUD"
 } ]

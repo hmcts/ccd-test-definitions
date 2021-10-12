@@ -110,4 +110,20 @@
   "Max" : "",
   "DefaultHidden" : "No",
   "Searchable" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "ID" : "DateOfDeath",
+  "Label" : "DateOfBirth",
+  "HintText" : "",
+  "FieldType" : "Text",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : ""
 } ]

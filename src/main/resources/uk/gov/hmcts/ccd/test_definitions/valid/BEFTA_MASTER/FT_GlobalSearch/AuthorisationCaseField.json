@@ -51,6 +51,13 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "DateOfDeath",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
   "CaseFieldID" : "SearchCriteria",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
@@ -94,6 +101,13 @@
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
   "CaseFieldID" : "DateOfBirth",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "DateOfDeath",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 } ]

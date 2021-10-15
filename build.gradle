@@ -6,7 +6,7 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.4.4-prerelease"
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.4.4-ash"
 
 group 'com.github.hmcts'
 
@@ -82,8 +82,8 @@ task definitionsToJson(dependsOn: sourcesJar) {
 
     doFirst() {
         fileTree("${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel").matching {
-            include "Access_Control_Definition_J2.xlsx"
-            exclude "~*.xlsx"
+            include "Access_Control_Definition_J1.xlsx"
+            include "~*.xlsx"
         }.visit { FileVisitDetails details ->
             def name = details.getName()
             def inputPath = "${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel/${name}"

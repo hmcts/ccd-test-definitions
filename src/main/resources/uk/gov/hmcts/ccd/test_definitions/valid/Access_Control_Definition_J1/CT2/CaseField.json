@@ -62,4 +62,20 @@
   "Max" : "",
   "DefaultHidden" : "",
   "Searchable" : ""
+}, {
+  "LiveFrom" : "",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT2",
+  "ID" : "caseManagementLocation",
+  "Label" : "caseManagementLocation",
+  "HintText" : "",
+  "FieldType" : "caseManagementLocation",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "RESTRICTED",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "",
+  "Searchable" : ""
 } ]

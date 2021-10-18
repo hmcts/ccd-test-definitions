@@ -82,8 +82,8 @@ task definitionsToJson(dependsOn: sourcesJar) {
 
     doFirst() {
         fileTree("${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel").matching {
-            include "Access_Control_Definition_J1.xlsx"
-            include "~*.xlsx"
+            include "*.xlsx"
+            exclude "~*.xlsx"
         }.visit { FileVisitDetails details ->
             def name = details.getName()
             def inputPath = "${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel/${name}"

@@ -16,6 +16,13 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "createCaseTTL",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
   "UserRole" : "[DefendantSolicitor]",
   "CRUD" : "CRUD"
@@ -32,6 +39,20 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCase",
   "UserRole" : "caseworker-caa",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateCaseTTLInc",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateCaseTTLInc",
+  "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",

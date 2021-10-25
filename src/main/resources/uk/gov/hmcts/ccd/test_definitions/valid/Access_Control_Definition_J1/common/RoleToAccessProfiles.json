@@ -73,6 +73,30 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
+  "RoleName" : "Appellant",
+  "Authorisation" : "",
+  "CaseTypeID" : "CT2",
+  "AccessProfiles" : "[APPELLANT]",
+  "ReadOnly" : "N",
+  "Disabled" : "N",
+  "Notes" : "",
+  "Column2" : "",
+  "Column3" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Respondent",
+  "Authorisation" : "",
+  "CaseTypeID" : "CT2",
+  "AccessProfiles" : "[RESPONDENT]",
+  "ReadOnly" : "N",
+  "Disabled" : "N",
+  "Notes" : "",
+  "Column2" : "",
+  "Column3" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
   "RoleName" : "Solicitor",
   "Authorisation" : "",
   "CaseTypeID" : "CT4",

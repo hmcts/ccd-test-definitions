@@ -371,7 +371,7 @@
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "TTL",
-  "Label" : "TTL",
+  "Label" : "TTL Fields",
   "HintText" : "",
   "FieldType" : "TTL",
   "CategoryID" : "",

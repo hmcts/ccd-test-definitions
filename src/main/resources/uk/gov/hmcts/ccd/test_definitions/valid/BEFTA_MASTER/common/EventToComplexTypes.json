@@ -4010,7 +4010,7 @@
   "EventHintText" : "",
   "FieldDisplayOrder" : "",
   "DisplayContext" : "OPTIONAL",
-  "FieldShowCondition" : "",
+  "FieldShowCondition" : "MySchool.Class.ClassMembers.Children.IsAutistic=\"Yes\"",
   "RetainHiddenValue" : "",
   "Publish" : "",
   "PublishAs" : ""

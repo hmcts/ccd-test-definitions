@@ -6,25 +6,39 @@
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseSubmitTTL",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "03/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseSubmitTTL",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
+  "LiveFrom" : "04/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "createCase",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
-  "CaseEventID" : "updateCaseSubmitSuspendedTTL",
+  "CaseEventID" : "createCaseTTL",
   "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "createCaseTTL",
+  "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
@@ -46,6 +60,48 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCase",
   "UserRole" : "caseworker-caa",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateCaseTTLInc",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateCaseTTLInc",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateCaseNoTTLInc",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "03/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateModifiedOverrideTTL",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "04/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateModifiedSystemTTL",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "05/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateModifiedSuspendedTTL",
+  "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",

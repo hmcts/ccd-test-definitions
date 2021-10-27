@@ -2,13 +2,6 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
-  "CaseFieldID" : "TTL",
-  "UserRole" : "caseworker-befta_master",
-  "CRUD" : "CRUD"
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_MasterCaseType",
   "CaseFieldID" : "TextField",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
@@ -172,6 +165,20 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseFieldID" : "CaseLinkField",
   "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseFieldID" : "TTL",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseFieldID" : "TTL",
+  "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",

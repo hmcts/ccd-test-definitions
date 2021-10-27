@@ -6,20 +6,6 @@
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "02/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_MasterCaseType",
-  "CaseEventID" : "createCaseSubmitTTL",
-  "UserRole" : "caseworker-befta_master",
-  "CRUD" : "CRUD"
-}, {
-  "LiveFrom" : "03/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_MasterCaseType",
-  "CaseEventID" : "updateCaseSubmitTTL",
-  "UserRole" : "caseworker-befta_master",
-  "CRUD" : "CRUD"
-}, {
   "LiveFrom" : "04/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",

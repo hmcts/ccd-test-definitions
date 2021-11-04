@@ -48,21 +48,21 @@
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "02/01/2017",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseSubmitTTL",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "02/01/2017",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseSubmitSuspendedTTL",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "03/01/2017",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseSubmitSuspendedTTL",
@@ -109,6 +109,48 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateModifiedSuspendedTTL",
   "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "06/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateMidEventModifiedSuspendedTTL",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "07/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateMidEventModifiedSuspendedTTL",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "07/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateMidEventModifiedSystemTTL",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateMidEventModifiedSystemTTL",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateMidEventModifiedOverrideTTL",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "09/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateMidEventModifiedOverrideTTL",
+  "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",

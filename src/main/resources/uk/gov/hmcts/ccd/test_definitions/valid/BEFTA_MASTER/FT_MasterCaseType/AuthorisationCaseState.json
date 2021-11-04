@@ -20,7 +20,7 @@
   "UserRole" : "caseworker-caa",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "02/01/2017",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseStateID" : "CaseCreated",
@@ -41,7 +41,7 @@
   "UserRole" : "caseworker-caa",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "02/01/2017",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseStateID" : "CaseUpdated",

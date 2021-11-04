@@ -1,0 +1,17 @@
+[ {
+  "CaseTypeID" : "CT2",
+  "SearchAliasID" : "F1",
+  "CaseFieldID" : "F1"
+}, {
+  "CaseTypeID" : "CT2",
+  "SearchAliasID" : "F2",
+  "CaseFieldID" : "F2"
+}, {
+  "CaseTypeID" : "CT2",
+  "SearchAliasID" : "F3",
+  "CaseFieldID" : "F3"
+}, {
+  "CaseTypeID" : "CT2",
+  "SearchAliasID" : "F4",
+  "CaseFieldID" : "F4"
+} ]

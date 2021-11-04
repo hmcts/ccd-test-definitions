@@ -26,4 +26,11 @@
   "CaseEventID" : "Issue",
   "UserRole" : "Staff",
   "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "CT1",
+  "CaseEventID" : "Issue",
+  "UserRole" : "Solicitor",
+  "CRUD" : "CRU"
 } ]

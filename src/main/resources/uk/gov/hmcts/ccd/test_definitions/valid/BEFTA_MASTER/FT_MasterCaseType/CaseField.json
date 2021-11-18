@@ -366,4 +366,36 @@
   "Max" : "",
   "DefaultHidden" : "No",
   "Searchable" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "ID" : "SearchCriteria",
+  "Label" : "SearchCriteria",
+  "HintText" : "",
+  "FieldType" : "SearchCriteria",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : ""
+}, {
+  "LiveFrom" : "04/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "ID" : "caseManagementLocation",
+  "Label" : "Case Management Location",
+  "HintText" : "",
+  "FieldType" : "CaseLocation",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : ""
 } ]

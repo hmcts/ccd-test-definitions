@@ -382,4 +382,20 @@
   "Max" : "",
   "DefaultHidden" : "No",
   "Searchable" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "ID" : "CaseLinkCollection",
+  "Label" : "Collection of CaseLink",
+  "HintText" : "",
+  "FieldType" : "Collection",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "CaseLink",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : ""
 } ]

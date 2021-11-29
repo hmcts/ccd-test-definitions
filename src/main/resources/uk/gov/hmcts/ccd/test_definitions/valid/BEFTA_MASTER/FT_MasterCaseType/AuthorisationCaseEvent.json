@@ -142,6 +142,13 @@
   "LiveFrom" : "08/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateCaseCitizen",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateMidEventModifiedOverrideTTL",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"

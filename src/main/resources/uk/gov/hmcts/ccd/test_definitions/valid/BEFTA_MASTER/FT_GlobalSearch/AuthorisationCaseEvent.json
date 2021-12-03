@@ -26,4 +26,11 @@
   "CaseEventID" : "UPDATE",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseEventID" : "createCaseCallback",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
 } ]

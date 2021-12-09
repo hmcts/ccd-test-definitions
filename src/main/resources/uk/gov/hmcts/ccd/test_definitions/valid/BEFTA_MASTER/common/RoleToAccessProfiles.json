@@ -1,199 +1,73 @@
 [ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "auth1",
   "CaseTypeID" : "FT_MasterCaseType",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "Y",
+  "Disabled" : "F"
 }, {
-  "CaseTypeID" : "FT_MultiplePages",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
+  "RoleName" : "Role2",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "No"
 }, {
-  "CaseTypeID" : "FT_ComplexCollectionComplex",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
+  "RoleName" : "Role3",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_master,caseworker-befta_master-junior",
+  "ReadOnly" : "YES",
+  "Disabled" : "False"
 }, {
-  "CaseTypeID" : "FT_Tabs",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
+  "RoleName" : "Role4",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_master,caseworker-befta_master-junior,caseworker-befta_master-manager",
   "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
+  "Disabled" : "Y"
 }, {
-  "CaseTypeID" : "FT_CaseProgression",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
+  "RoleName" : "[Claimant]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "[Claimant]",
+  "ReadOnly" : "N",
+  "Disabled" : "No"
 }, {
-  "CaseTypeID" : "FT_Regex",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
+  "RoleName" : "[Defendant]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "[Defendant]",
+  "ReadOnly" : "N",
+  "Disabled" : "No"
 }, {
-  "CaseTypeID" : "FT_Conditionals",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_ComplexCRUD",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_NoCases",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_WBSortOrder",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_Questions",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_CaseViewCallbackMessages",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_DateTimeFormats",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_ComplexOrganisation",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_ComplexFieldsOrdering",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_ConditionalPostState",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_NoCCaseType",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
+  "RoleName" : "Role1",
+  "Authorisation" : "auth2",
   "CaseTypeID" : "FT_NoCAutoApprovalCaseType",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
+  "AccessProfiles" : "caseworker-befta_master,caseworker-befta_master-solicitor",
+  "ReadOnly" : "N",
+  "Disabled" : "No"
 }, {
-  "CaseTypeID" : "FT_NoCWithoutEventsCaseType",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_RetainHiddenValue",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_DynamicFieldCaseType",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
-}, {
-  "CaseTypeID" : "FT_GlobalSearch",
-  "RoleName" : "judge",
-  "LiveFrom" : "",
-  "LiveTo" : "",
-  "ReadOnly" : "false",
-  "Disabled" : "false",
-  "AccessProfiles" : "caseworker-befta_master-solicitor,caseworker-caa,caseworker-befta_master-junior,caseworker-befta_master-manager,caseworker-befta_master,caseworker-approver",
-  "Authorisation" : ""
+  "RoleName" : "Role2",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_NoCAutoApprovalCaseType",
+  "AccessProfiles" : "caseworker-approver",
+  "ReadOnly" : "No",
+  "Disabled" : "Yes"
 } ]

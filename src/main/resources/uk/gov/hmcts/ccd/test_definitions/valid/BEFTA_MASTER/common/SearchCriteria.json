@@ -1,6 +1,11 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
+  "CaseTypeId" : "FT_MasterCaseType",
+  "OtherCaseReference" : "TextField"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
   "CaseTypeId" : "FT_MultiplePages",
   "OtherCaseReference" : "TextFieldFName"
 }, {

@@ -18,7 +18,8 @@
   "ShowSummaryContentOption" : "",
   "CallBackURLMidEvent" : "",
   "Publish" : "",
-  "PublishAs" : ""
+  "PublishAs" : "",
+  "DefaultValue" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -39,5 +40,6 @@
   "ShowSummaryContentOption" : "",
   "CallBackURLMidEvent" : "",
   "Publish" : "",
-  "PublishAs" : ""
+  "PublishAs" : "",
+  "DefaultValue" : ""
 } ]

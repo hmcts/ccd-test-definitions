@@ -34,14 +34,14 @@
   "AccessProfiles" : "caseworker-befta_master,caseworker-befta_master-junior,caseworker-befta_master-manager",
   "ReadOnly" : "false",
   "Disabled" : "Y"
-},{
+}, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "RoleName" : "[Claimant]",
   "Authorisation" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessProfiles" : "[Claimant]",
-  "ReadOnly" : "No",
+  "ReadOnly" : "N",
   "Disabled" : "No"
 }, {
   "LiveFrom" : "01/01/2017",
@@ -50,7 +50,7 @@
   "Authorisation" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessProfiles" : "[Defendant]",
-  "ReadOnly" : "No",
+  "ReadOnly" : "N",
   "Disabled" : "No"
 }, {
   "LiveFrom" : "01/01/2017",
@@ -70,4 +70,4 @@
   "AccessProfiles" : "caseworker-approver",
   "ReadOnly" : "No",
   "Disabled" : "Yes"
-}]
+} ]

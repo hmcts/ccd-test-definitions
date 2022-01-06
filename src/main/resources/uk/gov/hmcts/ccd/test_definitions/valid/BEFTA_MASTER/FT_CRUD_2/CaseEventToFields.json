@@ -18,5 +18,6 @@
   "ShowSummaryContentOption" : "",
   "CallBackURLMidEvent" : "",
   "Publish" : "",
-  "PublishAs" : ""
+  "PublishAs" : "",
+  "DefaultValue" : ""
 } ]

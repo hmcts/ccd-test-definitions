@@ -268,7 +268,7 @@
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "Public"
-} , {
+}, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
   "ID" : "FT_GlobalSearch",

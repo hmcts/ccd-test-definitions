@@ -27,6 +27,13 @@
   "UserRole" : "caseworker-caa",
   "CRUD" : "CRUD"
 }, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "documentHashCallback",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",

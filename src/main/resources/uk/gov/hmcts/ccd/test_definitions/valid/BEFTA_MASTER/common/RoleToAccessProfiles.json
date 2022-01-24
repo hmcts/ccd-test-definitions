@@ -37,6 +37,24 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
+  "RoleName" : "[Claimant]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "[Claimant]",
+  "ReadOnly" : "N",
+  "Disabled" : "No"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "[Defendant]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "[Defendant]",
+  "ReadOnly" : "N",
+  "Disabled" : "No"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
   "RoleName" : "Role1",
   "Authorisation" : "auth2",
   "CaseTypeID" : "FT_NoCAutoApprovalCaseType",

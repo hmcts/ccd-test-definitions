@@ -13,7 +13,9 @@
   "Min" : "",
   "Max" : "",
   "DefaultHidden" : "No",
-  "Searchable" : ""
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -29,5 +31,7 @@
   "Min" : "",
   "Max" : "",
   "DefaultHidden" : "No",
-  "Searchable" : ""
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
 } ]

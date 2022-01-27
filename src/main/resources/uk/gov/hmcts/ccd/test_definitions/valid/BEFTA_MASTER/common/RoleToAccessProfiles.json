@@ -78,4 +78,14 @@
   "ReadOnly" : "No",
   "Disabled" : "Yes",
   "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "auth1",
+  "CaseTypeID" : "FT_CaseAccessCategories",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "Y",
+  "Disabled" : "F",
+  "CaseAccessCategories" : "TestValue"
 } ]

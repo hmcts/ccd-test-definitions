@@ -26,4 +26,11 @@
   "CaseStateID" : "CaseUpdated",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "caseworker-caa",
+  "CRUD" : "CRUD"
 } ]

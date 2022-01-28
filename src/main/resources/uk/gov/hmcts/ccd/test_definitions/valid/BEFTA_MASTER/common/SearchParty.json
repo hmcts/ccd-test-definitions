@@ -174,4 +174,15 @@
   "SearchPartyDOB" : "DateOfBirth",
   "SearchPartyDOD" : "DateOfDeath",
   "SearchPartyCollectionFieldName" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeId" : "FT_GlobalSearch",
+  "SearchPartyName" : "OtherName",
+  "SearchPartyEmailAddress" : "",
+  "SearchPartyAddressLine1" : "",
+  "SearchPartyPostCode" : "",
+  "SearchPartyDOB" : "DateOfBirthText",
+  "SearchPartyDOD" : "DateOfDeathText",
+  "SearchPartyCollectionFieldName" : ""
 } ]

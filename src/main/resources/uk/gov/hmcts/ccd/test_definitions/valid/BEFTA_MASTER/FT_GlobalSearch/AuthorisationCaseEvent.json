@@ -33,4 +33,11 @@
   "CaseEventID" : "createCaseCallback",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseEventID" : "CREATE",
+  "UserRole" : "caseworker-caa",
+  "CRUD" : "CRUD"
 } ]

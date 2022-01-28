@@ -171,8 +171,8 @@
   "SearchPartyEmailAddress" : "Email",
   "SearchPartyAddressLine1" : "Address.AddressLine1",
   "SearchPartyPostCode" : "PostCode",
-  "SearchPartyDOB" : "DateOfBirth",
-  "SearchPartyDOD" : "DateOfDeath",
+  "SearchPartyDOB" : "dateOfBirth",
+  "SearchPartyDOD" : "dateOfDeath",
   "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
@@ -182,7 +182,7 @@
   "SearchPartyEmailAddress" : "",
   "SearchPartyAddressLine1" : "",
   "SearchPartyPostCode" : "",
-  "SearchPartyDOB" : "DateOfBirthText",
-  "SearchPartyDOD" : "DateOfDeathText",
+  "SearchPartyDOB" : "dateOfBirthText",
+  "SearchPartyDOD" : "dateOfDeathText",
   "SearchPartyCollectionFieldName" : ""
 } ]

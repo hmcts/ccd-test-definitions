@@ -7,7 +7,8 @@
   "SearchPartyAddressLine1" : "Name",
   "SearchPartyPostCode" : "Name",
   "SearchPartyDOB" : "Name",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : "Name"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -17,7 +18,8 @@
   "SearchPartyAddressLine1" : "TextFieldFName",
   "SearchPartyPostCode" : "TextFieldFName",
   "SearchPartyDOB" : "TextFieldFName",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : "TextFieldFName"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -27,7 +29,8 @@
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -37,7 +40,8 @@
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -47,7 +51,8 @@
   "SearchPartyAddressLine1" : "AddressComplex1.AddressLine1",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -57,7 +62,8 @@
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "AddressComplex1.AddressLine1",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -67,7 +73,8 @@
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "AddressComplex1.AddressLine1",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -77,7 +84,8 @@
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -87,7 +95,8 @@
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -97,7 +106,8 @@
   "SearchPartyAddressLine1" : "TextField1",
   "SearchPartyPostCode" : "TextField1",
   "SearchPartyDOB" : "TextField1",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -107,7 +117,8 @@
   "SearchPartyAddressLine1" : "TextField1",
   "SearchPartyPostCode" : "TextField1",
   "SearchPartyDOB" : "TextField1",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -117,7 +128,8 @@
   "SearchPartyAddressLine1" : "",
   "SearchPartyPostCode" : "TextField1",
   "SearchPartyDOB" : "TextField1",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -127,7 +139,8 @@
   "SearchPartyAddressLine1" : "TextField1",
   "SearchPartyPostCode" : "",
   "SearchPartyDOB" : "TextField1",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -137,7 +150,19 @@
   "SearchPartyAddressLine1" : "TextField1",
   "SearchPartyPostCode" : "TextField1",
   "SearchPartyDOB" : "",
-  "SearchPartyDOD" : ""
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeId" : "FT_Tabs",
+  "SearchPartyName" : "TextField5",
+  "SearchPartyEmailAddress" : "TextField1",
+  "SearchPartyAddressLine1" : "TextField1",
+  "SearchPartyPostCode" : "TextField1",
+  "SearchPartyDOB" : "TextField1",
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -147,5 +172,17 @@
   "SearchPartyAddressLine1" : "Address.AddressLine1",
   "SearchPartyPostCode" : "PostCode",
   "SearchPartyDOB" : "DateOfBirth",
-  "SearchPartyDOD" : "DateOfDeath"
+  "SearchPartyDOD" : "DateOfDeath",
+  "SearchPartyCollectionFieldName" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeId" : "FT_GlobalSearch",
+  "SearchPartyName" : "OtherName",
+  "SearchPartyEmailAddress" : "",
+  "SearchPartyAddressLine1" : "",
+  "SearchPartyPostCode" : "",
+  "SearchPartyDOB" : "DateOfBirthText",
+  "SearchPartyDOD" : "DateOfDeathText",
+  "SearchPartyCollectionFieldName" : ""
 } ]

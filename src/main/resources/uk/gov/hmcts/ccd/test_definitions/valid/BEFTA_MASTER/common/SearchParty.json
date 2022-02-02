@@ -2,187 +2,209 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_ComplexFieldsOrdering",
+  "SearchPartyCollectionFieldName" : "Name",
   "SearchPartyName" : "Name",
   "SearchPartyEmailAddress" : "Name",
   "SearchPartyAddressLine1" : "Name",
   "SearchPartyPostCode" : "Name",
   "SearchPartyDOB" : "Name",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : "Name"
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_MultiplePages",
+  "SearchPartyCollectionFieldName" : "TextFieldFName",
   "SearchPartyName" : "TextFieldFName,TextFieldMName,TextFieldLName",
   "SearchPartyEmailAddress" : "TextFieldFName",
   "SearchPartyAddressLine1" : "TextFieldFName",
   "SearchPartyPostCode" : "TextFieldFName",
   "SearchPartyDOB" : "TextFieldFName",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : "TextFieldFName"
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Conditionals",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "AddressComplex1.AddressLine1",
   "SearchPartyEmailAddress" : "TextField",
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Conditionals",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextField",
   "SearchPartyEmailAddress" : "AddressComplex1.AddressLine1",
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Conditionals",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextField2",
   "SearchPartyEmailAddress" : "TextField",
   "SearchPartyAddressLine1" : "AddressComplex1.AddressLine1",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Conditionals",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextField3",
   "SearchPartyEmailAddress" : "TextField",
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "AddressComplex1.AddressLine1",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Conditionals",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextFieldOptional",
   "SearchPartyEmailAddress" : "TextField",
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "AddressComplex1.AddressLine1",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_RetainHiddenValue",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "FamilyDetails.FatherFullName,FamilyDetails.MotherFullName",
   "SearchPartyEmailAddress" : "TextField",
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_RetainHiddenValue",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextField,FamilyDetails.FatherFullName,TextField,FamilyDetails.MotherFullName",
   "SearchPartyEmailAddress" : "TextField",
   "SearchPartyAddressLine1" : "TextField",
   "SearchPartyPostCode" : "TextField",
   "SearchPartyDOB" : "TextField",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Tabs",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "",
   "SearchPartyEmailAddress" : "TextField1",
   "SearchPartyAddressLine1" : "TextField1",
   "SearchPartyPostCode" : "TextField1",
   "SearchPartyDOB" : "TextField1",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Tabs",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextField1",
   "SearchPartyEmailAddress" : "",
   "SearchPartyAddressLine1" : "TextField1",
   "SearchPartyPostCode" : "TextField1",
   "SearchPartyDOB" : "TextField1",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Tabs",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextField2",
   "SearchPartyEmailAddress" : "TextField1",
   "SearchPartyAddressLine1" : "",
   "SearchPartyPostCode" : "TextField1",
   "SearchPartyDOB" : "TextField1",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Tabs",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextField3",
   "SearchPartyEmailAddress" : "TextField1",
   "SearchPartyAddressLine1" : "TextField1",
   "SearchPartyPostCode" : "",
   "SearchPartyDOB" : "TextField1",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Tabs",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextField4",
   "SearchPartyEmailAddress" : "TextField1",
   "SearchPartyAddressLine1" : "TextField1",
   "SearchPartyPostCode" : "TextField1",
   "SearchPartyDOB" : "",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_Tabs",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "TextField5",
   "SearchPartyEmailAddress" : "TextField1",
   "SearchPartyAddressLine1" : "TextField1",
   "SearchPartyPostCode" : "TextField1",
   "SearchPartyDOB" : "TextField1",
-  "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_GlobalSearch",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "FirstName,LastName",
   "SearchPartyEmailAddress" : "Email",
   "SearchPartyAddressLine1" : "Address.AddressLine1",
   "SearchPartyPostCode" : "PostCode",
   "SearchPartyDOB" : "dateOfBirth",
-  "SearchPartyDOD" : "dateOfDeath",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : "dateOfDeath"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeId" : "FT_GlobalSearch",
+  "SearchPartyCollectionFieldName" : "",
   "SearchPartyName" : "OtherName",
   "SearchPartyEmailAddress" : "",
   "SearchPartyAddressLine1" : "",
   "SearchPartyPostCode" : "",
   "SearchPartyDOB" : "dateOfBirthText",
-  "SearchPartyDOD" : "dateOfDeathText",
-  "SearchPartyCollectionFieldName" : ""
+  "SearchPartyDOD" : "dateOfDeathText"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeId" : "FT_GlobalSearch",
+  "SearchPartyCollectionFieldName" : "GroupOfPeople.ListOfPeople",
+  "SearchPartyName" : "IndividualLastName,IndividualFirstName",
+  "SearchPartyEmailAddress" : "IndividualEmail",
+  "SearchPartyAddressLine1" : "IndividualAddress.AddressLine1",
+  "SearchPartyPostCode" : "IndividualAddress.PostCode",
+  "SearchPartyDOB" : "IndividualDateOfBirth",
+  "SearchPartyDOD" : "IndividualDateOfDeath"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeId" : "FT_GlobalSearch",
+  "SearchPartyCollectionFieldName" : "ListOfPeople",
+  "SearchPartyName" : "IndividualFirstName,IndividualLastName",
+  "SearchPartyEmailAddress" : "IndividualEmail",
+  "SearchPartyAddressLine1" : "IndividualAddress.AddressLine1",
+  "SearchPartyPostCode" : "IndividualAddress.PostCode",
+  "SearchPartyDOB" : "IndividualDateOfBirth",
+  "SearchPartyDOD" : "IndividualDateOfDeath"
 } ]

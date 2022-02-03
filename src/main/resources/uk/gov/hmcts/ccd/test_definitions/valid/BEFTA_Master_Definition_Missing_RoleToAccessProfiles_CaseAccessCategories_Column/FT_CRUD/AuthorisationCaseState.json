@@ -1,0 +1,29 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "CaseStateID" : "state2",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "RUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "CaseStateID" : "state3",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD",
+  "CaseStateID" : "state4",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRD"
+} ]

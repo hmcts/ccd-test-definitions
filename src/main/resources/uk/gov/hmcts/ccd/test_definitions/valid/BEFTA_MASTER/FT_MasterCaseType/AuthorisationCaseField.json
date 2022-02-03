@@ -170,6 +170,20 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
+  "CaseFieldID" : "SearchCriteria",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "04/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseFieldID" : "caseManagementLocation",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "05/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
   "CaseFieldID" : "TextFieldDefaultValue",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"

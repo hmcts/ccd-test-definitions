@@ -470,7 +470,7 @@
   "DisplayContext" : "Optional",
   "PageID" : "SingleFormPage",
   "PageLabel" : "Data Field Types Page",
-  "PageDisplayOrder" : 21,
+  "PageDisplayOrder" : 1,
   "PageColumnNumber" : "",
   "FieldShowCondition" : "",
   "RetainHiddenValue" : "",

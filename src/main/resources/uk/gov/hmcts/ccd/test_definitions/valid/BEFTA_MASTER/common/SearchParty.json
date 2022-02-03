@@ -8,7 +8,7 @@
   "SearchPartyPostCode" : "Name",
   "SearchPartyDOB" : "Name",
   "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : "Name"
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -19,7 +19,7 @@
   "SearchPartyPostCode" : "TextFieldFName",
   "SearchPartyDOB" : "TextFieldFName",
   "SearchPartyDOD" : "",
-  "SearchPartyCollectionFieldName" : "TextFieldFName"
+  "SearchPartyCollectionFieldName" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -185,4 +185,15 @@
   "SearchPartyDOB" : "dateOfBirthText",
   "SearchPartyDOD" : "dateOfDeathText",
   "SearchPartyCollectionFieldName" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeId" : "FT_GlobalSearch",
+  "SearchPartyName" : "FirstName,MiddleName,LastName",
+  "SearchPartyEmailAddress" : "",
+  "SearchPartyAddressLine1" : "",
+  "SearchPartyPostCode" : "",
+  "SearchPartyDOB" : "DateOfBirth",
+  "SearchPartyDOD" : "",
+  "SearchPartyCollectionFieldName" : "myCollection"
 } ]

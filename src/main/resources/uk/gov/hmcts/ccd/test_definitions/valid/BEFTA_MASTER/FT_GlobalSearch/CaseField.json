@@ -250,4 +250,22 @@
   "Searchable" : "",
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "ID" : "myCollection",
+  "Label" : "My Collection",
+  "HintText" : "",
+  "FieldType" : "Collection",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "Person",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
 } ]

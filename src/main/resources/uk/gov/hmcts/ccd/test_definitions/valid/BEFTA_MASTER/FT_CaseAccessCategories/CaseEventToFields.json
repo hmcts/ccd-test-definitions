@@ -1,1 +1,23 @@
-[ ]
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccessCategories",
+  "CaseEventID" : "CREATE",
+  "CaseFieldID" : "TextField",
+  "PageFieldDisplayOrder" : 1,
+  "DisplayContext" : "Optional",
+  "PageID" : "SingleFormPage",
+  "PageLabel" : "Data Field Types Page",
+  "PageDisplayOrder" : 1,
+  "PageColumnNumber" : "",
+  "FieldShowCondition" : "",
+  "RetainHiddenValue" : "",
+  "PageShowCondition" : "",
+  "DisplayContextParameter" : "",
+  "ShowSummaryChangeOption" : "Y",
+  "ShowSummaryContentOption" : "",
+  "CallBackURLMidEvent" : "",
+  "Publish" : "",
+  "PublishAs" : "",
+  "DefaultValue" : "DefaultValue test"
+} ]

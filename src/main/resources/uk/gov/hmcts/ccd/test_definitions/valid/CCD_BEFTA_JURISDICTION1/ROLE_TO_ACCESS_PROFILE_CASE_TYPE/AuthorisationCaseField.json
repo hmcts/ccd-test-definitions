@@ -5,11 +5,4 @@
   "CaseFieldID" : "TextField",
   "UserRole" : "caseworker-caa",
   "CRUD" : "CRU"
-}, {
-  "LiveFrom" : "1/1/19",
-  "LiveTo" : "",
-  "CaseTypeID" : "ROLE_TO_ACCESS_PROFILE_CASE_TYPE",
-  "CaseFieldID" : "TextField",
-  "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CRU"
 } ]

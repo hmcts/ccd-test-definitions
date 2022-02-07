@@ -3,6 +3,6 @@
   "LiveTo" : "",
   "CaseTypeID" : "ROLE_TO_ACCESS_PROFILE_CASE_TYPE",
   "CaseEventID" : "CREATE",
-  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "UserRole" : "caseworker-caa",
   "CRUD" : "CRU"
 } ]

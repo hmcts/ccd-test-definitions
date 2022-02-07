@@ -7,13 +7,4 @@
   "AccessProfiles" : "caseworker-caa",
   "ReadOnly" : "Y",
   "Disabled" : "F"
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "RoleName" : "Role2",
-  "Authorisation" : "",
-  "CaseTypeID" : "ROLE_TO_ACCESS_PROFILE_CASE_TYPE",
-  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
-  "ReadOnly" : "N",
-  "Disabled" : "N"
 } ]

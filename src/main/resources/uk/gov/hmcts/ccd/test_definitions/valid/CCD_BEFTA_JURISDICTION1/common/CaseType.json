@@ -18,4 +18,14 @@
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "PUBLIC"
+}, {
+  "LiveFrom" : "01/01/2019",
+  "LiveTo" : "",
+  "ID" : "ROLE_TO_ACCESS_PROFILE_CASE_TYPE",
+  "Name" : "RTAP_CASE_TYPE",
+  "Description" : "For testing role to access profile case type",
+  "JurisdictionID" : "BEFTA_JURISDICTION_1",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "PUBLIC"
 } ]

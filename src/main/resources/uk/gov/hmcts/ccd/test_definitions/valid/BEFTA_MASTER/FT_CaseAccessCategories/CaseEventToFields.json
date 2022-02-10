@@ -1,13 +1,13 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_Regex",
-  "CaseEventID" : "createCase",
+  "CaseTypeID" : "FT_CaseAccessCategories",
+  "CaseEventID" : "CREATE",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
-  "DisplayContext" : "Mandatory",
+  "DisplayContext" : "Optional",
   "PageID" : "SingleFormPage",
-  "PageLabel" : "Regex Validation Fields Page",
+  "PageLabel" : "Data Field Types Page",
   "PageDisplayOrder" : 1,
   "PageColumnNumber" : "",
   "FieldShowCondition" : "",
@@ -19,5 +19,5 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "DefaultValue test"
 } ]

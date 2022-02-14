@@ -7,4 +7,13 @@
   "Description" : "",
   "DisplayOrder" : 1,
   "TitleDisplay" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccessCategories",
+  "ID" : "CaseUpdate",
+  "Name" : "Update case",
+  "Description" : "",
+  "DisplayOrder" : 1,
+  "TitleDisplay" : ""
 } ]

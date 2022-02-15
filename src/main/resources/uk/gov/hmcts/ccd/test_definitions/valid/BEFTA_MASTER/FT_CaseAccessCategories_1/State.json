@@ -11,7 +11,7 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_CaseAccessCategories_1",
-  "ID" : "CaseUpdate",
+  "ID" : "CaseUpdated",
   "Name" : "Update case",
   "Description" : "",
   "DisplayOrder" : 1,

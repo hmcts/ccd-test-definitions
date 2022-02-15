@@ -23,7 +23,7 @@
   "ID" : "CaseAccessCategory",
   "Label" : "Case Access Category",
   "HintText" : "",
-  "FieldType" : "CaseAccessCategories",
+  "FieldType" : "Text",
   "CategoryID" : "",
   "FieldTypeParameter" : "",
   "RegularExpression" : "",

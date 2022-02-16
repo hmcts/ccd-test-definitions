@@ -85,7 +85,7 @@
   "Authorisation" : "",
   "CaseTypeID" : "FT_CaseAccessCategories",
   "AccessProfiles" : "caseworker-befta_master",
-  "ReadOnly" : "Y",
+  "ReadOnly" : "N",
   "Disabled" : "F",
   "CaseAccessCategories" : "Civil/Standard,Criminal/Serious"
 }, {
@@ -95,7 +95,7 @@
   "Authorisation" : "",
   "CaseTypeID" : "FT_CaseAccessCategories_1",
   "AccessProfiles" : "caseworker-befta_master",
-  "ReadOnly" : "Y",
+  "ReadOnly" : "N",
   "Disabled" : "F",
   "CaseAccessCategories" : ""
 }, {
@@ -105,7 +105,7 @@
   "Authorisation" : "",
   "CaseTypeID" : "FT_CaseAccessCategories_2",
   "AccessProfiles" : "caseworker-befta_master",
-  "ReadOnly" : "Y",
+  "ReadOnly" : "N",
   "Disabled" : "F",
   "CaseAccessCategories" : "Civil/Standard,Criminal/Serious"
 }, {
@@ -115,7 +115,7 @@
   "Authorisation" : "",
   "CaseTypeID" : "FT_CaseAccessCategories_2",
   "AccessProfiles" : "caseworker-befta_master",
-  "ReadOnly" : "Y",
+  "ReadOnly" : "N",
   "Disabled" : "F",
   "CaseAccessCategories" : ""
 } ]

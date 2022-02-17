@@ -97,6 +97,20 @@
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "GroupOfPeople",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "ListOfPeople",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
@@ -192,6 +206,13 @@
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
   "CaseFieldID" : "OtherName",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "ListOfPeople",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {

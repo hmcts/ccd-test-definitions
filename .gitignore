@@ -30,3 +30,6 @@ nbdist/
 .gradle/
 out/
 /definition_files/
+
+### MacOS
+.DS_Store

@@ -249,7 +249,7 @@
   "CaseTypeID" : "FT_GlobalSearch",
   "CaseFieldID" : "Email",
   "UserRole" : "caseworker-caa",
-  "CRUD" : "CUD"
+  "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -284,14 +284,14 @@
   "CaseTypeID" : "FT_GlobalSearch",
   "CaseFieldID" : "caseNameHmctsInternal",
   "UserRole" : "caseworker-caa",
-  "CRUD" : "CUD"
+  "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "04/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
   "CaseFieldID" : "caseManagementLocation",
   "UserRole" : "caseworker-caa",
-  "CRUD" : "CRUD"
+  "CRUD" : "CUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",

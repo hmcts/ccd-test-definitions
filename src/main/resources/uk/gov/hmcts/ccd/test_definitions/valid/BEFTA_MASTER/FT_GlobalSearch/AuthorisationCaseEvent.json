@@ -38,6 +38,6 @@
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
   "CaseEventID" : "CREATE",
-  "UserRole" : "caseworker-caa",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CRUD"
 } ]

@@ -44,14 +44,14 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
-  "CaseFieldID" : "DateOfBirth",
+  "CaseFieldID" : "dateOfBirth",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
-  "CaseFieldID" : "DateOfDeath",
+  "CaseFieldID" : "dateOfDeath",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
@@ -73,6 +73,41 @@
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
   "CaseFieldID" : "caseManagementLocation",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "dateOfBirthText",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "dateOfDeathText",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "OtherName",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "GroupOfPeople",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "ListOfPeople",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
@@ -121,14 +156,14 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
-  "CaseFieldID" : "DateOfBirth",
+  "CaseFieldID" : "dateOfBirth",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_GlobalSearch",
-  "CaseFieldID" : "DateOfDeath",
+  "CaseFieldID" : "dateOfDeath",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
@@ -151,5 +186,131 @@
   "CaseTypeID" : "FT_GlobalSearch",
   "CaseFieldID" : "caseManagementLocation",
   "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "dateOfBirthText",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "dateOfDeathText",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "OtherName",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "ListOfPeople",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "SearchCriteria",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "FirstName",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "LastName",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "Address",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "Email",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "PostCode",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "dateOfBirth",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "dateOfDeath",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "caseManagementCategory",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "03/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "caseNameHmctsInternal",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "04/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "caseManagementLocation",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "dateOfBirthText",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "dateOfDeathText",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "OtherName",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CRUD"
 } ]

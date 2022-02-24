@@ -12,4 +12,18 @@
   "SecurityClassification" : "Restricted",
   "Min" : "",
   "Max" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Restricted",
+  "ID" : "SearchCriteria",
+  "Label" : "SearchCriteria",
+  "HintText" : "",
+  "FieldType" : "SearchCriteria",
+  "FieldTypeParameter" : "",
+  "DefaultHidden" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Restricted",
+  "Min" : "",
+  "Max" : ""
 } ]

@@ -88,4 +88,44 @@
   "ReadOnly" : "Y",
   "Disabled" : "F",
   "CaseAccessCategories" : "TestValue"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master-junior",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_master-junior",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master-manager",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_master-manager",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-caa",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-caa",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
 } ]

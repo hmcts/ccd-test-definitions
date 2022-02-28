@@ -6,7 +6,8 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessProfiles" : "caseworker-befta_master",
   "ReadOnly" : "Y",
-  "Disabled" : "F"
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -15,7 +16,8 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessProfiles" : "caseworker-befta_master",
   "ReadOnly" : "N",
-  "Disabled" : "No"
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -24,7 +26,8 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessProfiles" : "caseworker-befta_master,caseworker-befta_master-junior",
   "ReadOnly" : "YES",
-  "Disabled" : "False"
+  "Disabled" : "False",
+  "CaseAccessCategories" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -33,7 +36,8 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessProfiles" : "caseworker-befta_master,caseworker-befta_master-junior,caseworker-befta_master-manager",
   "ReadOnly" : "false",
-  "Disabled" : "Y"
+  "Disabled" : "Y",
+  "CaseAccessCategories" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -42,7 +46,8 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessProfiles" : "[Claimant]",
   "ReadOnly" : "N",
-  "Disabled" : "No"
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -51,7 +56,8 @@
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessProfiles" : "[Defendant]",
   "ReadOnly" : "N",
-  "Disabled" : "No"
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -60,7 +66,8 @@
   "CaseTypeID" : "FT_NoCAutoApprovalCaseType",
   "AccessProfiles" : "caseworker-befta_master,caseworker-befta_master-solicitor",
   "ReadOnly" : "N",
-  "Disabled" : "No"
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -69,5 +76,56 @@
   "CaseTypeID" : "FT_NoCAutoApprovalCaseType",
   "AccessProfiles" : "caseworker-approver",
   "ReadOnly" : "No",
-  "Disabled" : "Yes"
+  "Disabled" : "Yes",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "auth1",
+  "CaseTypeID" : "FT_CaseAccessCategories",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "Y",
+  "Disabled" : "F",
+  "CaseAccessCategories" : "TestValue"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master-junior",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_master-junior",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master-manager",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_master-manager",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-caa",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-caa",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
 } ]

@@ -87,7 +87,7 @@
   "AccessProfiles" : "caseworker-befta_master",
   "ReadOnly" : "N",
   "Disabled" : "F",
-  "CaseAccessCategories" : "TestValue"
+  "CaseAccessCategories" : "Civil/Standard,Criminal/Serious"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -137,5 +137,65 @@
   "AccessProfiles" : "caseworker-befta_master",
   "ReadOnly" : "N",
   "Disabled" : "F",
+  "CaseAccessCategories" : "Civil/Standard,Criminal/Serious"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessCategories_1",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
   "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessCategories_1",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessCategories_2",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessCategories_2",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : "Civil/Standard,Criminal/Serious"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessCategories_2",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessCategories_2",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : "Civil/Standard,Criminal/Serious"
 } ]

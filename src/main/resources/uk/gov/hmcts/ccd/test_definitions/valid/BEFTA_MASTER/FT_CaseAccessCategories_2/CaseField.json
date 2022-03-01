@@ -20,7 +20,7 @@
   "LiveFrom" : "04/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_CaseAccessCategories_2",
-  "ID" : "CaseAccessCategoryId",
+  "ID" : "CaseAccessCategory",
   "Label" : "Text Field",
   "HintText" : "",
   "FieldType" : "Text",

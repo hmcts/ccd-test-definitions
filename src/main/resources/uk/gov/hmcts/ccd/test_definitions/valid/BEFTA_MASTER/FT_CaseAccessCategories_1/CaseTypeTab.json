@@ -19,7 +19,7 @@
   "TabID" : "Data",
   "TabLabel" : "Data",
   "TabDisplayOrder" : 1,
-  "CaseFieldID" : "CaseAccessCategoryId",
+  "CaseFieldID" : "CaseAccessCategory",
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",

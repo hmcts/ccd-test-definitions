@@ -108,7 +108,7 @@ Below are the environment needed specifically for CCD domain.
    ```
    of your test automation project.  
    Test automation teams can write their simple, tiny custom Main classes to customise 
-   the the test suite launching logic.
+   the test suite launching logic.
 
 
 ### 3.8) Observe Cucumber Report
@@ -168,7 +168,7 @@ corresponding JSON files, by executing the `DefinitionConverter` class provided 
 * **Running `DefinitionConverter` against all XLSX files**
 
   The `definitionsToJson` gradle task will run the `DefinitionConverter` against each of the XLSX files in the directory
-  `src/main/resources/uk/gov/hmcts/befta/dse/ccd/definitions/excel`.  This will relace the corresponding output in the folowing
+  `src/main/resources/uk/gov/hmcts/befta/dse/ccd/definitions/excel`.  This will replace the corresponding output in the following
   directory: `src/main/resources/uk/gov/hmcts/befta/dse/ccd/definitions`.
 
   ```bash

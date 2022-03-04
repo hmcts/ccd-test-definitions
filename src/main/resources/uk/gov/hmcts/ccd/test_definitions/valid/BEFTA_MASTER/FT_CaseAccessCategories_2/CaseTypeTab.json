@@ -1,7 +1,7 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessCategories",
+  "CaseTypeID" : "FT_CaseAccessCategories_2",
   "Channel" : "notApplicable",
   "TabID" : "Data",
   "TabLabel" : "Data",
@@ -14,7 +14,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessCategories",
+  "CaseTypeID" : "FT_CaseAccessCategories_2",
   "Channel" : "notApplicable",
   "TabID" : "Data",
   "TabLabel" : "Data",

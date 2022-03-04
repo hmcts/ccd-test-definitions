@@ -81,16 +81,6 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "RoleName" : "Role1",
-  "Authorisation" : "auth1",
-  "CaseTypeID" : "FT_CaseAccessCategories",
-  "AccessProfiles" : "caseworker-befta_master",
-  "ReadOnly" : "N",
-  "Disabled" : "F",
-  "CaseAccessCategories" : "Civil/Standard,Criminal/Serious"
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
   "RoleName" : "idam:caseworker-befta_master",
   "Authorisation" : "",
   "CaseTypeID" : "FT_MasterCaseType",
@@ -128,6 +118,26 @@
   "ReadOnly" : "N",
   "Disabled" : "F",
   "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "auth1",
+  "CaseTypeID" : "FT_CaseAccessCategories",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "Y",
+  "Disabled" : "F",
+  "CaseAccessCategories" : "TestValue"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "auth1",
+  "CaseTypeID" : "FT_CaseAccessCategories",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : "Civil/Standard,Criminal/Serious"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",

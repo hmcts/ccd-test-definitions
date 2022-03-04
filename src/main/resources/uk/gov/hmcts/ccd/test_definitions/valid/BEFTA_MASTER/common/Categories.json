@@ -42,6 +42,14 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "01/01/2017",
   "CaseTypeId" : "FT_MasterCaseType",
+  "CategoryID" : "#divorceState",
+  "CategoryLabel" : "Divorce Sttate",
+  "DisplayOrder" : 113,
+  "ParentCategoryID" : "divorceDocs"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_MasterCaseType",
   "CategoryID" : "translatedDivorceDocs",
   "CategoryLabel" : "translatedDivorceDocs",
   "DisplayOrder" : 110,
@@ -61,5 +69,13 @@
   "CategoryID" : "translatedDivorceDocs",
   "CategoryLabel" : "te te te te ",
   "DisplayOrder" : 130,
+  "ParentCategoryID" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView",
+  "CategoryID" : "evidenceDocs",
+  "CategoryLabel" : "Evidence Documents",
+  "DisplayOrder" : 131,
   "ParentCategoryID" : ""
 } ]

@@ -21,7 +21,7 @@
   "CanSaveDraft" : "",
   "EndButtonLabel" : "",
   "Publish" : "Y",
-  "TTLIncrement" : "1"
+  "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",

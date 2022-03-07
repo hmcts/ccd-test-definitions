@@ -4,4 +4,16 @@
   "CaseTypeID" : "SC_Private",
   "UserRole" : "caseworker-autotest1",
   "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Private",
+  "UserRole" : "caseworker-autotest1-private",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "SC_Private",
+  "UserRole" : "caseworker-autotest1-senior",
+  "CRUD" : "CRUD"
 } ]

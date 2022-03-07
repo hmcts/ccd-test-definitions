@@ -258,4 +258,34 @@
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CRUD_6",
+  "Name" : "FT- CRUD-6",
+  "Description" : "Case Type with Injected Data",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_GlobalSearch",
+  "Name" : "FT_GlobalSearch",
+  "Description" : "Case Type for testing GlobalSearch",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CaseAccessCategories",
+  "Name" : "FT_CaseAccessCategories",
+  "Description" : "Case Type for testing CaseAccessCategories",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
 } ]

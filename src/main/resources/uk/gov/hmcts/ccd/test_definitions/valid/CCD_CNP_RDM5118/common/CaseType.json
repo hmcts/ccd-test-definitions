@@ -7,7 +7,9 @@
   "JurisdictionID" : "AUTOTEST1",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "PUBLIC"
+  "SecurityClassification" : "PUBLIC",
+  "CallbackGetCaseUrl" : "${TEST_STUB_SERVICE_BASE_URL:http://ccd-test-stubs-service-aat.service.core-compute-aat.internal}/case_type/fe-functional-test/callback_get_case",
+  "RetriesGetCaseUrl" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -17,7 +19,9 @@
   "JurisdictionID" : "AUTOTEST1",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "PUBLIC"
+  "SecurityClassification" : "PUBLIC",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -27,7 +31,9 @@
   "JurisdictionID" : "AUTOTEST1",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "PUBLIC"
+  "SecurityClassification" : "PUBLIC",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -37,7 +43,9 @@
   "JurisdictionID" : "AUTOTEST1",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "PUBLIC"
+  "SecurityClassification" : "PUBLIC",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -47,7 +55,9 @@
   "JurisdictionID" : "AUTOTEST1",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "PUBLIC"
+  "SecurityClassification" : "PUBLIC",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -57,7 +67,9 @@
   "JurisdictionID" : "AUTOTEST1",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "PUBLIC"
+  "SecurityClassification" : "PUBLIC",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -67,7 +79,9 @@
   "JurisdictionID" : "AUTOTEST1",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "PUBLIC"
+  "SecurityClassification" : "PUBLIC",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -77,5 +91,7 @@
   "JurisdictionID" : "AUTOTEST1",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "PUBLIC"
+  "SecurityClassification" : "PUBLIC",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 } ]

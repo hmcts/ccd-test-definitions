@@ -13,5 +13,7 @@
   "Min" : "",
   "Max" : "",
   "DefaultHidden" : "No",
-  "Searchable" : ""
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
 } ]

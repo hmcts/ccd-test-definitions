@@ -1,0 +1,29 @@
+[ {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView",
+  "CaseFieldID" : "DocumentField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "03/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView",
+  "CaseFieldID" : "CollectionDocumentField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "04/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView",
+  "CaseFieldID" : "DocumentFieldNoCategory",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "05/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView",
+  "CaseFieldID" : "CollectionDocumentFieldNoCategory",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+} ]

@@ -149,6 +149,13 @@
   "LiveFrom" : "08/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "updateCaseCitizen",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateMidEventModifiedOverrideTTL",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
@@ -157,6 +164,20 @@
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateMidEventModifiedOverrideTTL",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "createCaseCaseLinks",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "createCaseCaseLinks",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {

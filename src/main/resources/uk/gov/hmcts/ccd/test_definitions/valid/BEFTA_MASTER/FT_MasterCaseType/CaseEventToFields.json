@@ -658,4 +658,26 @@
   "Publish" : "",
   "PublishAs" : "",
   "DefaultValue" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseEventID" : "createCaseCaseLinks",
+  "CaseFieldID" : "CaseLinkField",
+  "PageFieldDisplayOrder" : 1,
+  "DisplayContext" : "Optional",
+  "PageID" : "SingleFormPage",
+  "PageLabel" : "Data Field Types Page",
+  "PageDisplayOrder" : "",
+  "PageColumnNumber" : "",
+  "FieldShowCondition" : "",
+  "RetainHiddenValue" : "",
+  "PageShowCondition" : "",
+  "DisplayContextParameter" : "",
+  "ShowSummaryChangeOption" : "Y",
+  "ShowSummaryContentOption" : "",
+  "CallBackURLMidEvent" : "",
+  "Publish" : "",
+  "PublishAs" : "",
+  "DefaultValue" : ""
 } ]

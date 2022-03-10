@@ -70,4 +70,22 @@
   "Searchable" : "",
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView",
+  "ID" : "CategorisedDocumentComplexType",
+  "Label" : "Categorised Document",
+  "HintText" : "",
+  "FieldType" : "CategorisedDocument",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
 } ]

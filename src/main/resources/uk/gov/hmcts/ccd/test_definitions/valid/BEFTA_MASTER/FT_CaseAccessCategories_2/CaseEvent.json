@@ -1,7 +1,7 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessCategories",
+  "CaseTypeID" : "FT_CaseAccessCategories_2",
   "ID" : "CREATE",
   "Name" : "Create a case",
   "Description" : "Create a case",
@@ -24,7 +24,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessCategories",
+  "CaseTypeID" : "FT_CaseAccessCategories_2",
   "ID" : "UPDATE",
   "Name" : "Update a case",
   "Description" : "Update a case",

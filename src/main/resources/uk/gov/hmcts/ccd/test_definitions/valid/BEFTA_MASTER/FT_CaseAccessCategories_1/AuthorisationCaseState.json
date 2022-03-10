@@ -1,15 +1,15 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessCategories",
-  "CaseEventID" : "CREATE",
+  "CaseTypeID" : "FT_CaseAccessCategories_1",
+  "CaseStateID" : "CaseCreated",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessCategories",
-  "CaseEventID" : "UPDATE",
+  "CaseTypeID" : "FT_CaseAccessCategories_1",
+  "CaseStateID" : "CaseUpdated",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 } ]

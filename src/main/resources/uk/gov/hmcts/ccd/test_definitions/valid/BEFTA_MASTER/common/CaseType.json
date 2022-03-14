@@ -289,11 +289,21 @@
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "Public"
 }, {
-  "LiveFrom" : "03/01/2017",
+  "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
-  "ID" : "FT_CaseFileView",
-  "Name" : "FT_CaseFileView",
-  "Description" : "Case Type for testing CaseFileViews",
+  "ID" : "FT_CaseAccessCategories_1",
+  "Name" : "FT_CaseAccessCategories_1",
+  "Description" : "Case Type for testing CaseAccessCategories",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CaseAccessCategories_2",
+  "Name" : "FT_CaseAccessCategories_2",
+  "Description" : "Case Type for testing CaseAccessCategories",
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",

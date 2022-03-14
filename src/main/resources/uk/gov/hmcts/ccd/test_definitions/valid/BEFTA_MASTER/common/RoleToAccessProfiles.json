@@ -121,6 +121,16 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
+  "RoleName" : "idam:citizen",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "citizen",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
   "RoleName" : "Role1",
   "Authorisation" : "auth1",
   "CaseTypeID" : "FT_CaseAccessCategories",

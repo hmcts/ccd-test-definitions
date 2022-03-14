@@ -44,5 +44,6 @@
   "ShowEventNotes" : "",
   "CanSaveDraft" : "N",
   "EndButtonLabel" : "",
-  "Publish" : ""
+  "Publish" : "",
+  "TTLIncrement" : ""
 } ]

@@ -508,7 +508,7 @@
   "ID" : "Child",
   "ListElementCode" : "BirthCertificate",
   "FieldType" : "Document",
-  "CategoryID" : "divorceDocuments",
+  "CategoryID" : "divorceDocs",
   "FieldTypeParameter" : "",
   "ElementLabel" : "Child Birth Certificate",
   "FieldShowCondition" : "",

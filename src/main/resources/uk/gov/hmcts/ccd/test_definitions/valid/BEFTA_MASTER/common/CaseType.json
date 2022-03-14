@@ -308,4 +308,14 @@
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "03/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CaseFileView",
+  "Name" : "FT_CaseFileView",
+  "Description" : "Case Type for testing CaseFileViews",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
 } ]

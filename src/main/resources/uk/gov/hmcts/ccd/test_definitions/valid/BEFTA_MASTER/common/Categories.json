@@ -43,7 +43,7 @@
   "LiveTo" : "01/01/2017",
   "CaseTypeId" : "FT_MasterCaseType",
   "CategoryID" : "#divorceState",
-  "CategoryLabel" : "Divorce Sttate",
+  "CategoryLabel" : "Divorce State",
   "DisplayOrder" : 113,
   "ParentCategoryID" : "divorceDocs"
 }, {

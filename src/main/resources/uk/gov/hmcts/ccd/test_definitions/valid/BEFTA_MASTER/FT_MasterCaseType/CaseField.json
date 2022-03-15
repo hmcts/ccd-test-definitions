@@ -448,4 +448,22 @@
   "Searchable" : "",
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
+}, {
+  "LiveFrom" : "04/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "ID" : "LinkReasonField",
+  "Label" : "LlinkReasonField",
+  "HintText" : "",
+  "FieldType" : "LinkReason",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
 } ]

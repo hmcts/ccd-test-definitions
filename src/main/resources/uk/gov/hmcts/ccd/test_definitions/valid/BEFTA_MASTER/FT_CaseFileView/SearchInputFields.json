@@ -1,0 +1,37 @@
+[ {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView",
+  "CaseFieldID" : "DocumentField",
+  "ListElementCode" : "",
+  "Label" : "Document Field",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "03/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView",
+  "CaseFieldID" : "CollectionDocumentField",
+  "ListElementCode" : "",
+  "Label" : "Collection Document Field",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "04/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView",
+  "CaseFieldID" : "DocumentFieldNoCategory",
+  "ListElementCode" : "",
+  "Label" : "Document Field No Category",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "05/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView",
+  "CaseFieldID" : "CollectionDocumentFieldNoCategory",
+  "ListElementCode" : "",
+  "Label" : "Collection Document Field No Category",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+} ]

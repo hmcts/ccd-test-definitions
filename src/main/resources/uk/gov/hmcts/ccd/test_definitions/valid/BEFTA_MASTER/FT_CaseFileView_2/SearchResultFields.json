@@ -1,0 +1,11 @@
+[ {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_2",
+  "CaseFieldID" : "nationalityProof",
+  "Label" : "Nationality Proof",
+  "ListElementCode" : "",
+  "DisplayOrder" : 1,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+} ]

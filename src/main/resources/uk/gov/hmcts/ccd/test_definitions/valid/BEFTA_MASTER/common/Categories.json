@@ -42,6 +42,14 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "01/01/2017",
   "CaseTypeId" : "FT_MasterCaseType",
+  "CategoryID" : "#divorceState",
+  "CategoryLabel" : "Divorce State",
+  "DisplayOrder" : 113,
+  "ParentCategoryID" : "divorceDocs"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_MasterCaseType",
   "CategoryID" : "translatedDivorceDocs",
   "CategoryLabel" : "translatedDivorceDocs",
   "DisplayOrder" : 110,
@@ -62,4 +70,76 @@
   "CategoryLabel" : "te te te te ",
   "DisplayOrder" : 130,
   "ParentCategoryID" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView",
+  "CategoryID" : "evidenceDocs",
+  "CategoryLabel" : "Evidence Documents",
+  "DisplayOrder" : 131,
+  "ParentCategoryID" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView_1",
+  "CategoryID" : "CategoryID1",
+  "CategoryLabel" : "Evidences",
+  "DisplayOrder" : 100,
+  "ParentCategoryID" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView_1",
+  "CategoryID" : "CategoryID2",
+  "CategoryLabel" : "Supporting",
+  "DisplayOrder" : 110,
+  "ParentCategoryID" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView_1",
+  "CategoryID" : "CategoryID3",
+  "CategoryLabel" : "Party Documents",
+  "DisplayOrder" : 120,
+  "ParentCategoryID" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView_1",
+  "CategoryID" : "SubCategoryID1",
+  "CategoryLabel" : "Proof Documents",
+  "DisplayOrder" : 100,
+  "ParentCategoryID" : "CategoryID3"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView_2",
+  "CategoryID" : "CategoryID1",
+  "CategoryLabel" : "Evidences",
+  "DisplayOrder" : 100,
+  "ParentCategoryID" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView_2",
+  "CategoryID" : "CategoryID2",
+  "CategoryLabel" : "Supporting",
+  "DisplayOrder" : 110,
+  "ParentCategoryID" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView_2",
+  "CategoryID" : "CategoryID3",
+  "CategoryLabel" : "Party Documents",
+  "DisplayOrder" : 120,
+  "ParentCategoryID" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeId" : "FT_CaseFileView_2",
+  "CategoryID" : "SubCategoryID1",
+  "CategoryLabel" : "Proof Documents",
+  "DisplayOrder" : 100,
+  "ParentCategoryID" : "CategoryID3"
 } ]

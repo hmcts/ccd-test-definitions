@@ -449,6 +449,24 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "ID" : "caseLinks",
+  "Label" : "Standard case links field",
+  "HintText" : "",
+  "FieldType" : "Collection",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "CaseLink",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
+}, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",

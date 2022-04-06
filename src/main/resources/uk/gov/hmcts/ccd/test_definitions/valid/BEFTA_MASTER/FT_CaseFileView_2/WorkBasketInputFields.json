@@ -2,9 +2,9 @@
   "LiveFrom" : "09/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_CaseFileView_2",
-  "CaseFieldID" : "nationalityProof",
+  "CaseFieldID" : "Document4",
   "ListElementCode" : "",
-  "Label" : "Nationality Proof",
+  "Label" : "Document4",
   "DisplayOrder" : 1,
   "DisplayContextParameter" : ""
 } ]

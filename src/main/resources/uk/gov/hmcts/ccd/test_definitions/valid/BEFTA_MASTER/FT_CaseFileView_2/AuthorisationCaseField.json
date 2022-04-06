@@ -1,57 +1,15 @@
 [ {
-  "LiveFrom" : "06/01/2017",
+  "LiveFrom" : "10/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_CaseFileView_2",
-  "CaseFieldID" : "evidenceDocuments",
+  "CaseFieldID" : "Document4",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "07/01/2017",
+  "LiveFrom" : "10/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_CaseFileView_2",
-  "CaseFieldID" : "applicationDocuments",
-  "UserRole" : "caseworker-befta_master",
-  "CRUD" : "CRUD"
-}, {
-  "LiveFrom" : "08/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseFileView_2",
-  "CaseFieldID" : "miscellaneousDocuments",
-  "UserRole" : "caseworker-befta_master",
-  "CRUD" : "CRUD"
-}, {
-  "LiveFrom" : "09/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseFileView_2",
-  "CaseFieldID" : "nationalityProof",
-  "UserRole" : "caseworker-befta_master",
-  "CRUD" : "CRUD"
-}, {
-  "LiveFrom" : "06/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseFileView_2",
-  "CaseFieldID" : "evidenceDocuments",
-  "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CUD"
-}, {
-  "LiveFrom" : "07/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseFileView_2",
-  "CaseFieldID" : "applicationDocuments",
-  "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CUD"
-}, {
-  "LiveFrom" : "08/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseFileView_2",
-  "CaseFieldID" : "miscellaneousDocuments",
-  "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CUD"
-}, {
-  "LiveFrom" : "09/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseFileView_2",
-  "CaseFieldID" : "nationalityProof",
+  "CaseFieldID" : "Document4",
   "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CUD"
 } ]

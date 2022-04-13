@@ -1,0 +1,15 @@
+[ {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+} ]

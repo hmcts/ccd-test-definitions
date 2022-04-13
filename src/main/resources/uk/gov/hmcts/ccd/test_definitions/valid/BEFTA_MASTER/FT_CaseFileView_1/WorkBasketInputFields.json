@@ -1,0 +1,37 @@
+[ {
+  "LiveFrom" : "06/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "Document1",
+  "ListElementCode" : "",
+  "Label" : "Water Bill",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "07/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "Document2",
+  "ListElementCode" : "",
+  "Label" : "Bank Statement",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "Document3",
+  "ListElementCode" : "",
+  "Label" : "News Article",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "09/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "nationalityProof",
+  "ListElementCode" : "",
+  "Label" : "Nationality Proof",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+} ]

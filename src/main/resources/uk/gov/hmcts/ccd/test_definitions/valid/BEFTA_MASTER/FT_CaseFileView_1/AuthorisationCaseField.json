@@ -1,0 +1,113 @@
+[ {
+  "LiveFrom" : "06/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "Document1",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "07/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "Document2",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "Document3",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "09/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "nationalityProof",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "10/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "ApplicantName",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "06/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "evidenceDocuments",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "07/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "applicationDocuments",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "miscellaneousDocuments",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "11/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "Document1",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "12/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "Document2",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRD"
+}, {
+  "LiveFrom" : "13/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "Document3",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "14/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "nationalityProof",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "15/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "ApplicantName",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "06/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "evidenceDocuments",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "07/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "applicationDocuments",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseFileView_1",
+  "CaseFieldID" : "miscellaneousDocuments",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CUD"
+} ]

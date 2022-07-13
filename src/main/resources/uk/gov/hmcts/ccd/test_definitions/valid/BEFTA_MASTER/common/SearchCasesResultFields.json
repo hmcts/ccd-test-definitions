@@ -46,4 +46,16 @@
   "ResultsOrdering" : "1:ASC",
   "DisplayContextParameter" : "",
   "UseCase" : "orgcases"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "1/1/17",
+  "CaseTypeID" : "FT_TTL",
+  "AccessProfile" : "",
+  "CaseFieldID" : "TextField",
+  "ListElementCode" : "",
+  "Label" : "`Text` orgcases",
+  "DisplayOrder" : 1,
+  "ResultsOrdering" : "1:ASC",
+  "DisplayContextParameter" : "",
+  "UseCase" : "orgcases"
 } ]

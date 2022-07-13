@@ -1,0 +1,13 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_TTL",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_TTL",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+} ]

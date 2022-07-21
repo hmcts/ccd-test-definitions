@@ -1,0 +1,25 @@
+[ {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_TTL",
+  "CaseFieldID" : "TTL",
+  "ListElementCode" : "SystemTTL",
+  "UserRole" : "caseworker-befta_master-solicitor",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_TTL",
+  "CaseFieldID" : "TTL",
+  "ListElementCode" : "OverrideTTL",
+  "UserRole" : "caseworker-befta_master-solicitor",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_TTL",
+  "CaseFieldID" : "TTL",
+  "ListElementCode" : "Suspended",
+  "UserRole" : "caseworker-befta_master-solicitor",
+  "CRUD" : "CRUD"
+} ]

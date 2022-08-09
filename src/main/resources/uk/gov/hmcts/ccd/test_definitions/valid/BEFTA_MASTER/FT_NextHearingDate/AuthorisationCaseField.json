@@ -1,0 +1,8 @@
+[ {
+  "LiveFrom" : "10/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NextHearingDate",
+  "CaseFieldID" : "NextHearingDetails",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+} ]

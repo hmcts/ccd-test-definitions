@@ -1,0 +1,14 @@
+[ {
+  "LiveFrom" : "08/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NextHearingDate",
+  "Channel" : "notApplicable",
+  "TabID" : "Data",
+  "TabLabel" : "Data",
+  "TabDisplayOrder" : 1,
+  "CaseFieldID" : "NextHearingDetails",
+  "TabFieldDisplayOrder" : 1,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
+} ]

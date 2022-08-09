@@ -348,4 +348,14 @@
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "Public"
+}, {
+  "LiveFrom" : "03/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_NextHearingDate",
+  "Name" : "FT_NextHearingDate",
+  "Description" : "Case Type for testing CCD Next hearing Date Updater service",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public"
 } ]

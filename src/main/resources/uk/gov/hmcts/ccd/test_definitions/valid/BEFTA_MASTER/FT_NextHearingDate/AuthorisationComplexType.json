@@ -1,0 +1,17 @@
+[ {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NextHearingDate",
+  "CaseFieldID" : "NextHearingDetails",
+  "ListElementCode" : "HearingId",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NextHearingDate",
+  "CaseFieldID" : "NextHearingDetails",
+  "ListElementCode" : "HearingDate",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+} ]

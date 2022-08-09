@@ -1,0 +1,19 @@
+[ {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NextHearingDate",
+  "ID" : "NextHearingDetails",
+  "Label" : "NextHearingDetails",
+  "HintText" : "",
+  "FieldType" : "NextHearingDetails",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
+} ]

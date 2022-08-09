@@ -1,0 +1,11 @@
+[ {
+  "LiveFrom" : "09/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_EventEnablingCondition",
+  "CaseFieldID" : "TextField",
+  "Label" : "Text Field",
+  "ListElementCode" : "",
+  "DisplayOrder" : 1,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+} ]

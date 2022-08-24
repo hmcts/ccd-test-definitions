@@ -3,6 +3,6 @@
   "LiveTo" : "",
   "CaseTypeID" : "NoCases",
   "CaseStateID" : "CaseCreated",
-  "UserRole" : "caseworker-autotest1",
+  "AccessProfile" : "caseworker-autotest1",
   "CRUD" : "CRUD"
 } ]

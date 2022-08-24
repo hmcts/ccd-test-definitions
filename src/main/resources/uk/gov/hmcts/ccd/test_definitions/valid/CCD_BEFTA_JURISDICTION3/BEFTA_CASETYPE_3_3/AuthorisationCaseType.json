@@ -2,6 +2,6 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_3_3",
-  "UserRole" : "caseworker-befta_jurisdiction_3-solicitor",
+  "AccessProfile" : "caseworker-befta_jurisdiction_3-solicitor",
   "CRUD" : "CRUD"
 } ]

@@ -2,6 +2,6 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "NoCases",
-  "UserRole" : "caseworker-autotest1",
+  "AccessProfile" : "caseworker-autotest1",
   "CRUD" : "CRUD"
 } ]

@@ -4,7 +4,7 @@
   "CaseTypeID" : "AAT_AUTH_6",
   "CaseFieldID" : "ComplexField",
   "ListElementCode" : "ComplexTextField",
-  "UserRole" : "caseworker-autotest1",
+  "AccessProfile" : "caseworker-autotest1",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "1/1/17",
@@ -12,7 +12,7 @@
   "CaseTypeID" : "AAT_AUTH_6",
   "CaseFieldID" : "ComplexField",
   "ListElementCode" : "ComplexFixedListField",
-  "UserRole" : "caseworker-autotest1",
+  "AccessProfile" : "caseworker-autotest1",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "1/1/17",
@@ -20,7 +20,7 @@
   "CaseTypeID" : "AAT_AUTH_6",
   "CaseFieldID" : "ComplexField",
   "ListElementCode" : "ComplexNestedField",
-  "UserRole" : "caseworker-autotest1",
+  "AccessProfile" : "caseworker-autotest1",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "1/1/17",
@@ -28,7 +28,7 @@
   "CaseTypeID" : "AAT_AUTH_6",
   "CaseFieldID" : "ComplexField",
   "ListElementCode" : "ComplexTextField",
-  "UserRole" : "caseworker-autotest1-private",
+  "AccessProfile" : "caseworker-autotest1-private",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "1/1/17",
@@ -36,7 +36,7 @@
   "CaseTypeID" : "AAT_AUTH_6",
   "CaseFieldID" : "ComplexField",
   "ListElementCode" : "ComplexFixedListField",
-  "UserRole" : "caseworker-autotest1-private",
+  "AccessProfile" : "caseworker-autotest1-private",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "1/1/17",
@@ -44,6 +44,6 @@
   "CaseTypeID" : "AAT_AUTH_6",
   "CaseFieldID" : "ComplexField",
   "ListElementCode" : "ComplexNestedField",
-  "UserRole" : "caseworker-autotest1-private",
+  "AccessProfile" : "caseworker-autotest1-private",
   "CRUD" : "CRUD"
 } ]

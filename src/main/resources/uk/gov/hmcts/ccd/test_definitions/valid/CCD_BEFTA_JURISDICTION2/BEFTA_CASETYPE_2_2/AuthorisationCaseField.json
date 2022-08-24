@@ -3,111 +3,111 @@
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "TextField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "NumberField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "YesOrNoField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "PhoneUKField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "EmailField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "MoneyGBPField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "DateField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "DateTimeField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "TextAreaField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "FixedListField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "MultiSelectListField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "AddressUKField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "CollectionField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "ComplexField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "FixedRadioListField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_2_2",
   "CaseFieldID" : "HistoryComponentField",
-  "UserRole" : "citizen",
+  "AccessProfile" : "citizen",
   "CRUD" : "CRU"
 } ]

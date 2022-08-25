@@ -2,9 +2,9 @@
   "LiveFrom" : "09/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NextHearingDate",
-  "CaseFieldID" : "NextHearingDetails",
+  "CaseFieldID" : "nextHearingDetails",
   "ListElementCode" : "",
-  "Label" : "NextHearingDetails",
+  "Label" : "Next Hearing Details",
   "DisplayOrder" : 1,
   "DisplayContextParameter" : ""
 } ]

@@ -6,7 +6,7 @@
   "TabID" : "Data",
   "TabLabel" : "Data",
   "TabDisplayOrder" : 1,
-  "CaseFieldID" : "NextHearingDetails",
+  "CaseFieldID" : "nextHearingDetails",
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",

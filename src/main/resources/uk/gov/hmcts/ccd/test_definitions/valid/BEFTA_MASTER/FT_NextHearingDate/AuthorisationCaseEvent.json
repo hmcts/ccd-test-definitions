@@ -9,14 +9,21 @@
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NextHearingDate",
-  "CaseEventID" : "event1",
+  "CaseEventID" : "UpdateNextHearingInfo",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NextHearingDate",
-  "CaseEventID" : "event2",
+  "CaseEventID" : "NextHearingDateIsInPast",
   "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "02/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NextHearingDate",
+  "CaseEventID" : "UpdateNextHearingInfo",
+  "UserRole" : "next-hearing-date-admin",
   "CRUD" : "CRUD"
 } ]

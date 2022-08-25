@@ -2332,9 +2332,9 @@
 }, {
   "LiveFrom" : "07/01/2017",
   "LiveTo" : "",
-  "ID" : "NextHearingDetails",
-  "ListElementCode" : "HearingId",
-  "FieldType" : "Text",
+  "ID" : "nextHearingDetails",
+  "ListElementCode" : "hearingID",
+  "FieldType" : "Number",
   "CategoryID" : "",
   "FieldTypeParameter" : "",
   "ElementLabel" : "Hearing Id",
@@ -2353,8 +2353,8 @@
 }, {
   "LiveFrom" : "07/01/2017",
   "LiveTo" : "",
-  "ID" : "NextHearingDetails",
-  "ListElementCode" : "HearingDate",
+  "ID" : "nextHearingDetails",
+  "ListElementCode" : "hearingDateTime",
   "FieldType" : "DateTime",
   "CategoryID" : "",
   "FieldTypeParameter" : "",

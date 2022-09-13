@@ -7,9 +7,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "http://localhost:4452/callback/jurisdictions/AUTOTEST1/case-types/MasterCaseType/documents",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -19,9 +17,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -31,9 +27,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -43,9 +37,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -55,9 +47,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -67,9 +57,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -79,9 +67,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -91,9 +77,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -103,9 +87,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -115,9 +97,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -127,9 +107,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -139,9 +117,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -151,9 +127,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "http://localhost:4452/callback/jurisdictions/AUTOTEST1/case-types/MasterCaseType/documents",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -163,9 +137,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -175,9 +147,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -187,9 +157,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -199,9 +167,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -211,9 +177,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -223,9 +187,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -235,9 +197,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -247,9 +207,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -259,9 +217,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -271,9 +227,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -283,9 +237,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -295,9 +247,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -307,9 +257,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -319,9 +267,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -331,9 +277,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -343,9 +287,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -355,9 +297,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "02/01/2017",
   "LiveTo" : "",
@@ -367,9 +307,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "03/01/2017",
   "LiveTo" : "",
@@ -379,9 +317,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "03/01/2017",
   "LiveTo" : "",
@@ -391,9 +327,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "03/01/2017",
   "LiveTo" : "",
@@ -403,9 +337,7 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -415,19 +347,15 @@
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "03/01/2017",
   "LiveTo" : "",
-  "ID" : "FT_EventEnablingCondition",
-  "Name" : "FT_EventEnablingCondition",
-  "Description" : "Case Type for testing Event Enabling Condition",
+  "ID" : "FT_NextHearingDate",
+  "Name" : "FT_NextHearingDate",
+  "Description" : "Case Type for testing CCD Next hearing Date Updater service",
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
-  "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "${TEST_STUB_SERVICE_BASE_URL:http://ccd-test-stubs-service-aat.service.core-compute-aat.internal}/case_type/fe-functional-test/callback_get_case_injectedData",
-  "RetriesGetCaseUrl" : ""
+  "SecurityClassification" : "Public"
 } ]

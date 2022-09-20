@@ -241,7 +241,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "RoleName" : "hmcts-staff",
+  "RoleName" : "ft_hmcts-staff",
   "Authorisation" : "",
   "CaseTypeID" : "FT_GlobalSearch_AC_1",
   "AccessProfiles" : "GS_profile",

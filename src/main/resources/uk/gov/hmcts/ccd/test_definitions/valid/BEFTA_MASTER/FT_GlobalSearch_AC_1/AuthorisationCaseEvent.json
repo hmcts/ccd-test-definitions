@@ -12,4 +12,11 @@
   "CaseEventID" : "UPDATE",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_1",
+  "CaseEventID" : "UPDATE",
+  "UserRole" : "GS_profile",
+  "CRUD" : "CRUD"
 } ]

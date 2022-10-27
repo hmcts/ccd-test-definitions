@@ -1,43 +1,43 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
   "CaseStateID" : "CaseCreated",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
   "CaseStateID" : "CaseUpdated",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
   "CaseStateID" : "CaseCreated",
-  "UserRole" : "GS_profile",
+  "UserRole" : "ft_accessprofile_1",
   "CRUD" : "RU"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
   "CaseStateID" : "CaseUpdated",
-  "UserRole" : "GS_profile",
+  "UserRole" : "ft_accessprofile_1",
   "CRUD" : "R"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
   "CaseStateID" : "CaseCreated",
-  "UserRole" : "caseworker-befta_master",
+  "UserRole" : "[SPECIFICACCESSPROFILE]",
   "CRUD" : "R"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
   "CaseStateID" : "CaseUpdated",
-  "UserRole" : "caseworker-befta_master",
+  "UserRole" : "[SPECIFICACCESSPROFILE]",
   "CRUD" : "R"
 } ]

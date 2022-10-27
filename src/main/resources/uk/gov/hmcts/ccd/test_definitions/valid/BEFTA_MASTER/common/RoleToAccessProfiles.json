@@ -308,4 +308,114 @@
   "ReadOnly" : "No",
   "Disabled" : "No",
   "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:citizen",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_1Role",
+  "AccessProfiles" : "citizen",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_1Role",
+  "AccessProfiles" : "ft_accessprofile_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:citizen",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
+  "AccessProfiles" : "citizen",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
+  "AccessProfiles" : "ft_accessprofile_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "[SPECIFICACCESSPROFILE]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
+  "AccessProfiles" : "[SPECIFICACCESSPROFILE]",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:citizen",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "AccessProfiles" : "citizen",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "AccessProfiles" : "ft_accessprofile_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "[SPECIFICACCESSPROFILE]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "AccessProfiles" : "[SPECIFICACCESSPROFILE]",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "Role3",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "AccessProfiles" : "ft_accessprofile_3",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:citizen",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_IdamRole",
+  "AccessProfiles" : "citizen",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccess_IdamRole",
+  "AccessProfiles" : "ft_accessprofile_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
 } ]

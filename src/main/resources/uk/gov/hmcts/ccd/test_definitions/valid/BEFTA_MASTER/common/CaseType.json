@@ -409,8 +409,8 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "ID" : "FT_TTL",
-  "Name" : "FT_TTL",
+  "ID" : "FT_TTL_v2",
+  "Name" : "FT_TTL_v2",
   "Description" : "Case Type for testing TTL",
   "JurisdictionID" : "BEFTA_MASTER",
   "PrintableDocumentsUrl" : "",

@@ -1,7 +1,7 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "createCase",
   "Name" : "Create a case",
   "Description" : "Create a case",
@@ -25,7 +25,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "manageCaseTTL",
   "Name" : "Manage Case TTL",
   "Description" : "Manage Case TTL",
@@ -49,7 +49,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateCaseTTLIncHidden",
   "Name" : "Update with hidden TTL inc",
   "Description" : "Update a case with hidden TTL increment",
@@ -73,7 +73,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateCaseTTLInc",
   "Name" : "Update with TTL Increment",
   "Description" : "Update a case with a TTL increment value present",
@@ -97,7 +97,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateWithStartTTLToUpper",
   "Name" : "Update start CB upper TTL",
   "Description" : "Update a case, start callback SuspendedTTL to upper",
@@ -121,7 +121,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateWithMidEventTTLToUpper",
   "Name" : "Update midevent CB upper TTL",
   "Description" : "Update a case, midevent callback SuspendedTTL to upper",
@@ -145,7 +145,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateWithSubmitTTLToUpper",
   "Name" : "Update submit CB upper TTL",
   "Description" : "Update a case, submit callback SuspendedTTL to upper",
@@ -169,7 +169,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateWithStartTTLMissing",
   "Name" : "Update start CB missing TTL",
   "Description" : "Update a case, start callback with missing TTL in response",
@@ -193,7 +193,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateWithMidEventTTLMissing",
   "Name" : "Update midevent CB missing TTL",
   "Description" : "Update a case, midevent callback with missing TTL in response",
@@ -217,7 +217,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateWithSubmitTTLMissing",
   "Name" : "Update submit CB missing TTL",
   "Description" : "Update a case, submit callback with missing TTL in response",
@@ -241,7 +241,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateWithStartTTLNull",
   "Name" : "Update start CB null TTL",
   "Description" : "Update a case, start callback with TTL null in response",
@@ -265,7 +265,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateWithMidEventTTLNull",
   "Name" : "Update midevent CB null TTL",
   "Description" : "Update a case, midevent callback with TTL null in response",
@@ -289,7 +289,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "updateWithSubmitTTLNull",
   "Name" : "Update submit CB null TTL",
   "Description" : "Update a case, submit callback with TTL null in response",

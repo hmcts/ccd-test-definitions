@@ -1,7 +1,7 @@
 [ {
   "LiveFrom" : "06/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "createCase",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -23,7 +23,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "manageCaseTTL",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -45,7 +45,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateCaseTTLIncHidden",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -67,7 +67,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateCaseTTLInc",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -89,7 +89,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithStartTTLToUpper",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -111,7 +111,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithStartTTLToUpper",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -133,7 +133,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithMidEventTTLToUpper",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -155,7 +155,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithMidEventTTLToUpper",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -177,7 +177,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithSubmitTTLToUpper",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -199,7 +199,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithSubmitTTLToUpper",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -221,7 +221,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithStartTTLMissing",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -243,7 +243,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithStartTTLMissing",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -265,7 +265,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithMidEventTTLMissing",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -287,7 +287,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithMidEventTTLMissing",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -309,7 +309,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithSubmitTTLMissing",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -331,7 +331,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithSubmitTTLMissing",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -353,7 +353,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithStartTTLNull",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -375,7 +375,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithStartTTLNull",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -397,7 +397,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithMidEventTTLNull",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -419,7 +419,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithMidEventTTLNull",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,
@@ -441,7 +441,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithSubmitTTLNull",
   "CaseFieldID" : "TextField",
   "PageFieldDisplayOrder" : 1,
@@ -463,7 +463,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseEventID" : "updateWithSubmitTTLNull",
   "CaseFieldID" : "TTL",
   "PageFieldDisplayOrder" : 1,

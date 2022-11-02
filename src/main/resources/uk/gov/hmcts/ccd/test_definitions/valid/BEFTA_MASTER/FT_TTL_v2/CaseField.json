@@ -1,7 +1,7 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "CaseHistory",
   "Label" : "History",
   "HintText" : "",
@@ -19,7 +19,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "TextField",
   "Label" : "TextField",
   "HintText" : "",
@@ -37,7 +37,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "ID" : "TTL",
   "Label" : "TTL Fields",
   "HintText" : "",

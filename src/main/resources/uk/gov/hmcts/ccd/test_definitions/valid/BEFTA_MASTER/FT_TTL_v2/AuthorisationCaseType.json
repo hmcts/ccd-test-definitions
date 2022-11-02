@@ -1,13 +1,13 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 } ]

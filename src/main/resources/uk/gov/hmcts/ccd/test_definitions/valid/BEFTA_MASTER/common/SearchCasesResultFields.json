@@ -49,7 +49,7 @@
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "1/1/17",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "AccessProfile" : "",
   "CaseFieldID" : "TextField",
   "ListElementCode" : "",

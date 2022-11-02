@@ -1,7 +1,7 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "Channel" : "notApplicable",
   "TabID" : "History",
   "TabLabel" : "History",
@@ -14,7 +14,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "Channel" : "notApplicable",
   "TabID" : "Details",
   "TabLabel" : "Details",
@@ -27,7 +27,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "Channel" : "notApplicable",
   "TabID" : "Details",
   "TabLabel" : "Details",

@@ -1,7 +1,7 @@
 [ {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseFieldID" : "TTL",
   "ListElementCode" : "SystemTTL",
   "UserRole" : "caseworker-befta_master-solicitor",
@@ -9,7 +9,7 @@
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseFieldID" : "TTL",
   "ListElementCode" : "OverrideTTL",
   "UserRole" : "caseworker-befta_master-solicitor",
@@ -17,7 +17,7 @@
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_TTL",
+  "CaseTypeID" : "FT_TTL_v2",
   "CaseFieldID" : "TTL",
   "ListElementCode" : "Suspended",
   "UserRole" : "caseworker-befta_master-solicitor",

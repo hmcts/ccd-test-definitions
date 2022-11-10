@@ -7,7 +7,8 @@
   "AnswerFieldType" : "Date",
   "DisplayContextParameter" : "#DATETIMEENTRY(dd-MM-yyyy)",
   "Answer" : "${OrganisationField.OrganisationName}|${OrganisationField.OrganisationID}:[Claimant],${OrganisationField.OrganisationName}|${OrganisationField.OrganisationID}:[Defendant]",
-  "QuestionId" : "NoCChallengeQ1"
+  "QuestionId" : "NoCChallengeQ1",
+  "IgnoreNULLFields" : "yes"
 }, {
   "LiveTo" : "",
   "CaseTypeID" : "FT_ComplexOrganisation",
@@ -17,7 +18,8 @@
   "AnswerFieldType" : "DateTime",
   "DisplayContextParameter" : "#DATETIMEENTRY(dd-MM-yyyy)",
   "Answer" : "${OrganisationField.OrganisationName}|${OrganisationField.OrganisationID}:[Defendant]",
-  "QuestionId" : "NoCChallengeQ2"
+  "QuestionId" : "NoCChallengeQ2",
+  "IgnoreNULLFields" : "true"
 }, {
   "LiveTo" : "",
   "CaseTypeID" : "FT_ComplexOrganisation",
@@ -27,7 +29,8 @@
   "AnswerFieldType" : "DateTime",
   "DisplayContextParameter" : "#DATETIMEENTRY(dd-MM-yyyy)",
   "Answer" : "${OrganisationField.OrganisationID}:[Defendant]",
-  "QuestionId" : "NoCChallengeQ3"
+  "QuestionId" : "NoCChallengeQ3",
+  "IgnoreNULLFields" : "false"
 }, {
   "LiveTo" : "",
   "CaseTypeID" : "FT_ComplexOrganisation",
@@ -37,7 +40,8 @@
   "AnswerFieldType" : "Postcode",
   "DisplayContextParameter" : "",
   "Answer" : "${OrganisationField.OrganisationID}:[Defendant]",
-  "QuestionId" : "NoCChallengeG2Q1"
+  "QuestionId" : "NoCChallengeG2Q1",
+  "IgnoreNULLFields" : "no"
 }, {
   "LiveTo" : "",
   "CaseTypeID" : "FT_ComplexCollectionComplex",
@@ -47,7 +51,8 @@
   "AnswerFieldType" : "Text",
   "DisplayContextParameter" : "",
   "Answer" : "${CaseLinkComplex}:[Defendant]",
-  "QuestionId" : "CollectionsQ1"
+  "QuestionId" : "CollectionsQ1",
+  "IgnoreNULLFields" : "y"
 }, {
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
@@ -57,7 +62,8 @@
   "AnswerFieldType" : "Text",
   "DisplayContextParameter" : "",
   "Answer" : "${applicant.individual.LastName}|${applicant.company.Name}|${applicant.soletrader.Name}:[ApplicantSolicitor],${respondent.individual.LastName}|${respondent.company.Name}|${respondent.soletrader.Name}:[RespondentSolicitor],${otherParty.individual.LastName}|${otherParty.company.Name}|${otherParty.soletrader.Name}:[OtherPartySolicitor]",
-  "QuestionId" : "NoC_Challenge_Name"
+  "QuestionId" : "NoC_Challenge_Name",
+  "IgnoreNULLFields" : "True"
 }, {
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
@@ -67,7 +73,8 @@
   "AnswerFieldType" : "Date",
   "DisplayContextParameter" : "#DATETIMEENTRY(dd-MM-yyyy)",
   "Answer" : "${applicant.dob}:[ApplicantSolicitor],${respondent.incorporationDate}:[RespondentSolicitor],${otherParty.tradingStartDate}:[OtherPartySolicitor]",
-  "QuestionId" : "NoC_Challenge_Name2"
+  "QuestionId" : "NoC_Challenge_Name2",
+  "IgnoreNULLFields" : "t"
 }, {
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCAutoApprovalCaseType",
@@ -77,7 +84,8 @@
   "AnswerFieldType" : "Text",
   "DisplayContextParameter" : "",
   "Answer" : "${applicant.individual.LastName}|${applicant.company.Name}|${applicant.soletrader.Name}:[ApplicantSolicitor],${respondent.individual.LastName}|${respondent.company.Name}|${respondent.soletrader.Name}:[RespondentSolicitor],${otherParty.individual.LastName}|${otherParty.company.Name}|${otherParty.soletrader.Name}:[OtherPartySolicitor]",
-  "QuestionId" : "NoC_AutoApproval_Challenge_Name"
+  "QuestionId" : "NoC_AutoApproval_Challenge_Name",
+  "IgnoreNULLFields" : "n"
 }, {
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCWithoutEventsCaseType",
@@ -87,5 +95,6 @@
   "AnswerFieldType" : "Text",
   "DisplayContextParameter" : "",
   "Answer" : "${applicant.individual.LastName}|${applicant.company.Name}|${applicant.soletrader.Name}:[ApplicantSolicitor],${respondent.individual.LastName}|${respondent.company.Name}|${respondent.soletrader.Name}:[RespondentSolicitor],${otherParty.individual.LastName}|${otherParty.company.Name}|${otherParty.soletrader.Name}:[OtherPartySolicitor]",
-  "QuestionId" : "NoC_WithoutEvents_Challenge_Name"
+  "QuestionId" : "NoC_WithoutEvents_Challenge_Name",
+  "IgnoreNULLFields" : ""
 } ]

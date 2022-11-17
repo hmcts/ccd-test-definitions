@@ -2,6 +2,13 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NHD_Bad_DateNull",
+  "CaseFieldID" : "CaseHistory",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NHD_Bad_DateNull",
   "CaseFieldID" : "nextHearingDetails",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"

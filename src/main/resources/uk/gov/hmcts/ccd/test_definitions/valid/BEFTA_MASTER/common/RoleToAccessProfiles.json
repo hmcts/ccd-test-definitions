@@ -61,26 +61,6 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "RoleName" : "Role1",
-  "Authorisation" : "auth2",
-  "CaseTypeID" : "FT_NoCAutoApprovalCaseType",
-  "AccessProfiles" : "caseworker-befta_master,caseworker-befta_master-solicitor",
-  "ReadOnly" : "N",
-  "Disabled" : "No",
-  "CaseAccessCategories" : ""
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "RoleName" : "Role2",
-  "Authorisation" : "",
-  "CaseTypeID" : "FT_NoCAutoApprovalCaseType",
-  "AccessProfiles" : "caseworker-approver",
-  "ReadOnly" : "No",
-  "Disabled" : "Yes",
-  "CaseAccessCategories" : ""
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
   "RoleName" : "idam:caseworker-befta_master",
   "Authorisation" : "",
   "CaseTypeID" : "FT_MasterCaseType",

@@ -32,17 +32,17 @@ graph LR
   elasticsearch([CCD<BR>Data Store<BR>Elasticsearch]);
   json-->excel-generated;
   env-var-->excel-generated;
-  ccd-roles-list-.->|publish<BR>CCD roles|def-store
-  excel-generated-->|import<BR>definitions|def-store
-  def-store<-.->|publish/load<BR>CCD roles|user-profile-store
-  def-store-->|publish<BR>data schema|elasticsearch
+  ccd-roles-list-->|publish<BR>CCD roles|def-store;
+  excel-generated-->|import<BR>definitions|def-store;
+  def-store-->|publish<BR>CCD roles|user-profile-store;
+  def-store-->|publish<BR>data schema|elasticsearch;
   subgraph test-definitions[CCD Test Definitions]
     excel[Excel];
     json[JSON];
     excel-->|definitionsToJson|json;
   end
   subgraph befta-fw[BEFTA Framework]
-    ccd-roles-list[CCD roles list]
+    ccd-roles-list[CCD roles list];
     excel-generated[Generated<br>Excel];
   end
   classDef plain fill:#ccc,stroke:#fff,stroke-width:4px,color:#000;
@@ -54,7 +54,7 @@ graph LR
   class json,ccd-roles-list json;
   class test-definitions,functional-test,befta-fw library;
 ```
-*([mermaid live edit](https://mermaid.live/edit#pako:eNqdVN9v0zAQ_les7AWkGCqYKKRVJbZ2SBMMtBZe0j449mU1c-zIdtpN6_537MTNj05IiJfo7Pvuu7vvLn6KqGIQJdGdJuUWfb1dS4RA7vCO6HQhd1wrWYC000zPfhHNSSbAbCYexSDHxioNr9LLy_n04nY2h5xLbrmS_rT0vs3rGlsZ0LjUKucCToJ-Ohf60bhOw0AQYzk1QDTddmmIJaiG-dOijwlxv42SGM_ggYLAdyBBEwts0uvtL15KGdbKtYgFNxa_wbNDWWXO3vpULj-qvYe295pySOSoD7wolbY-hrWanES1h2k_zVuhCBvmeqndIBwPa2ReHEO3UJDDQD4fZKqsmbMF112vNC8tWrlL1M3QbHxIaC9d-G8z-Ebf9Hr5_eZ40UjgKulxrtS1gx08NijPBjVkkFuC8316sbhafUZXmhSwV_o-pB2OIm31QP7YL61TPv1ytPy69ioOqanTw7gGUSkIl8gJKpIzSmlsrFb3kJzleR5svOfMbpPz8iGmSiidnI1Go8mApE4eSD69p-dj9k88zjfk8QIFmg85-cjo_9EInmmiHwNTF9rvMNC862jG43FH0y1V_HLp4sE2xeE_aqTsUdSqxCeDaW57KN9zPJwwahelgZyuaJxXknqLCOx98XF_jp1PojgqQBeEM_eePXmmdWTdjwDrKHGm4yKVsOtoLZ8dlFRWLR8ljRKrK4ijqnS_Dsw5cdtZRElOhGlvF4w7CY5IqE_fmnezfj6f_wA8TN7m))*
+*([mermaid live edit](https://mermaid.live/edit#pako:eNqdVNtu2zAM_RXBedkAGQi2YtmcIsDapAOKXYom24uTB1miG62yZEhy0qLpv0-yFV9SdBj2YpDi4aF4SOspoopBlER3mpRb9PV2LRECuYt3RKcLueNayQKkPc_07BfRnGQCzGbqUQzy2Fil4U16eTk_v7idzSHnkluupPeWPrZ5W2MrAzoutcq5gJOkny6EbprQaRoIYiynBoim264MsQTVMO8t-piQ99soGcczeKAg4juQoIkFNu319kqUUhZr5VqMBTfWgQ5llTlz6yu58qgOHtrWG8ohkc_iRam09Ums1eQ0rfVeLfNStb8mMq-LoVsoyGGgXJ1lqqyZsQXXWe9aXla0coeom5_Z-JTQWrrw32bojbbp9fLH9-NB0767So9zpa4d7OCxQXU2uEMGuSVxvk8vFlerz-hKkwL2St-HssMxpK0iyLvDuq3s6Zej5Xe1d-VQmzpFjOsQlYJwiZymIhlRSrGxWt1DMsrzPNjxnjO7Tc7KB0yVUDoZjcfj6YCkLh5IPr2nZxP2TzwuNuTxCgWaDzn5yOj_0QieaaIfA1OX2u8w0LzraCaTSUfTrRV-uXd4sE84_ESNlD2KWhV8MpjmtIfyPePhiFG7KQ3kdEdxXknqLSJiH8PHBTp2Po1wVIAuCGfuMXvyTOvIul8B1lHiTMdFKmHX0Vo-OyiprFo-SholVleAo6p0Pw_MOXHrWURJToRpTxeMOwmOSKi9b82jWb-dz38AMT7dpg))*
 
 The [BEFTA Framework](https://github.com/hmcts/befta-fw) will by default load the JSON definitions from the resource
 directory [`uk/gov/hmcts/ccd/test_definitions/valid`](./src/main/resources/uk/gov/hmcts/ccd/test_definitions/valid/.), 

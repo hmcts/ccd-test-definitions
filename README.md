@@ -32,7 +32,7 @@ graph LR
   elasticsearch([CCD<BR>Data Store<BR>Elasticsearch]);
   json-->excel-generated;
   env-var-->excel-generated;
-  befta-fw-.->|publish<BR>CCD roles|def-store
+  ccd-roles-list-.->|publish<BR>CCD roles|def-store
   excel-generated-->|import<BR>definitions|def-store
   def-store<-.->|publish/load<BR>CCD roles|user-profile-store
   def-store-->|publish<BR>data schema|elasticsearch
@@ -42,6 +42,7 @@ graph LR
     excel-->|definitionsToJson|json;
   end
   subgraph befta-fw[BEFTA Framework]
+    ccd-roles-list[CCD roles list]
     excel-generated[Generated<br>Excel];
   end
   classDef plain fill:#ccc,stroke:#fff,stroke-width:4px,color:#000;
@@ -50,10 +51,10 @@ graph LR
   classDef library fill:#fff,stroke:#ccc,stroke-width:2px,color:#777;
   class def-store,user-profile-store,elasticsearch,env-var plain;
   class excel,excel-generated excel;
-  class json json;
+  class json,ccd-roles-list json;
   class test-definitions,functional-test,befta-fw library;
 ```
-*([mermaid live edit](https://mermaid.live/edit#pako:eNqdVF1v0zAU_SuR9wJSDBVMFNKqEls7pAkGWgsvaR8c-3o1c-zIdtpN6_47dj6apBMS4iWy78e595x74ydENQOUoDtDim309XatogjUDu-ISRdqJ4xWOSg3zczsFzGCZBLsZhKiGHBsnTbwKr28nE8vbmdz4EIJJ7QKt2XwbV5XsaUFgwujuZBwkvTTu6Iftes0DSSxTlALxNBtV4Y4ElVh4bboxzR5v61WGM_ggYLEd6DAEAds0uP2F28G3BHM9_gNnh2KMpPCbkMRXzky2lM_HFlXYEMID3oQeaGNCznsqMZJ1vEy7Zd5KzVhw1ovVRuk42GPLMhi6RZychgIF5JsmdUTdmAd7rUWRI1W3hh107ObkNLQSxfhW4-8Vja9Xn6_aQ21BL6THuZKX_uwQ4htNGeDHlqV04vF1epzdGVIDntt7vtlO1XTL-0pLGGvmwaWeq7WNx8VkggVebFkckYpja0z-h6SM855c8Z7wdw2OS8eYqqlNsnZaDSaDECq4g3Ip_f0fMz-Ccf7hjiBfAPzgZOPjP4fjBSZIeaxQepS-wwbmHcdzHg87mC6hYlfLlQ82JS4-TtqKXsQlSrxyWBqay-q4nycem073beYl4qGE5E4-OJ2GVqqExSjHExOBPPP0lNAWiPntxrWKPFHj0VK6dZorZ59KCmdXj4qihJnSohRWfj_AOaC-FXLUcKJtEfrggnPuY2E6vatfv6qV_D5D-Rgyqo))*
+*([mermaid live edit](https://mermaid.live/edit#pako:eNqdVN9v0zAQ_les7AWkGCqYKKRVJbZ2SBMMtBZe0j449mU1c-zIdtpN6_537MTNj05IiJfo7Pvuu7vvLn6KqGIQJdGdJuUWfb1dS4RA7vCO6HQhd1wrWYC000zPfhHNSSbAbCYexSDHxioNr9LLy_n04nY2h5xLbrmS_rT0vs3rGlsZ0LjUKucCToJ-Ohf60bhOw0AQYzk1QDTddmmIJaiG-dOijwlxv42SGM_ggYLAdyBBEwts0uvtL15KGdbKtYgFNxa_wbNDWWXO3vpULj-qvYe295pySOSoD7wolbY-hrWanES1h2k_zVuhCBvmeqndIBwPa2ReHEO3UJDDQD4fZKqsmbMF112vNC8tWrlL1M3QbHxIaC9d-G8z-Ebf9Hr5_eZ40UjgKulxrtS1gx08NijPBjVkkFuC8316sbhafUZXmhSwV_o-pB2OIm31QP7YL61TPv1ytPy69ioOqanTw7gGUSkIl8gJKpIzSmlsrFb3kJzleR5svOfMbpPz8iGmSiidnI1Go8mApE4eSD69p-dj9k88zjfk8QIFmg85-cjo_9EInmmiHwNTF9rvMNC862jG43FH0y1V_HLp4sE2xeE_aqTsUdSqxCeDaW57KN9zPJwwahelgZyuaJxXknqLCOx98XF_jp1PojgqQBeEM_eePXmmdWTdjwDrKHGm4yKVsOtoLZ8dlFRWLR8ljRKrK4ijqnS_Dsw5cdtZRElOhGlvF4w7CY5IqE_fmnezfj6f_wA8TN7m))*
 
 The [BEFTA Framework](https://github.com/hmcts/befta-fw) will by default load the JSON definitions from the resource
 directory [`uk/gov/hmcts/ccd/test_definitions/valid`](./src/main/resources/uk/gov/hmcts/ccd/test_definitions/valid/.), 
@@ -230,7 +231,7 @@ The pipeline configuration is explained in further detail below for each service
   * `env.ELASTIC_SEARCH_FTA_ENABLED` to `"true"`.  i.e. so functional tests include all Elasticsearch elements.
 
 **[CCD User Profile Service](https://github.com/hmcts/ccd-user-profile-api) pipeline configuration**:
-*(optional) Only required if testing changes to the Access Profiles published to the 
+*(optional) Only required if testing changes to the CCD Roles / Access Profiles published to the
 [CCD User Profile Service](https://github.com/hmcts/ccd-user-profile-api).*
 * `Jenkinsfile_CNP` override the following:
   * `definitionStoreDevelopPr` with [CCD Definition Store](https://github.com/hmcts/ccd-definition-store-api) PR number.

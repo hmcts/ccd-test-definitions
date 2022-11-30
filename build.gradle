@@ -76,6 +76,36 @@ artifacts {
     archives javadocJar
 }
 
+task definitionsToExcel(dependsOn: sourcesJar) {
+    group = "Execution"
+    description = "Runs DefinitionConverter for JSON to Excel"
+
+    doFirst() {
+        fileTree("${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/valid").matching {
+            include "*"
+        }.visit { FileVisitDetails details ->
+            def name = details.getName()
+            def inputPath = "${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/valid/${name}"
+            def outputPath = "${project.projectDir}/src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel_generated"
+
+            logger.quiet("\nConverting ${name} to Excel.\n")
+
+            javaexec {
+                classpath = sourceSets.main.runtimeClasspath
+                main = definitionConverterMain
+                args = [
+                        "to-excel",
+                        inputPath,
+                        "LOCAL",
+                        outputPath
+                ]
+            }
+        }
+    }
+
+    outputs.upToDateWhen { false }
+}
+
 task definitionsToJson(dependsOn: sourcesJar) {
     group = "Execution"
     description = "Runs DefinitionConverter for Excel to JSON"

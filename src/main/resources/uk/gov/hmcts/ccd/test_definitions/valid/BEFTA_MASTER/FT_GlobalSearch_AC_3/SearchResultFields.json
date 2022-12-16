@@ -1,0 +1,31 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_3",
+  "CaseFieldID" : "FirstName",
+  "Label" : "FirstName",
+  "ListElementCode" : "",
+  "DisplayOrder" : 1,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_3",
+  "CaseFieldID" : "LastName",
+  "Label" : "LastName",
+  "ListElementCode" : "",
+  "DisplayOrder" : 2,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_3",
+  "CaseFieldID" : "Email",
+  "Label" : "Email",
+  "ListElementCode" : "",
+  "DisplayOrder" : 3,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+} ]

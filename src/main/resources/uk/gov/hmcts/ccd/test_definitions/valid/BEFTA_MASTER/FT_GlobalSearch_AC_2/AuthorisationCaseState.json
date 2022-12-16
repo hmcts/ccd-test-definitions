@@ -1,0 +1,43 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseStateID" : "CaseUpdated",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "GS_profile",
+  "CRUD" : "RU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseStateID" : "CaseUpdated",
+  "UserRole" : "GS_profile",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_2",
+  "CaseStateID" : "CaseUpdated",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "R"
+} ]

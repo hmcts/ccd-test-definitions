@@ -218,4 +218,37 @@
   "SearchPartyPostCode" : "",
   "SearchPartyDOB" : "IndividualDateOfBirthText",
   "SearchPartyDOD" : "IndividualDateOfDeathText"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeId" : "FT_GlobalSearch_AC_1",
+  "SearchPartyCollectionFieldName" : "",
+  "SearchPartyName" : "FirstName,LastName",
+  "SearchPartyEmailAddress" : "Email",
+  "SearchPartyAddressLine1" : "Address.AddressLine1",
+  "SearchPartyPostCode" : "PostCode",
+  "SearchPartyDOB" : "dateOfBirth",
+  "SearchPartyDOD" : "dateOfDeath"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeId" : "FT_GlobalSearch_AC_2",
+  "SearchPartyCollectionFieldName" : "",
+  "SearchPartyName" : "FirstName,LastName",
+  "SearchPartyEmailAddress" : "Email",
+  "SearchPartyAddressLine1" : "Address.AddressLine1",
+  "SearchPartyPostCode" : "PostCode",
+  "SearchPartyDOB" : "dateOfBirth",
+  "SearchPartyDOD" : "dateOfDeath"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeId" : "FT_GlobalSearch_AC_3",
+  "SearchPartyCollectionFieldName" : "",
+  "SearchPartyName" : "FirstName,LastName",
+  "SearchPartyEmailAddress" : "Email",
+  "SearchPartyAddressLine1" : "Address.AddressLine1",
+  "SearchPartyPostCode" : "PostCode",
+  "SearchPartyDOB" : "dateOfBirth",
+  "SearchPartyDOD" : "dateOfDeath"
 } ]

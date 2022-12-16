@@ -1,0 +1,57 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "CaseFieldID" : "TextField",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "CaseFieldID" : "TextField",
+  "UserRole" : "ft_accessprofile_1",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "CaseFieldID" : "TextField",
+  "UserRole" : "[SPECIFICACCESSPROFILE]",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "CaseFieldID" : "TextField",
+  "UserRole" : "ft_accessprofile_3",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "CaseFieldID" : "caseManagementLocation",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "CaseFieldID" : "caseManagementLocation",
+  "UserRole" : "ft_accessprofile_1",
+  "CRUD" : "R"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "CaseFieldID" : "caseManagementLocation",
+  "UserRole" : "[SPECIFICACCESSPROFILE]",
+  "CRUD" : "CUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_3Roles",
+  "CaseFieldID" : "caseManagementLocation",
+  "UserRole" : "ft_accessprofile_3",
+  "CRUD" : "R"
+} ]

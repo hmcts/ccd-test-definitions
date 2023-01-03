@@ -514,4 +514,88 @@
   "SecurityClassification" : "Public",
   "CallbackGetCaseUrl" : "${TEST_STUB_SERVICE_BASE_URL:http://ccd-test-stubs-service-aat.service.core-compute-aat.internal}/callback_get_case_injectedData",
   "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_GlobalSearch_AC_1",
+  "Name" : "FT_GlobalSearch_AC_1",
+  "Description" : "Case Type for testing GlobalSearch",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_GlobalSearch_AC_2",
+  "Name" : "FT_GlobalSearch_AC_2",
+  "Description" : "Case Type for testing GlobalSearch",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_GlobalSearch_AC_3",
+  "Name" : "FT_GlobalSearch_AC_3",
+  "Description" : "Case Type for testing GlobalSearch",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CaseAccess_1Role",
+  "Name" : "FT_CaseAccess_1Role",
+  "Description" : "Case type for testing Case Access with 1 role mapping",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CaseAccess_2Roles",
+  "Name" : "FT_CaseAccess_2Roles",
+  "Description" : "Case type for testing Case Access with 2 role mappings",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CaseAccess_3Roles",
+  "Name" : "FT_CaseAccess_3Roles",
+  "Description" : "Case type for testing Case Access with 3 role mappings",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CaseAccess_IdamRole",
+  "Name" : "FT_CaseAccess_IdamRole",
+  "Description" : "Case type for testing Case Access with an IDAM role mapping",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 } ]

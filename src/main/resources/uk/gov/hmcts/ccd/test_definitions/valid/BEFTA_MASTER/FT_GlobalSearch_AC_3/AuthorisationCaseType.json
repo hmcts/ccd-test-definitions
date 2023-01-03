@@ -1,0 +1,13 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_3",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch_AC_3",
+  "UserRole" : "GS_profile",
+  "CRUD" : "RU"
+} ]

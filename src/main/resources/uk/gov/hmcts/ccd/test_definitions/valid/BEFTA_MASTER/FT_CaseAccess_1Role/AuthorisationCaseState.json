@@ -1,0 +1,29 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_1Role",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_1Role",
+  "CaseStateID" : "CaseUpdated",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_1Role",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "ft_accessprofile_1",
+  "CRUD" : "RU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_1Role",
+  "CaseStateID" : "CaseUpdated",
+  "UserRole" : "ft_accessprofile_1",
+  "CRUD" : "R"
+} ]

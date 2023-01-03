@@ -1,0 +1,15 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_IdamRole",
+  "CaseFieldID" : "TextField",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_IdamRole",
+  "CaseFieldID" : "TextField",
+  "UserRole" : "ft_accessprofile_1",
+  "CRUD" : "R"
+} ]

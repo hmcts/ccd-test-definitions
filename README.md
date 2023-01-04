@@ -28,22 +28,24 @@ and import this definition data before running the functional tests.
 graph LR
   env-var[Environment<br>Variables];
   def-store([CCD<BR>Definition<BR>Store]);
-  user-profile-store([CCD<BR>User Profile<BR>Store]);
   elasticsearch([CCD<BR>Data Store<BR>Elasticsearch]);
+  user-profile-store([CCD<BR>User Profile<BR>Store]);
+  ccd-roles-json-->ccd-roles-list;
   json-->excel-generated;
   env-var-->excel-generated;
   ccd-roles-list-->|publish<BR>CCD roles|def-store;
   excel-generated-->|import<BR>definitions|def-store;
-  def-store-->|publish<BR>CCD roles|user-profile-store;
   def-store-->|publish<BR>data schema|elasticsearch;
+  def-store-->|user profile<BR>defaults|user-profile-store;
   subgraph test-definitions[CCD Test Definitions]
-    excel[Excel];
-    json[JSON];
+    ccd-roles-json[CCD Roles<BR>JSON];
+    excel[Templated<BR>Excel];
+    json[Templated<BR>JSON];
     excel-->|definitionsToJson|json;
   end
   subgraph befta-fw[BEFTA Framework]
-    ccd-roles-list[CCD roles list];
-    excel-generated[Generated<br>Excel];
+    ccd-roles-list[CCD Roles<BR>List];
+    excel-generated[Generated<BR>Excel];
   end
   classDef plain fill:#ccc,stroke:#fff,stroke-width:4px,color:#000;
   classDef excel fill:#93c47d,stroke:#fff,stroke-width:4px,color:#fff;
@@ -51,16 +53,23 @@ graph LR
   classDef library fill:#fff,stroke:#ccc,stroke-width:2px,color:#777;
   class def-store,user-profile-store,elasticsearch,env-var plain;
   class excel,excel-generated excel;
-  class json,ccd-roles-list json;
+  class json,ccd-roles-json,ccd-roles-list json;
   class test-definitions,functional-test,befta-fw library;
 ```
-*([mermaid live edit](https://mermaid.live/edit#pako:eNqdVNtu2zAM_RXBedkAGQi2YtmcIsDapAOKXYom24uTB1miG62yZEhy0qLpv0-yFV9SdBj2YpDi4aF4SOspoopBlER3mpRb9PV2LRECuYt3RKcLueNayQKkPc_07BfRnGQCzGbqUQzy2Fil4U16eTk_v7idzSHnkluupPeWPrZ5W2MrAzoutcq5gJOkny6EbprQaRoIYiynBoim264MsQTVMO8t-piQ99soGcczeKAg4juQoIkFNu319kqUUhZr5VqMBTfWgQ5llTlz6yu58qgOHtrWG8ohkc_iRam09Ums1eQ0rfVeLfNStb8mMq-LoVsoyGGgXJ1lqqyZsQXXWe9aXla0coeom5_Z-JTQWrrw32bojbbp9fLH9-NB0767So9zpa4d7OCxQXU2uEMGuSVxvk8vFlerz-hKkwL2St-HssMxpK0iyLvDuq3s6Zej5Xe1d-VQmzpFjOsQlYJwiZymIhlRSrGxWt1DMsrzPNjxnjO7Tc7KB0yVUDoZjcfj6YCkLh5IPr2nZxP2TzwuNuTxCgWaDzn5yOj_0QieaaIfA1OX2u8w0LzraCaTSUfTrRV-uXd4sE84_ESNlD2KWhV8MpjmtIfyPePhiFG7KQ3kdEdxXknqLSJiH8PHBTp2Po1wVIAuCGfuMXvyTOvIul8B1lHiTMdFKmHX0Vo-OyiprFo-SholVleAo6p0Pw_MOXHrWURJToRpTxeMOwmOSKi9b82jWb-dz38AMT7dpg))*
+*([mermaid live edit](https://mermaid.live/edit#pako:eNqdVN9r2zAQ_leE87KBDWEry-aUwNqkg9L9IMn2kuRBls6NVlsykpy2NP3fJ8mKbTkMxt6ku_u-u_vupJeICApRGt1LXO3R3XLLEQJ-SA5Ybhb8wKTgJXB9mcnZLywZzgpQu6mNopAnSgsJbzbX1_PLq-VsDjnjTDPB7W1lfbu3LhYKrDQjCrAk-y4ea4xcmL0t-jEeVyuQSSVFzgoYJPtpXOhH4xqmI4QmUphKk99K8CSZdYaCKe1ivAeeCBTJPXCQWAOd9vr_izfkMkHHqs7McW-rMMUh5zy28jSUIZFFsbISUlsQbXUbwtrbIA21yimyhxIfA23PUVZCVHU6GSeuC62O59o6sKqzZhc0mO56pVnh0doYUTdntbOQoeAucmmvNuHt6vu3ZmO8DJs1lFVhZXBjt6aT36ED9xna9tSrai1uDeZogX52NOgig1zjJH_cXC1u1p_RjcQlPAr5cFa4HWZY-J2xhKnb-W2-nE6DFnx6YmaijEzINMI4MhIX6YgQEistxQOkozzP_Tl5ZFTv04vqKSaiEDIdjcfjaUDiknuST-_JxYT-E4_xhTxWJE_zIccfKfk_moJlEstnz9RB-x16mncdzWQy6Wi6FY3P1zAONjr2r7GRskfhVIkHg2msvSjbcxyuZxwOHbW70yCGex_nNSf2hIvE-uLTSp2EmEZxVIIsMaPmI32xTNtIm7cJ2yg1R__ittGWv5pQXGuxeuYkSrWsIY7qyrxmmDNsFraM0hwXqrUuKDOKnCLB3b42H7b7t1__ADczCKw))*
 
 The [BEFTA Framework](https://github.com/hmcts/befta-fw) will by default load the JSON definitions from the resource
 directory [`uk/gov/hmcts/ccd/test_definitions/valid`](./src/main/resources/uk/gov/hmcts/ccd/test_definitions/valid/.), 
 and will combine them with [Environment variables](#environment-variables) and flags to create the environment specific 
 Excel files and import them to the [CCD Definition Store](https://github.com/hmcts/ccd-definition-store-api).  
 
+### CCD Roles
+
+This library contains a JSON file listing the CCD roles needed during the import of the test definition files. The
+`DataLoaderToDefinitionStore` class supplied by the [BEFTA Framework](https://github.com/hmcts/befta-fw) will load CCD
+roles from a file named [ccd-roles.json](./src/main/resources/uk/gov/hmcts/ccd/test_definitions/ccd-roles.json) and will
+publish them to the [CCD Definition Store](https://github.com/hmcts/ccd-definition-store-api) prior to importing the
+generated definition files, see [Importing CCD roles](https://github.com/hmcts/befta-fw/#3111-importing-ccd-roles).
 
 ### Environment variables
 
@@ -74,7 +83,7 @@ callback URLs in the definition files:
 
 > Note: The [BEFTA Framework](https://github.com/hmcts/befta-fw) may also attempt to rewrite some URLs to their 
 > environment specific namespaces, e.g. converting AAT URL -> Demo URL.
- 
+  
 ### Making changes to definitions
 
 :warning: Any changes made to Excel files in the directory 
@@ -231,7 +240,8 @@ The pipeline configuration is explained in further detail below for each service
   * `env.ELASTIC_SEARCH_FTA_ENABLED` to `"true"`.  i.e. so functional tests include all Elasticsearch elements.
 
 **[CCD User Profile Service](https://github.com/hmcts/ccd-user-profile-api) pipeline configuration**:
-*(optional) Only required if testing changes to the CCD Roles / Access Profiles published to the
+*(optional) Only required if testing changes for a new jurisdiction or if changing the user profile defaults in the
+`UserProfile` tab; as these will be published to the
 [CCD User Profile Service](https://github.com/hmcts/ccd-user-profile-api).*
 * `Jenkinsfile_CNP` override the following:
   * `definitionStoreDevelopPr` with [CCD Definition Store](https://github.com/hmcts/ccd-definition-store-api) PR number.

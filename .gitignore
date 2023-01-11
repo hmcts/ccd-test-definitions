@@ -33,3 +33,5 @@ out/
 
 ### MacOS
 .DS_Store
+
+excel_generated/

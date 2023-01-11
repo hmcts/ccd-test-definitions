@@ -1,0 +1,10 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NHD_Bad_DateNull",
+  "CaseFieldID" : "nextHearingDetails",
+  "ListElementCode" : "",
+  "Label" : "Next Hearing Details",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+} ]

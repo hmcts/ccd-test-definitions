@@ -598,4 +598,16 @@
   "SecurityClassification" : "Public",
   "CallbackGetCaseUrl" : "",
   "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_CaseAccessGroup",
+  "Name" : "FT_CaseAccessGroup",
+  "Description" : "Case Type for testing CaseGroupAccess",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 } ]

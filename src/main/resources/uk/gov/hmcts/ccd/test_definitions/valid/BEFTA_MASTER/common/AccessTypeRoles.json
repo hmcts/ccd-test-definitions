@@ -1,0 +1,18 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "01/01/2017",
+  "CaseTypeID" : "BEFTA_MASTER",
+  "AccessTypeID" : "default",
+  "OrganisationProfileID" : "orgprofileid",
+  "AccessMandatory" : "",
+  "AccessDefault" : "",
+  "Display" : "",
+  "Description" : "Content for the BEFTA Master Jurisdiction Access Type.",
+  "Hint" : "Content for the BEFTA Master Jurisdiction Access Type.",
+  "DisplayOrder" : 10,
+  "OrganisationalRoleName" : "",
+  "GroupRoleName" : "",
+  "OrganisationPolicyField" : "",
+  "GroupAccessEnabled" : "",
+  "CaseAccessGroupIDTemplate" : ""
+} ]

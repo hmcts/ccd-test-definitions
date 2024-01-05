@@ -1,0 +1,21 @@
+[ {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "Channel" : "CaseWorker",
+  "TabID" : "Details",
+  "TabLabel" : "Details",
+  "TabDisplayOrder" : 2,
+  "CaseFieldID" : "caseAccessGroups",
+  "TabFieldDisplayOrder" : 1
+}, {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "Channel" : "CaseWorker",
+  "TabID" : "History",
+  "TabLabel" : "History",
+  "TabDisplayOrder" : 1,
+  "CaseFieldID" : "CaseHistory",
+  "TabFieldDisplayOrder" : 1
+} ]

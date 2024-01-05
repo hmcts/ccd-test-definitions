@@ -1,0 +1,8 @@
+[ {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "CaseFieldID" : "caseAccessGroups",
+  "Label" : "Search `Text` field",
+  "DisplayOrder" : 1
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "LiveFrom" : "01/01/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessTypeID" : "default",
+  "OrganisationProfileID" : "SOLICITOR_PROFILE",
+  "AccessMandatory" : "Yes",
+  "AccessDefault" : "Yes",
+  "Display" : "Yes",
+  "Description" : "Content for the BEFTA Master Jurisdiction Access Type.",
+  "HintText" : "Content for the BEFTA Master Jurisdiction Access Type.",
+  "DisplayOrder" : 1
+}, {
+  "LiveFrom" : "01/01/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessTypeID" : "respondents",
+  "OrganisationProfileID" : "SOLICITOR_PROFILE",
+  "AccessMandatory" : "Yes",
+  "AccessDefault" : "Yes",
+  "Display" : "Yes",
+  "Description" : "Content for the BEFTA Master Jurisdiction Access Type.",
+  "HintText" : "Content for the BEFTA Master Jurisdiction Access Type.",
+  "DisplayOrder" : 2
+} ]

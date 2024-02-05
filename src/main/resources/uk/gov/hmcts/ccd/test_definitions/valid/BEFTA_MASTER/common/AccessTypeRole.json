@@ -1,5 +1,5 @@
 [ {
-  "LiveFrom" : "DD/01/YYYY",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessTypeID" : "default",
@@ -10,7 +10,7 @@
   "GroupAccessEnabled" : "Yes",
   "CaseAccessGroupIDTemplate" : "BEFTA_MASTER:$ORGID$"
 }, {
-  "LiveFrom" : "DD/01/YYYY",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "AccessTypeID" : "respondents",

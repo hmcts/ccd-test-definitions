@@ -1,12 +1,12 @@
 [ {
-  "LiveFrom" : "12/06/2023",
+  "LiveFrom" : "06/12/2023",
   "LiveTo" : "",
   "CaseTypeID" : "CaseAccessGroups_Casetype",
   "CaseStateID" : "CaseCreated",
   "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "12/06/2023",
+  "LiveFrom" : "06/12/2023",
   "LiveTo" : "",
   "CaseTypeID" : "CaseAccessGroups_Casetype",
   "CaseStateID" : "CaseUpdated",

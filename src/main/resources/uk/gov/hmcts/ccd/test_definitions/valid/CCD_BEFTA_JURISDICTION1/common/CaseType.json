@@ -28,4 +28,14 @@
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "PUBLIC"
+}, {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "ID" : "CaseAccessGroups_Casetype",
+  "Name" : "CaseAccessGroups_Casetype",
+  "Description" : "For testing Case Access Group",
+  "JurisdictionID" : "BEFTA_JURISDICTION_1",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "PUBLIC"
 } ]

@@ -6,12 +6,12 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.19.12"
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.19.14"
 
 group 'com.github.hmcts'
 
 version buildNumber
-
+System.out.println('version = ' +  buildNumber)
 def gitRepo = "https://github.com/hmcts/ccd-test-definitions"
 
 def pomConfig = {

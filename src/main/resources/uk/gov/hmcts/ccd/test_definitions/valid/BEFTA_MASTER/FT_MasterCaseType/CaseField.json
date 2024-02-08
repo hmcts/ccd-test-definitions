@@ -520,4 +520,22 @@
   "Searchable" : "",
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "ID" : "CaseAccessGroup",
+  "Label" : "CaseAccessGroup Fields",
+  "HintText" : "",
+  "FieldType" : "CaseAccessGroup",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
 } ]

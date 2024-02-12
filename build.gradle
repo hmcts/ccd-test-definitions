@@ -6,7 +6,7 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.19.14"
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.19.15-prerelease"
 
 group 'com.github.hmcts'
 
@@ -167,7 +167,7 @@ publishing {
 wrapper.gradleVersion = '2.10'
 
 dependencies {
-    compile group: 'com.github.hmcts', name: 'befta-fw', version: '8.7.10'
+    compile group: 'com.github.hmcts', name: 'befta-fw', version: '8.8.3'
 }
 // end::dependencies[]
 

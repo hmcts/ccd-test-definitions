@@ -61,18 +61,6 @@
 }, {
   "LiveFrom" : "11/17/23",
   "LiveTo" : "11/17/23",
-  "CaseTypeID" : "FT_CaseAccessGroup",
-  "AccessProfile" : "",
-  "CaseFieldID" : "TextField",
-  "ListElementCode" : "",
-  "Label" : "`Text` orgcases",
-  "DisplayOrder" : 1,
-  "ResultsOrdering" : "1:ASC",
-  "DisplayContextParameter" : "",
-  "UseCase" : "orgcases"
-}, {
-  "LiveFrom" : "11/17/23",
-  "LiveTo" : "11/17/23",
   "CaseTypeID" : "FT_CaseAccessGroups",
   "AccessProfile" : "",
   "CaseFieldID" : "CaseAccessGroups",
@@ -80,6 +68,18 @@
   "Label" : "`Text` orgcases",
   "DisplayOrder" : 1,
   "ResultsOrdering" : "1:ASC",
+  "DisplayContextParameter" : "",
+  "UseCase" : "orgcases"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "1/1/17",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "AccessProfile" : "",
+  "CaseFieldID" : "[CASE_REFERENCE]",
+  "ListElementCode" : "",
+  "Label" : "`CaseReference` orgcases",
+  "DisplayOrder" : 2,
+  "ResultsOrdering" : "",
   "DisplayContextParameter" : "",
   "UseCase" : "orgcases"
 } ]

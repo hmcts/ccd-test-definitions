@@ -133,4 +133,13 @@
   "Label" : "State",
   "DisplayOrder" : 15,
   "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseFieldID" : "CaseAccessGroups",
+  "ListElementCode" : "",
+  "Label" : "CaseAccessGroups",
+  "DisplayOrder" : 16,
+  "DisplayContextParameter" : ""
 } ]

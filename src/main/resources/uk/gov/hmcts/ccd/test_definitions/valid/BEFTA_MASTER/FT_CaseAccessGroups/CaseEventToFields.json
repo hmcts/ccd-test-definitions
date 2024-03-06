@@ -30,7 +30,7 @@
   "DisplayContext" : "OPTIONAL",
   "PageID" : "SingleFormPage",
   "PageLabel" : "CaseAccessGroup Fields",
-  "PageDisplayOrder" : 2,
+  "PageDisplayOrder" : "",
   "PageColumnNumber" : "",
   "FieldShowCondition" : "",
   "RetainHiddenValue" : "",

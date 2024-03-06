@@ -398,4 +398,24 @@
   "ReadOnly" : "No",
   "Disabled" : "No",
   "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "GroupRole1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessGroup",
+  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "GroupRole2",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessGroup",
+  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
 } ]

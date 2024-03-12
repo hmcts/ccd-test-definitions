@@ -70,4 +70,16 @@
   "ResultsOrdering" : "1:ASC",
   "DisplayContextParameter" : "",
   "UseCase" : "orgcases"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "1/1/17",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "AccessProfile" : "",
+  "CaseFieldID" : "[CASE_REFERENCE]",
+  "ListElementCode" : "",
+  "Label" : "`CaseReference` orgcases",
+  "DisplayOrder" : 2,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : "",
+  "UseCase" : "orgcases"
 } ]

@@ -7,8 +7,8 @@
   "AccessMandatory" : "Yes",
   "AccessDefault" : "Yes",
   "Display" : "Yes",
-  "Description" : "BEFTA bulk Solicitor Respondant for Org description",
-  "HintText" : "BEFTA bulk Solicitor Respondant for Org hint",
+  "Description" : "BEFTA bulk Solicitor Respondent for Org description",
+  "HintText" : "BEFTA bulk Solicitor Respondent for Org hint",
   "DisplayOrder" : 1
 }, {
   "LiveFrom" : "01/01/2023",
@@ -19,8 +19,8 @@
   "AccessMandatory" : "Yes",
   "AccessDefault" : "Yes",
   "Display" : "Yes",
-  "Description" : "BEFTA bulk Solicitor Respondant for Org description2",
-  "HintText" : "BEFTA bulk Solicitor Respondant for Org hint2",
+  "Description" : "BEFTA bulk Solicitor Respondent for Org description2",
+  "HintText" : "BEFTA bulk Solicitor Respondent for Org hint2",
   "DisplayOrder" : 2
 }, {
   "LiveFrom" : "01/01/2023",
@@ -31,8 +31,8 @@
   "AccessMandatory" : "Yes",
   "AccessDefault" : "Yes",
   "Display" : "Yes",
-  "Description" : "BEFTA bulk Solicitor Respondant for Org description",
-  "HintText" : "BEFTA bulk Solicitor Respondant for Org hint",
+  "Description" : "BEFTA bulk Solicitor Respondent for Org description",
+  "HintText" : "BEFTA bulk Solicitor Respondent for Org hint",
   "DisplayOrder" : 1
 }, {
   "LiveFrom" : "01/01/2023",
@@ -43,7 +43,7 @@
   "AccessMandatory" : "Yes",
   "AccessDefault" : "Yes",
   "Display" : "Yes",
-  "Description" : "BEFTA bulk Solicitor Respondant for Org description2",
-  "HintText" : "BEFTA bulk Solicitor Respondant for Org hint2",
+  "Description" : "BEFTA bulk Solicitor Respondent for Org description2",
+  "HintText" : "BEFTA bulk Solicitor Respondent for Org hint2",
   "DisplayOrder" : 2
 } ]

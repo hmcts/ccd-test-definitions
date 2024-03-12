@@ -438,4 +438,14 @@
   "ReadOnly" : "No",
   "Disabled" : "No",
   "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_jurisdiction_1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
 } ]

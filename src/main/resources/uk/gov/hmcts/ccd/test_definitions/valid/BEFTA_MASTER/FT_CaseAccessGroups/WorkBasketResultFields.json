@@ -8,4 +8,24 @@
   "DisplayOrder" : 1,
   "ResultsOrdering" : "",
   "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "CaseFieldID" : "OrganisationField",
+  "ListElementCode" : "",
+  "Label" : "OrganisationField",
+  "DisplayOrder" : 2,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "CaseFieldID" : "OrganisationPolicyField",
+  "ListElementCode" : "",
+  "Label" : "OrganisationPolicyField",
+  "DisplayOrder" : 3,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
 } ]

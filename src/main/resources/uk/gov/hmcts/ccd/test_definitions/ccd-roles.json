@@ -39,5 +39,6 @@
   { "role": "GS_profile", "security_classification": "PUBLIC" },
 
   { "role": "ft_accessprofile_1", "security_classification": "PUBLIC" },
-  { "role": "ft_accessprofile_3", "security_classification": "PUBLIC" }
+  { "role": "ft_accessprofile_3", "security_classification": "PUBLIC" },
+  { "role": "cft-ttl-manager", "security_classification": "PUBLIC" }
 ]

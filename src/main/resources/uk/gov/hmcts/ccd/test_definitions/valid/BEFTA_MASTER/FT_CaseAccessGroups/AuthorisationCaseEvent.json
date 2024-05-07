@@ -40,18 +40,4 @@
   "CaseEventID" : "createOrganisation",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups",
-  "CaseEventID" : "createCase",
-  "UserRole" : "citizen",
-  "CRUD" : "CRUD"
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups",
-  "CaseEventID" : "updateCase",
-  "UserRole" : "citizen",
-  "CRUD" : "CRUD"
 } ]

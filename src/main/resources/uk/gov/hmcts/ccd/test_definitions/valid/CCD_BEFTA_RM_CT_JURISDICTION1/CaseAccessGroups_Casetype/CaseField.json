@@ -1,0 +1,29 @@
+[ {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "ID" : "caseAccessGroups",
+  "Label" : "A `CaseAccessGroups’ field",
+  "HintText" : "An instance of caseAccessGroups",
+  "FieldType" : "CaseAccessGroups",
+  "FieldTypeParameter" : "",
+  "DefaultHidden" : "No",
+  "RegularExpression" : "",
+  "SecurityClassification" : "PUBLIC",
+  "Min" : "",
+  "Max" : ""
+}, {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "ID" : "CaseHistory",
+  "Label" : "History",
+  "HintText" : "A numeric data.",
+  "FieldType" : "CaseHistoryViewer",
+  "FieldTypeParameter" : "",
+  "DefaultHidden" : "No",
+  "RegularExpression" : "",
+  "SecurityClassification" : "PUBLIC",
+  "Min" : "",
+  "Max" : ""
+} ]

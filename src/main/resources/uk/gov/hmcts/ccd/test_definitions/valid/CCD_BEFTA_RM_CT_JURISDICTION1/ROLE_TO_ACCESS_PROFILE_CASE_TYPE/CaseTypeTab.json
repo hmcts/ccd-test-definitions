@@ -1,0 +1,11 @@
+[ {
+  "LiveFrom" : "01/01/2019",
+  "LiveTo" : "",
+  "CaseTypeID" : "ROLE_TO_ACCESS_PROFILE_CASE_TYPE",
+  "Channel" : "CaseWorker",
+  "TabID" : "FirstTab",
+  "TabLabel" : "First tab",
+  "TabDisplayOrder" : 1,
+  "CaseFieldID" : "TextField",
+  "TabFieldDisplayOrder" : 1
+} ]

@@ -1,0 +1,15 @@
+[ {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "CaseEventID" : "createCase",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "CaseEventID" : "updateCase",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "CRUD"
+} ]

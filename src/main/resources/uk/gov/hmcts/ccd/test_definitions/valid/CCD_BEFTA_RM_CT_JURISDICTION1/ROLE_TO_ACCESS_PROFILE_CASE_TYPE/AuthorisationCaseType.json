@@ -1,0 +1,7 @@
+[ {
+  "LiveFrom" : "01/01/2019",
+  "LiveTo" : "",
+  "CaseTypeID" : "ROLE_TO_ACCESS_PROFILE_CASE_TYPE",
+  "UserRole" : "caseworker-caa",
+  "CRUD" : "CRU"
+} ]

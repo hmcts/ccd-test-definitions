@@ -1,0 +1,15 @@
+[ {
+  "LiveFrom" : "01/01/2019",
+  "LiveTo" : "",
+  "CaseTypeID" : "ROLE_TO_ACCESS_PROFILE_CASE_TYPE",
+  "ID" : "TextField",
+  "Label" : "A `Text` field",
+  "HintText" : "Some generic textual data.",
+  "FieldType" : "Text",
+  "FieldTypeParameter" : "",
+  "DefaultHidden" : "No",
+  "RegularExpression" : "",
+  "SecurityClassification" : "PUBLIC",
+  "Min" : "",
+  "Max" : ""
+} ]

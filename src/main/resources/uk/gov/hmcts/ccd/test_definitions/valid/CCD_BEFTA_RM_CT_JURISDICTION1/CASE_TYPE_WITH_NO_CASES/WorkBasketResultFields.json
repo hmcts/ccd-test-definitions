@@ -1,0 +1,15 @@
+[ {
+  "LiveFrom" : "01/01/2019",
+  "LiveTo" : "",
+  "CaseTypeID" : "CASE_TYPE_WITH_NO_CASES",
+  "CaseFieldID" : "TextField",
+  "Label" : "`Text` field",
+  "DisplayOrder" : 1
+}, {
+  "LiveFrom" : "01/01/2019",
+  "LiveTo" : "",
+  "CaseTypeID" : "CASE_TYPE_WITH_NO_CASES",
+  "CaseFieldID" : "EmailField",
+  "Label" : "`Email` field",
+  "DisplayOrder" : 2
+} ]

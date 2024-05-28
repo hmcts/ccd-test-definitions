@@ -1,0 +1,13 @@
+[ {
+  "LiveFrom" : "01/01/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "AccessTypeID" : "BEFTA_SOLICITOR_1",
+  "OrganisationProfileID" : "OGD_DWP_PROFILE",
+  "AccessMandatory" : "Yes",
+  "AccessDefault" : "Yes",
+  "Display" : "Yes",
+  "Description" : "BEFTA bulk Solicitor 2  Respondant for Org description2",
+  "HintText" : "BEFTA bulk Solicitor 2 Respondant for Org hint2",
+  "DisplayOrder" : 1
+} ]

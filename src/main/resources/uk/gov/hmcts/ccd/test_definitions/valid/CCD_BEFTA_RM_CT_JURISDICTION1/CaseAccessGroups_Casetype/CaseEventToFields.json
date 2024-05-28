@@ -1,0 +1,33 @@
+[ {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "CaseEventID" : "createCase",
+  "CaseFieldID" : "caseAccessGroups",
+  "PageFieldDisplayOrder" : 1,
+  "PageColumnNumber" : "",
+  "READONLY" : "No",
+  "DisplayContext" : "OPTIONAL",
+  "PageID" : "first",
+  "PageLabel" : "Create caseAccessGroup",
+  "PageDisplayOrder" : 1,
+  "FieldShowCondition" : "",
+  "PageShowCondition" : "",
+  "ShowSummaryChangeOption" : "No"
+}, {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "CaseEventID" : "updateCase",
+  "CaseFieldID" : "caseAccessGroups",
+  "PageFieldDisplayOrder" : 2,
+  "PageColumnNumber" : "",
+  "READONLY" : "No",
+  "DisplayContext" : "OPTIONAL",
+  "PageID" : "second",
+  "PageLabel" : "Update caseAccessGroup",
+  "PageDisplayOrder" : 2,
+  "FieldShowCondition" : "",
+  "PageShowCondition" : "",
+  "ShowSummaryChangeOption" : "No"
+} ]

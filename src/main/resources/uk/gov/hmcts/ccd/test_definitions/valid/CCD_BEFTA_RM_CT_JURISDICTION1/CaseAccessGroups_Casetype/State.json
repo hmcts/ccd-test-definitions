@@ -1,0 +1,17 @@
+[ {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "ID" : "CaseCreated",
+  "Name" : "Create Case",
+  "Description" : "",
+  "DisplayOrder" : 1
+}, {
+  "LiveFrom" : "06/12/2023",
+  "LiveTo" : "",
+  "CaseTypeID" : "CaseAccessGroups_Casetype",
+  "ID" : "CaseUpdated",
+  "Name" : "Update Case",
+  "Description" : "",
+  "DisplayOrder" : 2
+} ]

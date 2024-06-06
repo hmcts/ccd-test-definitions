@@ -178,7 +178,7 @@ To test changes to these definition files locally before creating a pre-release 
    ./gradlew definitionsToJson
    ```
 3. Update the build number in the [build.gradle](./build.gradle) file to a unique *pre-release* build number in the
-format: `<next-release-number>_<ticket-number>`: e.g. `7.19.6_CCD-3853`.
+format: `<next-release-number>_<ticket-number>`: e.g. `7.22.2_CCD-3853`.
 5. Publish library to local repository, execute:
    ```bash
    ./gradlew publishToMavenLocal
@@ -189,7 +189,7 @@ format: `<next-release-number>_<ticket-number>`: e.g. `7.19.6_CCD-3853`.
 
 5. Update the `ccd-test-definitions` version number in the project's `build.gradle` file:
    ```groovy
-   testCompile group: 'com.github.hmcts', name: 'ccd-test-definitions', version: '7.19.6_CCD-3853'
+   testCompile group: 'com.github.hmcts', name: 'ccd-test-definitions', version: '7.22.2_CCD-3853'
    ```
 6. Run functional tests, execute:
    ```bash
@@ -249,7 +249,7 @@ The pipeline configuration is explained in further detail below for each service
 Only once all of the above are up and running can they then have their `ccd-test-definitions` version number in the
 project's `build.gradle` file updated to point to the pre-release version that is under test:
 ```groovy
-testCompile group: 'com.github.hmcts', name: 'ccd-test-definitions', version: '7.19.6_CCD-3853'
+testCompile group: 'com.github.hmcts', name: 'ccd-test-definitions', version: '7.22.2_CCD-3853'
 ```
 
 ## License

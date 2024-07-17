@@ -121,6 +121,26 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
+  "RoleName" : "GroupRole1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "GroupRole2",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
   "RoleName" : "Role1",
   "Authorisation" : "auth1",
   "CaseTypeID" : "FT_CaseAccessCategories",
@@ -403,7 +423,7 @@
   "LiveTo" : "",
   "RoleName" : "GroupRole1",
   "Authorisation" : "",
-  "CaseTypeID" : "FT_CaseAccessGroup",
+  "CaseTypeID" : "FT_CaseAccessGroups",
   "AccessProfiles" : "caseworker-befta_jurisdiction_1",
   "ReadOnly" : "No",
   "Disabled" : "No",
@@ -413,9 +433,59 @@
   "LiveTo" : "",
   "RoleName" : "GroupRole2",
   "Authorisation" : "",
-  "CaseTypeID" : "FT_CaseAccessGroup",
+  "CaseTypeID" : "FT_CaseAccessGroups",
   "AccessProfiles" : "caseworker-befta_jurisdiction_1",
   "ReadOnly" : "No",
   "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_jurisdiction_1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "[Claimant]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "AccessProfiles" : "[Claimant]",
+  "ReadOnly" : "N",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "[Defendant]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "AccessProfiles" : "[Defendant]",
+  "ReadOnly" : "N",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:citizen",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "AccessProfiles" : "citizen",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
   "CaseAccessCategories" : ""
 } ]

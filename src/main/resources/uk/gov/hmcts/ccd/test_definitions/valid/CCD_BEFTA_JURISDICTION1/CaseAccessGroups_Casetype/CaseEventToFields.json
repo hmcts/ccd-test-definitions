@@ -13,7 +13,9 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "No"
+  "ShowSummaryChangeOption" : "No",
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "06/12/2023",
   "LiveTo" : "",
@@ -29,5 +31,7 @@
   "PageDisplayOrder" : 2,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "No"
+  "ShowSummaryChangeOption" : "No",
+  "DefaultValue" : "",
+  "NullifyByDefault" : "Yes"
 } ]

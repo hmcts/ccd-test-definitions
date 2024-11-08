@@ -19,7 +19,8 @@
   "CallBackURLMidEvent" : "${TEST_STUB_SERVICE_BASE_URL:http://ccd-test-stubs-service-aat.service.core-compute-aat.internal}/case_type/fe-functional-test/mid_event_dynamic_list",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -41,7 +42,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -63,7 +65,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "Y",
   "PublishAs" : "text_field_last_name",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -85,5 +88,6 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "N",
   "PublishAs" : "age",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 } ]

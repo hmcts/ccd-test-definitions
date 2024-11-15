@@ -89,5 +89,5 @@
   "Publish" : "",
   "PublishAs" : "",
   "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "NullifyByDefault" : "Yes"
 } ]

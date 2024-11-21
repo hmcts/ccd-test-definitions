@@ -1,0 +1,19 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
+  "UserRole" : "citizen",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
+  "UserRole" : "ft_accessprofile_1",
+  "CRUD" : "RU"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccess_2Roles",
+  "UserRole" : "[SPECIFICACCESSPROFILE]",
+  "CRUD" : "R"
+} ]

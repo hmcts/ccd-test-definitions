@@ -1,0 +1,8 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CRUD_3",
+  "CaseFieldID" : "TextField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+} ]

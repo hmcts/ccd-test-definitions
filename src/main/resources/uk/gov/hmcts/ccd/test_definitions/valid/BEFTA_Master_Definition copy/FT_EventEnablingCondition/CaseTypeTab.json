@@ -1,0 +1,14 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_EventEnablingCondition",
+  "Channel" : "notApplicable",
+  "TabID" : "Details",
+  "TabLabel" : "Details",
+  "TabDisplayOrder" : 1,
+  "CaseFieldID" : "TextField",
+  "TabFieldDisplayOrder" : 1,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "CaseFieldID" : "CaseAccessGroups",
+  "Label" : "CaseAccessGroups",
+  "ListElementCode" : "",
+  "DisplayOrder" : 1,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "CaseFieldID" : "OrganisationField",
+  "Label" : "OrganisationField",
+  "ListElementCode" : "",
+  "DisplayOrder" : 2,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CaseAccessGroups",
+  "CaseFieldID" : "OrganisationPolicyField",
+  "Label" : "OrganisationPolicyField",
+  "ListElementCode" : "",
+  "DisplayOrder" : 3,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+} ]

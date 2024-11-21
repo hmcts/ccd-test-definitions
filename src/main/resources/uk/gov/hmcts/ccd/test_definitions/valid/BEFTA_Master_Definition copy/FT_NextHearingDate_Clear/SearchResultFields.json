@@ -1,0 +1,11 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NextHearingDate_Clear",
+  "CaseFieldID" : "nextHearingDetails",
+  "Label" : "Next Hearing Details",
+  "ListElementCode" : "",
+  "DisplayOrder" : 1,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+} ]

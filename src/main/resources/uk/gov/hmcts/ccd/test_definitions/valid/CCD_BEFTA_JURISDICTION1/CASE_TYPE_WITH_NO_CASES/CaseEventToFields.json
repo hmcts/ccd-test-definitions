@@ -13,9 +13,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -31,9 +29,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -49,9 +45,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -67,9 +61,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -85,9 +77,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -103,9 +93,7 @@
   "PageDisplayOrder" : 2,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -121,9 +109,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -139,9 +125,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -157,9 +141,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -175,9 +157,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : 456,
-  "NullifyByDefault" : "No"
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -193,9 +173,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : 234,
-  "NullifyByDefault" : "No"
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -211,9 +189,7 @@
   "PageDisplayOrder" : 2,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "Yes",
-  "DefaultValue" : 123,
-  "NullifyByDefault" : "No"
+  "ShowSummaryChangeOption" : "Yes"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -229,9 +205,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "No",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "No"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -247,9 +221,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "No",
-  "DefaultValue" : "",
-  "NullifyByDefault" : "Yes"
+  "ShowSummaryChangeOption" : "No"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -265,9 +237,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "No",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "No"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -283,9 +253,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "No",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "No"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -301,9 +269,7 @@
   "PageDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "No",
-  "DefaultValue" : "",
-  "NullifyByDefault" : "Yes"
+  "ShowSummaryChangeOption" : "No"
 }, {
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
@@ -319,7 +285,5 @@
   "PageDisplayOrder" : 2,
   "FieldShowCondition" : "",
   "PageShowCondition" : "",
-  "ShowSummaryChangeOption" : "No",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
+  "ShowSummaryChangeOption" : "No"
 } ]

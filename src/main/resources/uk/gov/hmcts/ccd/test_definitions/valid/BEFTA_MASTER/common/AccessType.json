@@ -22,28 +22,4 @@
   "Description" : "BEFTA bulk Solicitor Respondent for Org description2",
   "HintText" : "BEFTA bulk Solicitor Respondent for Org hint2",
   "DisplayOrder" : 2
-}, {
-  "LiveFrom" : "01/01/2023",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_MasterCaseType",
-  "AccessTypeID" : "BEFTA_SOLICITOR_1",
-  "OrganisationProfileID" : "SOLICITOR_PROFILE",
-  "AccessMandatory" : "Yes",
-  "AccessDefault" : "Yes",
-  "Display" : "Yes",
-  "Description" : "BEFTA bulk Solicitor Respondent for Org description",
-  "HintText" : "BEFTA bulk Solicitor Respondent for Org hint",
-  "DisplayOrder" : 1
-}, {
-  "LiveFrom" : "01/01/2023",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_MasterCaseType",
-  "AccessTypeID" : "BEFTA_SOLICITOR_2",
-  "OrganisationProfileID" : "OGD_DWP_PROFILE",
-  "AccessMandatory" : "Yes",
-  "AccessDefault" : "Yes",
-  "Display" : "Yes",
-  "Description" : "BEFTA bulk Solicitor Respondent for Org description2",
-  "HintText" : "BEFTA bulk Solicitor Respondent for Org hint2",
-  "DisplayOrder" : 2
 } ]

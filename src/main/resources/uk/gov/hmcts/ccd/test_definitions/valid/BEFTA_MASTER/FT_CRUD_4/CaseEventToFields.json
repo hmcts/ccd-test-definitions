@@ -19,5 +19,6 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 } ]

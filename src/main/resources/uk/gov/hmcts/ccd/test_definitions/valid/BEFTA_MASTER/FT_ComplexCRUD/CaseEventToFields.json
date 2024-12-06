@@ -19,7 +19,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "20/02/2017",
   "LiveTo" : "",
@@ -41,7 +42,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "21/02/2017",
   "LiveTo" : "",
@@ -63,7 +65,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "22/02/2017",
   "LiveTo" : "",
@@ -85,7 +88,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "23/02/2017",
   "LiveTo" : "",
@@ -107,7 +111,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "24/02/2017",
   "LiveTo" : "",
@@ -129,7 +134,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "25/02/2017",
   "LiveTo" : "",
@@ -151,7 +157,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "26/02/2017",
   "LiveTo" : "",
@@ -173,7 +180,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "27/02/2017",
   "LiveTo" : "",
@@ -195,7 +203,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "28/02/2017",
   "LiveTo" : "",
@@ -217,7 +226,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "01/03/2017",
   "LiveTo" : "",
@@ -239,7 +249,8 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 }, {
   "LiveFrom" : "02/03/2017",
   "LiveTo" : "",
@@ -261,5 +272,6 @@
   "CallBackURLMidEvent" : "",
   "Publish" : "",
   "PublishAs" : "",
-  "DefaultValue" : ""
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 } ]

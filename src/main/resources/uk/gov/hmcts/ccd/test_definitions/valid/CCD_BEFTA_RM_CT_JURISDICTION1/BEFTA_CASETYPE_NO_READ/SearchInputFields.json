@@ -2,6 +2,7 @@
   "LiveFrom" : "01/01/2019",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_NO_READ",
-  "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CRU"
+  "CaseFieldID" : "TextField",
+  "Label" : "Search `Text` field",
+  "DisplayOrder" : 1
 } ]

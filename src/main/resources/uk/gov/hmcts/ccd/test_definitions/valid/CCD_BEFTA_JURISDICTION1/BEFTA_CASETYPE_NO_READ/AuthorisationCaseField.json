@@ -46,40 +46,40 @@
   "CaseTypeID" : "BEFTA_CASETYPE_NO_READ",
   "CaseFieldID" : "TextField",
   "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CRU"
+  "CRUD" : "CU"
 }, {
   "LiveFrom" : "1/1/19",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_NO_READ",
   "CaseFieldID" : "NumberField",
   "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CRU"
+  "CRUD" : "CU"
 }, {
   "LiveFrom" : "1/1/19",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_NO_READ",
   "CaseFieldID" : "YesOrNoField",
   "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CRU"
+  "CRUD" : "CU"
 }, {
   "LiveFrom" : "1/1/19",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_NO_READ",
   "CaseFieldID" : "PhoneUKField",
   "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CRU"
+  "CRUD" : "CU"
 }, {
   "LiveFrom" : "1/1/19",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_NO_READ",
   "CaseFieldID" : "EmailField",
   "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CRU"
+  "CRUD" : "CU"
 }, {
   "LiveFrom" : "1/1/19",
   "LiveTo" : "",
   "CaseTypeID" : "BEFTA_CASETYPE_NO_READ",
   "CaseFieldID" : "MoneyGBPField",
   "UserRole" : "caseworker-befta_jurisdiction_1",
-  "CRUD" : "CRU"
+  "CRUD" : "CU"
 } ]

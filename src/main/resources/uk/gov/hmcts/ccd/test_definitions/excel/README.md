@@ -12,3 +12,5 @@ For further information on how to test locally using case definitions from these
 [Generating definition files without templated URLs](../../../../../../../../../README.md#generating-definition-files-without-templated-urls)
 or [Testing locally](../../../../../../../../../README.md#testing-locally).
 
+The CCD-BEFTA_JURISDICTUION1 and CCD-BEFTA_RM_JURISDICTION1 are similar, with the primary difference being that the access_type and access_type_role have been removed from CCD-BEFTA_RM_JURISDICTION1.
+So any changes in CCD-BEFTA_JURISDICTUION1 should be reflected in CCD-BEFTA_RM_JURISDICTION1, otherwise it will not work as expected.

@@ -51,28 +51,28 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
-  "CaseEventID" : "createCaseTTLNullifyByDefaultFalse",
+  "CaseEventID" : "createCaseTTLNullifyFalse",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
-  "CaseEventID" : "createCaseTTLNullifyByDefaultFalse",
+  "CaseEventID" : "createCaseTTLNullifyFalse",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
-  "CaseEventID" : "updateCaseTTLNullifyByDefaultFalse",
+  "CaseEventID" : "updateCaseTTLNullifyFalse",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
-  "CaseEventID" : "updateCaseTTLNullifyByDefaultFalse",
+  "CaseEventID" : "updateCaseTTLNullifyFalse",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 }, {

@@ -683,7 +683,7 @@
   "DisplayContextParameter" : "",
   "ShowSummaryChangeOption" : "Y",
   "ShowSummaryContentOption" : "",
-  "CallBackURLMidEvent" : "",
+  "CallBackURLMidEvent" : "${TEST_STUB_SERVICE_BASE_URL:http://ccd-test-stubs-service-aat.service.core-compute-aat.internal}/callback_mid_event_suspended_ttl_modified",
   "Publish" : "",
   "PublishAs" : "",
   "DefaultValue" : "",

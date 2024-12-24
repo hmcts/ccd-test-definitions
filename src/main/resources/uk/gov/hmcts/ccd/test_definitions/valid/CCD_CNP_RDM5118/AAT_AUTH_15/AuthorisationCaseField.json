@@ -86,10 +86,24 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "AAT_AUTH_15",
+  "CaseFieldID" : "AddressForeignField",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CU"
+},{
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
   "CaseFieldID" : "CollectionField",
   "UserRole" : "caseworker-autotest1",
   "CRUD" : "CRUD"
 }, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
+  "CaseFieldID" : "CollectionPermissionField",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CUD"
+},{
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "AAT_AUTH_15",
@@ -205,7 +219,21 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "AAT_AUTH_15",
+  "CaseFieldID" : "AddressForeignField",
+  "UserRole" : "caseworker-autotest1-private",
+  "CRUD" : "CRUD"
+},{
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
   "CaseFieldID" : "CollectionField",
+  "UserRole" : "caseworker-autotest1-private",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
+  "CaseFieldID" : "CollectionPermissionField",
   "UserRole" : "caseworker-autotest1-private",
   "CRUD" : "CRUD"
 }, {

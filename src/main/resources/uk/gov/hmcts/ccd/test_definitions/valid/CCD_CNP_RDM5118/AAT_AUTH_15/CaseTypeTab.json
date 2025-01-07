@@ -146,9 +146,29 @@
   "TabID" : "ThirdTab",
   "TabLabel" : "Third tab",
   "TabDisplayOrder" : 3,
+  "CaseFieldID" : "CollectionPermissionField",
+  "TabFieldDisplayOrder" : 2
+},{
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
+  "Channel" : "CaseWorker",
+  "TabID" : "ThirdTab",
+  "TabLabel" : "Third tab",
+  "TabDisplayOrder" : 3,
   "CaseFieldID" : "AddressUKField",
   "TabFieldDisplayOrder" : 3
 }, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
+  "Channel" : "CaseWorker",
+  "TabID" : "ThirdTab",
+  "TabLabel" : "Third tab",
+  "TabDisplayOrder" : 3,
+  "CaseFieldID" : "AddressForeignField",
+  "TabFieldDisplayOrder" : 3
+},{
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "AAT_AUTH_15",

@@ -165,7 +165,7 @@ publishing {
 wrapper.gradleVersion = '8.7'
 
 dependencies {
-    implementation group: 'com.github.hmcts', name: 'befta-fw', version: '9.2.0'
+    implementation group: 'com.github.hmcts', name: 'befta-fw', version: '9.2.1'
 }
 // end::dependencies[]
 

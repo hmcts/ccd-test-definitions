@@ -1,0 +1,82 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationField",
+  "ListElementCode" : "OrganisationID",
+  "Label" : "Organisation ID",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField",
+  "ListElementCode" : "Organisation.OrganisationID",
+  "Label" : "Policy Organisation ID",
+  "DisplayOrder" : 2,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField",
+  "ListElementCode" : "newCase",
+  "Label" : "Supplementry new case",
+  "DisplayOrder" : 3,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField1",
+  "ListElementCode" : "Organisation.OrganisationID",
+  "Label" : "Policy Organisation ID",
+  "DisplayOrder" : 4,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField1",
+  "ListElementCode" : "newCase",
+  "Label" : "Supplementry new case",
+  "DisplayOrder" : 5,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField2",
+  "ListElementCode" : "Organisation.OrganisationID",
+  "Label" : "Policy Organisation ID",
+  "DisplayOrder" : 6,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField2",
+  "ListElementCode" : "newCase",
+  "Label" : "Supplementry new case",
+  "DisplayOrder" : 7,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField3",
+  "ListElementCode" : "Organisation.OrganisationID",
+  "Label" : "Policy Organisation ID",
+  "DisplayOrder" : 8,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField3",
+  "ListElementCode" : "newCase",
+  "Label" : "Supplementry new case",
+  "DisplayOrder" : 9,
+  "DisplayContextParameter" : ""
+} ]

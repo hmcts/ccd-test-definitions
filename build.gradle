@@ -5,11 +5,12 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.25.4"
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.5-prerelease-CCD-5329"
 
 group 'com.github.hmcts'
 
 version buildNumber
+System.out.println('version = ' +  buildNumber)
 def gitRepo = "https://github.com/hmcts/ccd-test-definitions"
 
 def pomConfig = {
@@ -27,17 +28,11 @@ def pomConfig = {
 }
 
 // tag::repositories[]
-publishing {
-    repositories {
-        mavenLocal()
-        maven {
-            name = "AzureArtifacts"
-            url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
-            credentials {
-                username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
-                password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
-            }
-        }
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        url 'https://jitpack.io'
     }
 }
 // end::repositories[]

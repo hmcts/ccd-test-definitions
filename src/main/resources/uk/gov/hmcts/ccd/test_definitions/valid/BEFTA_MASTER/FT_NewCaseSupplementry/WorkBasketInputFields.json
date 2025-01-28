@@ -1,0 +1,118 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationField",
+  "ListElementCode" : "OrganisationID",
+  "Label" : "Organisation ID",
+  "DisplayOrder" : 1,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField",
+  "ListElementCode" : "Organisation.OrganisationID",
+  "Label" : "Policy Organisation ID",
+  "DisplayOrder" : 2,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField",
+  "ListElementCode" : "OrgPolicyCaseAssignedRole",
+  "Label" : "Policy Case Assigned Role",
+  "DisplayOrder" : 3,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField",
+  "ListElementCode" : "newCase",
+  "Label" : "Policy Case Assigned Role",
+  "DisplayOrder" : 4,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField1",
+  "ListElementCode" : "Organisation.OrganisationID",
+  "Label" : "Policy Organisation ID",
+  "DisplayOrder" : 5,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField1",
+  "ListElementCode" : "OrgPolicyCaseAssignedRole",
+  "Label" : "Policy Case Assigned Role",
+  "DisplayOrder" : 6,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField1",
+  "ListElementCode" : "newCase",
+  "Label" : "Policy Case Assigned Role",
+  "DisplayOrder" : 7,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField2",
+  "ListElementCode" : "Organisation.OrganisationID",
+  "Label" : "Policy Organisation ID",
+  "DisplayOrder" : 8,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField2",
+  "ListElementCode" : "OrgPolicyCaseAssignedRole",
+  "Label" : "Policy Case Assigned Role",
+  "DisplayOrder" : 9,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField2",
+  "ListElementCode" : "newCase",
+  "Label" : "Policy Case Assigned Role",
+  "DisplayOrder" : 10,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField3",
+  "ListElementCode" : "Organisation.OrganisationID",
+  "Label" : "Policy Organisation ID",
+  "DisplayOrder" : 11,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField3",
+  "ListElementCode" : "OrgPolicyCaseAssignedRole",
+  "Label" : "Policy Case Assigned Role",
+  "DisplayOrder" : 12,
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField3",
+  "ListElementCode" : "newCase",
+  "Label" : "Policy Case Assigned Role",
+  "DisplayOrder" : 13,
+  "DisplayContextParameter" : ""
+} ]

@@ -429,7 +429,7 @@
   "CanSaveDraft" : "N",
   "EndButtonLabel" : "",
   "Publish" : "",
-  "TTLIncrement" : "20"
+  "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -477,7 +477,7 @@
   "CanSaveDraft" : "N",
   "EndButtonLabel" : "",
   "Publish" : "",
-  "TTLIncrement" : "20"
+  "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -525,7 +525,7 @@
   "CanSaveDraft" : "N",
   "EndButtonLabel" : "",
   "Publish" : "",
-  "TTLIncrement" : "20"
+  "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -573,7 +573,7 @@
   "CanSaveDraft" : "N",
   "EndButtonLabel" : "",
   "Publish" : "",
-  "TTLIncrement" : "20"
+  "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -621,7 +621,7 @@
   "CanSaveDraft" : "N",
   "EndButtonLabel" : "",
   "Publish" : "",
-  "TTLIncrement" : "20"
+  "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -669,7 +669,7 @@
   "CanSaveDraft" : "N",
   "EndButtonLabel" : "",
   "Publish" : "",
-  "TTLIncrement" : "20"
+  "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -717,5 +717,5 @@
   "CanSaveDraft" : "N",
   "EndButtonLabel" : "",
   "Publish" : "",
-  "TTLIncrement" : "20"
+  "TTLIncrement" : ""
 } ]

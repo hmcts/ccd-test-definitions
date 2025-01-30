@@ -34,7 +34,7 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NewCaseSupplementry",
-  "CaseFieldID" : "OrganisationPolicyField1",
+  "CaseFieldID" : "OrganisationPolicyField5",
   "ListElementCode" : "Organisation",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
@@ -42,7 +42,7 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NewCaseSupplementry",
-  "CaseFieldID" : "OrganisationPolicyField1",
+  "CaseFieldID" : "OrganisationPolicyField5",
   "ListElementCode" : "Organisation.OrganisationID",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
@@ -50,7 +50,7 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NewCaseSupplementry",
-  "CaseFieldID" : "OrganisationPolicyField1",
+  "CaseFieldID" : "OrganisationPolicyField5",
   "ListElementCode" : "Organisation.OrganisationName",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
@@ -58,7 +58,7 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NewCaseSupplementry",
-  "CaseFieldID" : "OrganisationPolicyField1",
+  "CaseFieldID" : "OrganisationPolicyField5",
   "ListElementCode" : "newCase",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
@@ -66,7 +66,7 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NewCaseSupplementry",
-  "CaseFieldID" : "OrganisationPolicyField2",
+  "CaseFieldID" : "OrganisationPolicyField4",
   "ListElementCode" : "Organisation",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
@@ -74,7 +74,7 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NewCaseSupplementry",
-  "CaseFieldID" : "OrganisationPolicyField2",
+  "CaseFieldID" : "OrganisationPolicyField4",
   "ListElementCode" : "Organisation.OrganisationID",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
@@ -82,7 +82,7 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NewCaseSupplementry",
-  "CaseFieldID" : "OrganisationPolicyField2",
+  "CaseFieldID" : "OrganisationPolicyField4",
   "ListElementCode" : "Organisation.OrganisationName",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
@@ -90,7 +90,7 @@
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NewCaseSupplementry",
-  "CaseFieldID" : "OrganisationPolicyField2",
+  "CaseFieldID" : "OrganisationPolicyField4",
   "ListElementCode" : "newCase",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"

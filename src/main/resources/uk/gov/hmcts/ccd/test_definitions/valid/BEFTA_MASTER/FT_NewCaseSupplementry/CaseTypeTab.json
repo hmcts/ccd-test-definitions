@@ -63,4 +63,17 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "Channel" : "notApplicable",
+  "TabID" : "FixedListField",
+  "TabLabel" : "New Cases",
+  "TabDisplayOrder" : 6,
+  "CaseFieldID" : "FixedListField",
+  "TabFieldDisplayOrder" : 6,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
 } ]

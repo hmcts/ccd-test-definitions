@@ -106,4 +106,22 @@
   "Searchable" : "",
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "ID" : "FixedListField",
+  "Label" : "A `FixedList` field",
+  "HintText" : "A dropdown to select one value out of many.",
+  "FieldType" : "FixedList",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "FixedListType",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
 } ]

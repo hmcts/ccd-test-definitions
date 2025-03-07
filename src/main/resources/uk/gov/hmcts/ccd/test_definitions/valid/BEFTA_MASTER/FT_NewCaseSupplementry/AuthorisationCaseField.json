@@ -40,4 +40,11 @@
   "CaseFieldID" : "OrganisationPolicyField3",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "FixedListField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRU"
 } ]

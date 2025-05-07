@@ -33,7 +33,7 @@
   "PreConditionState(s)" : "*",
   "PostConditionState" : "*",
   "EventEnablingCondition" : "",
-  "CallBackURLAboutToStartEvent" : "http://host.docker.internal:5555/callback_returning_errors",
+  "CallBackURLAboutToStartEvent" : "${TEST_STUB_SERVICE_BASE_URL:http://ccd-test-stubs-service-aat.service.core-compute-aat.internal}/callback_returning_errors",
   "RetriesTimeoutAboutToStartEvent" : "",
   "CallBackURLAboutToSubmitEvent" : "",
   "RetriesTimeoutURLAboutToSubmitEvent" : "",

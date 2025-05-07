@@ -59,7 +59,7 @@
   "EventEnablingCondition" : "",
   "CallBackURLAboutToStartEvent" : "",
   "RetriesTimeoutAboutToStartEvent" : "",
-  "CallBackURLAboutToSubmitEvent" : "http://host.docker.internal:5555/callback_about_to_submit_party_info_modified",
+  "CallBackURLAboutToSubmitEvent" : "${TEST_STUB_SERVICE_BASE_URL:http://ccd-test-stubs-service-aat.service.core-compute-aat.internal}/callback_about_to_submit_party_info_modified",
   "RetriesTimeoutURLAboutToSubmitEvent" : "",
   "CallBackURLSubmittedEvent" : "",
   "RetriesTimeoutURLSubmittedEvent" : "",

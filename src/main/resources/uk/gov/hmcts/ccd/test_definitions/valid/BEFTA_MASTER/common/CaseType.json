@@ -512,7 +512,7 @@
   "PrintableDocumentsUrl" : "",
   "RetriesTimeoutURLPrintEvent" : "",
   "SecurityClassification" : "Public",
-  "CallbackGetCaseUrl" : "${TEST_STUB_SERVICE_BASE_URL:http://ccd-test-stubs-service-aat.service.core-compute-aat.internal}/callback_get_case_injectedData",
+  "CallbackGetCaseUrl" : "http://host.docker.internal:5555/callback_get_case_injectedData",
   "RetriesGetCaseUrl" : ""
 }, {
   "LiveFrom" : "01/01/2017",

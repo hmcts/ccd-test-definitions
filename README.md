@@ -86,6 +86,11 @@ callback URLs in the definition files:
   
 ### Making changes to definitions
 
+> Note:
+> Json files or Excel files can be modified.
+> Whichever method is used to modify please ensure that
+> json files and the relevant Excel files reflect all modifications
+
 :warning: Any changes made to Excel files in the directory 
 [`src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel`](./src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel/.)
 will *NOT* be imported to the definition store.

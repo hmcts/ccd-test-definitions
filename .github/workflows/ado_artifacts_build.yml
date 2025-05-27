@@ -2,7 +2,13 @@ name: Publish to Azure Artifacts
 
 on:
   workflow_dispatch:
+  pull_request:
+    branches:
+      - master
   push:
+    branches:
+      - master
+      - refs/tags/*
     tags:
       - '*'
 

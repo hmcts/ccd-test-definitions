@@ -228,7 +228,7 @@
     "CaseTypeID" : "AAT_AUTH_15",
     "CaseFieldID" : "AddressValidateField",
     "UserRole" : "caseworker-autotest1",
-    "CRUD" : "CU"
+    "CRUD" : "CRUD"
   },{
   "LiveFrom" : "1/1/17",
   "LiveTo" : "",

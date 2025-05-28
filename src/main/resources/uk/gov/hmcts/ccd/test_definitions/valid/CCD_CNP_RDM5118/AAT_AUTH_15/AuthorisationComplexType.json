@@ -46,4 +46,12 @@
   "ListElementCode" : "ComplexNestedField",
   "UserRole" : "caseworker-autotest1-private",
   "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
+  "CaseFieldID" : "AddressValidateField",
+  "ListElementCode" : "AddressLine1",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CU"
 } ]

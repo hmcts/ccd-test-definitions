@@ -229,7 +229,7 @@
   "ID" : "AddressValidateField",
   "Label" : "A `AddressValidateField` field",
   "HintText" : "A UK address.",
-  "FieldType" : "AddressUK",
+  "FieldType" : "ComplexType",
   "FieldTypeParameter" : "",
   "DefaultHidden" : "No",
   "RegularExpression" : "",

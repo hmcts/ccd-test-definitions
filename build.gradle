@@ -5,12 +5,14 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "")?.replace("/", "") ?: "7.25.2"
+def releaseVersion = System.getenv("RELEASE_VERSION")
+def buildNumber = releaseVersion?.replace("refs/tags/", "") ?: "DEV-SNAPSHOT"
+def newBuildNumber = buildNumber?.contains("/merge") ? "DEV-SNAPSHOT" : buildNumber
 
 group 'com.github.hmcts'
 
-version buildNumber
-System.out.println('version = ' +  buildNumber)
+version newBuildNumber
+System.out.println('version = ' +  newBuildNumber)
 def gitRepo = "https://github.com/hmcts/ccd-test-definitions"
 
 def pomConfig = {

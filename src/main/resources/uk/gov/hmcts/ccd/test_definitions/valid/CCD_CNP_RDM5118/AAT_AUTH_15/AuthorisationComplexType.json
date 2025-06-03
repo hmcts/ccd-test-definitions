@@ -46,4 +46,28 @@
   "ListElementCode" : "ComplexNestedField",
   "UserRole" : "caseworker-autotest1-private",
   "CRUD" : "CRUD"
-} ]
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
+  "CaseFieldID" : "RestoredComplexType",
+  "ListElementCode" : "ComplexTextField2",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
+  "CaseFieldID" : "RestoredComplexType",
+  "ListElementCode" : "ComplexTextField3",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "UD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "AAT_AUTH_15",
+  "CaseFieldID" : "RestoredComplexType",
+  "ListElementCode" : "ComplexTextField4",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CD"
+}]

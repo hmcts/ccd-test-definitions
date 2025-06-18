@@ -5,7 +5,7 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.25.4"
+def buildNumber = "7.25.4"
 
 group 'com.github.hmcts'
 

@@ -8,7 +8,6 @@ backend microservices.  This library is designed to be used with the [BEFTA Fram
 which can dynamically generate an environment specific version of these definition files and import them to a 
 [CCD Definition Store](https://github.com/hmcts/ccd-definition-store-api) instance.
 
-
 ## Getting Started
 
 For information on prerequisites and how to configure a project to use these test definition files see

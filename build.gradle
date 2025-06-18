@@ -5,7 +5,7 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = "7.25.4"
+def buildNumber = "7.25.4-din-test"
 
 group 'com.github.hmcts'
 

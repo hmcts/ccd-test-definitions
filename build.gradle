@@ -34,6 +34,9 @@ publishing {
             from components.java
             artifact sourcesJar
             artifact javadocJar
+            groupId project.group
+            artifactId 'ccd-test-definitions'
+            version project.version
 
             pom {
                 name = 'ccd-test-definitions'

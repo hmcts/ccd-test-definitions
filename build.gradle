@@ -29,6 +29,28 @@ def pomConfig = {
 
 // tag::repositories[]
 publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+            artifact sourcesJar
+            artifact javadocJar
+
+            pom {
+                name = 'ccd-test-definitions'
+                description = 'HMCTS CCD Test Definitions'
+                url = gitRepo
+                licenses {
+                    license {
+                        name = 'MIT License, Copyright (c) 2023 HM Courts & Tribunals Service'
+                        url = "https://www.opensource.org/licenses/MIT"
+                    }
+                }
+                scm {
+                    url = gitRepo
+                }
+            }
+        }
+    }
     repositories {
         mavenLocal()
         maven {

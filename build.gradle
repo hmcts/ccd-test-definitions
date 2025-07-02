@@ -5,7 +5,7 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = System.getenv("RELEASE_VERSION")?: "7.25.4"
+def buildNumber = System.getenv("RELEASE_VERSION")?: "7.25.5"
 
 group 'com.github.hmcts'
 
@@ -26,9 +26,19 @@ def pomConfig = {
     }
 }
 
+repositories {
+    mavenCentral()
+    mavenLocal()
+    maven {
+        name = "AzureArtifacts"
+        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+    }
+}
+
 // tag::repositories[]
 publishing {
     repositories {
+        mavenCentral()
         mavenLocal()
         maven {
             name = "AzureArtifacts"

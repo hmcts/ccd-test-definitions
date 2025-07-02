@@ -13,4 +13,9 @@
   "ID" : "[OtherPartySolicitor]",
   "Name" : "Other Party Solicitor",
   "Description" : "The other party solicitor"
+}, {
+  "CaseTypeID" : "FT_NoCAutoApprovalCaseType",
+  "ID" : "[SPECIFICACCESSPROFILE]",
+  "Name" : "Specific Test Access Profile",
+  "Description" : "Specific Test Access Profile"
 } ]

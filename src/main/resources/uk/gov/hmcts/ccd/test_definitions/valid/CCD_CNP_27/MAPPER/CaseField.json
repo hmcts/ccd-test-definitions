@@ -222,4 +222,18 @@
   "SecurityClassification" : "PUBLIC",
   "Min" : "",
   "Max" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "MAPPER",
+  "ID" : "AddressCollectionField",
+  "Label" : "Address Collection",
+  "HintText" : "Zero to many items, here of type `Text`",
+  "FieldType" : "Collection",
+  "FieldTypeParameter" : "AddressTypeID",
+  "DefaultHidden" : "No",
+  "RegularExpression" : "",
+  "SecurityClassification" : "PUBLIC",
+  "Min" : "",
+  "Max" : ""
 } ]

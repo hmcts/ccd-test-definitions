@@ -64,6 +64,16 @@ artifacts {
     archives javadocJar
 }
 
+// tag::repositories[]
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        name = "AzureArtifacts"
+        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+    }
+}
+
 task definitionsToExcel(dependsOn: sourcesJar) {
     group = "Execution"
     description = "Runs DefinitionConverter for JSON to Excel"

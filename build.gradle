@@ -9,6 +9,13 @@ def buildNumber = System.getenv("RELEASE_VERSION")?: "7.25.4"
 
 group 'com.github.hmcts'
 
+repositories {
+    mavenCentral()
+    maven {
+        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+    }
+}
+
 version buildNumber
 def gitRepo = "https://github.com/hmcts/ccd-test-definitions"
 

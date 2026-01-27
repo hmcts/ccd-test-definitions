@@ -34,7 +34,7 @@
 }, {
   "LiveFrom" : "01/01/2023",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "AccessTypeID" : "GA_SOLICITOR",
   "OrganisationProfileID" : "groupaccesstest_solicitor",
   "OrganisationalRoleName" : "Role1",
@@ -45,7 +45,7 @@
 }, {
   "LiveFrom" : "01/01/2023",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "AccessTypeID" : "GA_OGD",
   "OrganisationProfileID" : "groupaccesstest_ogd",
   "OrganisationalRoleName" : "Role1",
@@ -56,7 +56,7 @@
 }, {
   "LiveFrom" : "01/01/2023",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "AccessTypeID" : "GA_OGD",
   "OrganisationProfileID" : "groupaccesstest_ogd",
   "OrganisationalRoleName" : "Role1",

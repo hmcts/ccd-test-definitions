@@ -25,7 +25,7 @@
 }, {
   "LiveFrom" : "11/17/23",
   "LiveTo" : "11/17/23",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "AccessProfile" : "",
   "CaseFieldID" : "CaseAccessGroups",
   "ListElementCode" : "",
@@ -37,7 +37,7 @@
 }, {
   "LiveFrom" : "1/1/17",
   "LiveTo" : "1/1/17",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "AccessProfile" : "",
   "CaseFieldID" : "[CASE_REFERENCE]",
   "ListElementCode" : "",

@@ -1,19 +1,19 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "UserRole" : "caseworker-befta_master",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CRUD"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "UserRole" : "citizen",
   "CRUD" : "CRUD"
 } ]

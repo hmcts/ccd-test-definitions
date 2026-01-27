@@ -13,7 +13,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "ID" : "FT_CaseAccessGroups_Aign_Befta",
+  "ID" : "FT_CaseAccessGroups_Align_Befta",
   "Name" : "FT_CaseAccessGroups",
   "Description" : "Case Type for testing CaseGroupAccess's",
   "JurisdictionID" : "BEFTA_MASTER",

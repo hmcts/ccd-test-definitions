@@ -25,7 +25,7 @@
 }, {
   "LiveFrom" : "01/01/2023",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "AccessTypeID" : "GA_SOLICITOR",
   "OrganisationProfileID" : "groupaccesstest_solicitor",
   "AccessMandatory" : "Yes",
@@ -37,7 +37,7 @@
 }, {
   "LiveFrom" : "01/01/2023",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "AccessTypeID" : "GA_OGD",
   "OrganisationProfileID" : "groupaccesstest_ogd",
   "AccessMandatory" : "Yes",

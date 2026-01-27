@@ -29,7 +29,7 @@
   "QuestionId" : "NoCChallengeQ3",
   "IgnoreNULLFields" : "false"
 }, {
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "ID" : "NoCChallenge",
   "DisplayOrder" : 1,
   "QuestionText" : "What's the name of the party you wish to represent?",
@@ -39,7 +39,7 @@
   "QuestionId" : "NoCChallengeQ1",
   "IgnoreNULLFields" : "yes"
 }, {
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "ID" : "NoCChallenge",
   "DisplayOrder" : 2,
   "QuestionText" : "What's xxxx?",
@@ -49,7 +49,7 @@
   "QuestionId" : "NoCChallengeQ2",
   "IgnoreNULLFields" : "true"
 }, {
-  "CaseTypeID" : "FT_CaseAccessGroups_Aign_Befta",
+  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
   "ID" : "NoCChallenge",
   "DisplayOrder" : 3,
   "QuestionText" : "What  time is it?",

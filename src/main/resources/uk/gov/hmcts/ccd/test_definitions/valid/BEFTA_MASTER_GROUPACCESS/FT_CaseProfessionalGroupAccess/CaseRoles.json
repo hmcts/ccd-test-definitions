@@ -1,10 +1,10 @@
 [ {
-  "CaseTypeID" : "FT_CaseAccessGroups",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "ID" : "[Claimant]",
   "Name" : "Claimant",
   "Description" : "The person created the case"
 }, {
-  "CaseTypeID" : "FT_CaseAccessGroups",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "ID" : "[Defendant]",
   "Name" : "Defendant",
   "Description" : "The defending party"

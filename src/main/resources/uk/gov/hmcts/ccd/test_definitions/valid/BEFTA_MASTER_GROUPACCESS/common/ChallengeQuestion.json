@@ -1,5 +1,5 @@
 [ {
-  "CaseTypeID" : "FT_CaseAccessGroups",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "ID" : "NoCChallenge",
   "DisplayOrder" : 1,
   "QuestionText" : "What's the name of the party you wish to represent?",
@@ -9,7 +9,7 @@
   "QuestionId" : "NoCChallengeQ1",
   "IgnoreNULLFields" : "yes"
 }, {
-  "CaseTypeID" : "FT_CaseAccessGroups",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "ID" : "NoCChallenge",
   "DisplayOrder" : 2,
   "QuestionText" : "What's xxxx?",
@@ -19,37 +19,7 @@
   "QuestionId" : "NoCChallengeQ2",
   "IgnoreNULLFields" : "true"
 }, {
-  "CaseTypeID" : "FT_CaseAccessGroups",
-  "ID" : "NoCChallenge",
-  "DisplayOrder" : 3,
-  "QuestionText" : "What  time is it?",
-  "AnswerFieldType" : "DateTime",
-  "DisplayContextParameter" : "#DATETIMEENTRY(dd-MM-yyyy)",
-  "Answer" : "${OrganisationField.OrganisationID}:[Defendant]",
-  "QuestionId" : "NoCChallengeQ3",
-  "IgnoreNULLFields" : "false"
-}, {
-  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
-  "ID" : "NoCChallenge",
-  "DisplayOrder" : 1,
-  "QuestionText" : "What's the name of the party you wish to represent?",
-  "AnswerFieldType" : "Date",
-  "DisplayContextParameter" : "#DATETIMEENTRY(dd-MM-yyyy)",
-  "Answer" : "${OrganisationField.OrganisationName}|${OrganisationField.OrganisationID}:[Claimant],${OrganisationField.OrganisationName}|${OrganisationField.OrganisationID}:[Defendant]",
-  "QuestionId" : "NoCChallengeQ1",
-  "IgnoreNULLFields" : "yes"
-}, {
-  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
-  "ID" : "NoCChallenge",
-  "DisplayOrder" : 2,
-  "QuestionText" : "What's xxxx?",
-  "AnswerFieldType" : "DateTime",
-  "DisplayContextParameter" : "#DATETIMEENTRY(dd-MM-yyyy)",
-  "Answer" : "${OrganisationField.OrganisationName}|${OrganisationField.OrganisationID}:[Defendant]",
-  "QuestionId" : "NoCChallengeQ2",
-  "IgnoreNULLFields" : "true"
-}, {
-  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "ID" : "NoCChallenge",
   "DisplayOrder" : 3,
   "QuestionText" : "What  time is it?",

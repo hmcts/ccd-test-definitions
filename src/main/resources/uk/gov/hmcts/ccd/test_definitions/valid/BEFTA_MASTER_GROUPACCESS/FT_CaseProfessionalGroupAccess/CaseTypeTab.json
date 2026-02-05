@@ -1,7 +1,7 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "Channel" : "notApplicable",
   "TabID" : "Details",
   "TabLabel" : "Details",
@@ -14,7 +14,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "Channel" : "notApplicable",
   "TabID" : "Organisation",
   "TabLabel" : "Organisation",
@@ -27,7 +27,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "Channel" : "notApplicable",
   "TabID" : "OrganisationPolicy",
   "TabLabel" : "Organisation Policy",
@@ -40,7 +40,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "Channel" : "notApplicable",
   "TabID" : "ChangeOrganisationRequest",
   "TabLabel" : "Change Organisation Request",
@@ -53,7 +53,7 @@
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "CaseTypeID" : "FT_CaseAccessGroups_Align_Befta",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "Channel" : "notApplicable",
   "TabID" : "History",
   "TabLabel" : "History",

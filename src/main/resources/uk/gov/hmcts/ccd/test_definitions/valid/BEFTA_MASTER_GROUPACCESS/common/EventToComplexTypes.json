@@ -1,7 +1,7 @@
 [ {
   "LiveFrom" : "1/1/18",
   "LiveTo" : "",
-  "ID" : "FT_CaseAccessGroups",
+  "ID" : "FT_CaseProfessionalGroupAccess",
   "CaseEventID" : "createCase",
   "CaseFieldId" : "CaseAccessGroups",
   "ListElementCode" : "CaseAccessGroup",
@@ -17,7 +17,7 @@
 }, {
   "LiveFrom" : "1/1/18",
   "LiveTo" : "",
-  "ID" : "FT_CaseAccessGroups",
+  "ID" : "FT_CaseProfessionalGroupAccess",
   "CaseEventID" : "updateCase",
   "CaseFieldId" : "CaseAccessGroups",
   "ListElementCode" : "CaseAccessGroup",

@@ -59,8 +59,11 @@
 - Removed `BEFTA_MASTER_GROUPACCESS_v2.xlsx` after confirming main file import.
 - Re-applied Jurisdiction row deletion (5-100) and dimension tightening on main file; no rows remained to delete, dimension set to A1:E4.
 - Added new CaseType `FT_CaseAccessGroups_Align_Befta` by duplicating `FT_CaseAccessGroups` rows across all tabs with CaseTypeID/CaseTypeId/WorkBasketDefaultCaseType references.
-- Added AccessType rows with AccessTypeID `GA_SOLICITOR`/`GA_OGD` and OrganisationProfileID `groupaccesstest_solicitor`/`groupaccesstest_ogd` for the new CaseType.
-- Added AccessTypeRole rows for the new AccessTypeIDs, copying BEFTA solicitor/OGD templates and keeping CaseAccessGroupIDTemplate unchanged.
+- Replaced `FT_CaseAccessGroups_Align_Befta` with `FT_CaseProfessionalGroupAccess` across the workbook.
+- Replaced OrganisationProfileIDs `groupaccesstest_solicitor`/`groupaccesstest_ogd` with `SOLICITOR_PROFILE`/`GOVERNMENT_ORGANISATION_PROFILE`.
+- Updated AccessTypeRole for `FT_CaseProfessionalGroupAccess` + `SOLICITOR_PROFILE` to set `OrganisationalRoleName=CaseProfessionalGroupAccess_Org_Role` and `GroupRoleName=CaseProfessionalGroupAccess_GA_Role`.
+- Deleted all rows containing `FT_CaseAccessGroups`.
+- Re-saved the workbook with `openpyxl` to clear Excel recovery warnings after zip-level edits.
 
 ## Post-edit cleanup (required)
 After any manual Excel edits, run the cleanup script to avoid POI NPEs during import:
@@ -86,10 +89,9 @@ This removes rows 5–100 from `Jurisdiction`, tightens the sheet dimension, and
 
 ## Current state summary
 - `BEFTA_MASTER_GROUPACCESS.xlsx` imports successfully after running `./scripts/fix_jurisdiction_rows.py`.
-- New CaseType `FT_CaseAccessGroups_Align_Befta` added by duplicating all rows that referenced `FT_CaseAccessGroups` across tabs with CaseTypeID/CaseTypeId/WorkBasketDefaultCaseType.
-- `AccessType` now includes new rows:
-  - `GA_SOLICITOR` + `groupaccesstest_solicitor`
-  - `GA_OGD` + `groupaccesstest_ogd`
-- `AccessTypeRole` now includes new rows copied from BEFTA solicitor/OGD templates with the new AccessTypeIDs and org profile IDs (CaseAccessGroupIDTemplate unchanged).
-- `Categories` added and CaseTypeId values updated to `FT_CaseAccessGroups`/`FT_CaseAccessGroups_Align_Befta` as needed.
-- `ComplexTypes` CategoryID column cleared (no category references).
+- CaseType is now `FT_CaseProfessionalGroupAccess` (all `FT_CaseAccessGroups_Align_Befta` references replaced).
+- All rows containing `FT_CaseAccessGroups` were removed.
+- `AccessType` OrganisationProfileIDs are now `SOLICITOR_PROFILE` and `GOVERNMENT_ORGANISATION_PROFILE`.
+- `AccessTypeRole` for `FT_CaseProfessionalGroupAccess` + `SOLICITOR_PROFILE` uses `OrganisationalRoleName=CaseProfessionalGroupAccess_Org_Role` and `GroupRoleName=CaseProfessionalGroupAccess_GA_Role`.
+- Workbook re-saved with `openpyxl` to prevent Excel recovery prompts.
+- `Categories` and `ComplexTypes` remain present with CategoryID cleared (no category references).

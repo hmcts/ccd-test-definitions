@@ -1,17 +1,7 @@
 [ {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
-  "RoleName" : "GroupRole1",
-  "Authorisation" : "",
-  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
-  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
-  "ReadOnly" : "No",
-  "Disabled" : "No",
-  "CaseAccessCategories" : ""
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "RoleName" : "GroupRole2",
+  "RoleName" : "CaseProfessionalGroupAccess_GA_Role",
   "Authorisation" : "",
   "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "AccessProfiles" : "caseworker-befta_jurisdiction_1",

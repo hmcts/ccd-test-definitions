@@ -7,8 +7,8 @@
   "AccessMandatory" : "Yes",
   "AccessDefault" : "Yes",
   "Display" : "Yes",
-  "Description" : "BEFTA bulk Solicitor Respondent for Org description",
-  "HintText" : "BEFTA bulk Solicitor Respondent for Org hint",
+  "Description" : "BEFTA GA Solicitor Respondent for Org description",
+  "HintText" : "BEFTA GA Solicitor Respondent for Org hint",
   "DisplayOrder" : 1
 }, {
   "LiveFrom" : "01/01/2023",
@@ -19,7 +19,7 @@
   "AccessMandatory" : "Yes",
   "AccessDefault" : "Yes",
   "Display" : "Yes",
-  "Description" : "BEFTA bulk Solicitor Respondent for Org description2",
-  "HintText" : "BEFTA bulk Solicitor Respondent for Org hint2",
+  "Description" : "BEFTA GA OGD Respondent for Org description2",
+  "HintText" : "BEFTA GA OGD Respondent for Org hint2",
   "DisplayOrder" : 2
 } ]

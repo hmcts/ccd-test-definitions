@@ -6,9 +6,9 @@
   "OrganisationProfileID" : "SOLICITOR_PROFILE",
   "OrganisationalRoleName" : "CaseProfessionalGroupAccess_Org_Role",
   "GroupRoleName" : "CaseProfessionalGroupAccess_GA_Role",
-  "CaseAssignedRoleField" : "GroupRole1",
+  "CaseAssignedRoleField" : "CaseProfessionalGroupAccess_GA_Role",
   "GroupAccessEnabled" : "Yes",
-  "CaseAccessGroupIDTemplate" : "BEFTA_MASTER:$ORGID$"
+  "CaseAccessGroupIDTemplate" : "BEFTA_MASTER:FT_CaseProfessionalGroupAccess:CaseProfessionalGroupAccess_GA_Role:$ORGID$"
 }, {
   "LiveFrom" : "01/01/2023",
   "LiveTo" : "",
@@ -17,9 +17,9 @@
   "OrganisationProfileID" : "GOVERNMENT_ORGANISATION_PROFILE",
   "OrganisationalRoleName" : "CaseProfessionalGroupAccess_Org_Role",
   "GroupRoleName" : "CaseProfessionalGroupAccess_GA_Role",
-  "CaseAssignedRoleField" : "GroupRole1",
+  "CaseAssignedRoleField" : "CaseProfessionalGroupAccess_GA_Role",
   "GroupAccessEnabled" : "Yes",
-  "CaseAccessGroupIDTemplate" : "BEFTA_MASTER:$ORGID$"
+  "CaseAccessGroupIDTemplate" : "BEFTA_MASTER:FT_CaseProfessionalGroupAccess:CaseProfessionalGroupAccess_GA_Role:$ORGID$"
 }, {
   "LiveFrom" : "01/01/2023",
   "LiveTo" : "",
@@ -28,7 +28,7 @@
   "OrganisationProfileID" : "GOVERNMENT_ORGANISATION_PROFILE",
   "OrganisationalRoleName" : "CaseProfessionalGroupAccess_Org_Role",
   "GroupRoleName" : "",
-  "CaseAssignedRoleField" : "GroupRole2",
+  "CaseAssignedRoleField" : "",
   "GroupAccessEnabled" : "Yes",
   "CaseAccessGroupIDTemplate" : ""
 } ]

@@ -64,6 +64,7 @@
 - Updated AccessTypeRole for `FT_CaseProfessionalGroupAccess` + `SOLICITOR_PROFILE` to set `OrganisationalRoleName=CaseProfessionalGroupAccess_Org_Role` and `GroupRoleName=CaseProfessionalGroupAccess_GA_Role`.
 - Deleted all rows containing `FT_CaseAccessGroups`.
 - Re-saved the workbook with `openpyxl` to clear Excel recovery warnings after zip-level edits.
+- Updated `BEFTA_MASTER:$ORGID$` to `BEFTA_MASTER:FT_CaseProfessionalGroupAccess:CaseProfessionalGroupAccess_GA_Role:$ORGID$` in accordance with the `<jurisdiction_id>:<case_type_id>:<role_information>:$ORGID$` format.
 
 ## Post-edit cleanup (required)
 After any manual Excel edits, run the cleanup script to avoid POI NPEs during import:
@@ -94,4 +95,5 @@ This removes rows 5–100 from `Jurisdiction`, tightens the sheet dimension, and
 - `AccessType` OrganisationProfileIDs are now `SOLICITOR_PROFILE` and `GOVERNMENT_ORGANISATION_PROFILE`.
 - `AccessTypeRole` for `FT_CaseProfessionalGroupAccess` + `SOLICITOR_PROFILE` uses `OrganisationalRoleName=CaseProfessionalGroupAccess_Org_Role` and `GroupRoleName=CaseProfessionalGroupAccess_GA_Role`.
 - Workbook re-saved with `openpyxl` to prevent Excel recovery prompts.
+- `CaseAccessGroupIDTemplate` now uses `BEFTA_MASTER:FT_CaseProfessionalGroupAccess:CaseProfessionalGroupAccess_GA_Role:$ORGID$`.
 - `Categories` and `ComplexTypes` remain present with CategoryID cleared (no category references).

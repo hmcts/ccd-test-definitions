@@ -5,6 +5,12 @@ plugins {
 
 apply plugin: 'java'
 
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
 def buildNumber = System.getenv("RELEASE_VERSION")?: "7.26.0-SNAPSHOT-CCD-7049_2"
 System.out.println('version = ' +  buildNumber)
 

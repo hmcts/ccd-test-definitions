@@ -187,6 +187,7 @@ wrapper.gradleVersion = '8.7'
 
 dependencies {
     implementation group: 'com.github.hmcts', name: 'befta-fw', version: '9.2.4'
+    implementation 'at.yawk.lz4:lz4-java'
 }
 // end::dependencies[]
 

@@ -5,7 +5,7 @@ plugins {
 
 apply plugin: 'java'
 
-def buildNumber = System.getenv("RELEASE_VERSION")?: "7.25.4"
+def buildNumber = System.getenv("RELEASE_VERSION")?: "7.26.0-CCD-7110.0"
 
 group 'com.github.hmcts'
 
@@ -18,6 +18,12 @@ repositories {
 }
 
 version buildNumber
+tasks.named("build") {
+    doFirst {
+        logger.lifecycle("Building ccd-test-definitions version: ${project.version}")
+    }
+}
+
 def gitRepo = "https://github.com/hmcts/ccd-test-definitions"
 
 def pomConfig = {

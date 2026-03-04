@@ -1,0 +1,5 @@
+display_name: JSON Excel Guard Rail
+short_description: Guard rails for Excel-to-JSON reconciliation, templating, and safe diff trimming in ccd-test-definitions.
+default_prompt: |
+  Use ccd-json-excel-guard to run definitionsToJson, classify semantic vs normalization diffs,
+  preserve TEST_STUB_SERVICE_BASE_URL/MCA_API_BASE_URL templating, and trim non-semantic churn.

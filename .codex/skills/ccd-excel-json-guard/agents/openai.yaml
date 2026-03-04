@@ -1,0 +1,6 @@
+display_name: CCD Excel JSON Guard
+short_description: Guard rail workflow for ccd-test-definitions Excel and generated JSON consistency.
+default_prompt: |
+  Use ccd-excel-json-guard to reconcile Excel and JSON safely:
+  run definitionsToJson, detect semantic discrepancies, preserve callback templating,
+  and trim normalization-only converter churn before commit.

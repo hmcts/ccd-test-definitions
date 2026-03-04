@@ -120,6 +120,23 @@ OR
           false - use file name as the folder name
   ```
 
+### Codex skills (optional)
+
+This repo includes local Codex skills to enforce Excel/JSON reconciliation guard rails.
+
+- `ccd-json-excel-guard`: generic guard rails for semantic discrepancy detection, templating validation, and trim of normalization-only churn.
+- `ccd-excel-json-guard`: repo-specific workflow for callback templating and workbook/JSON reconciliation.
+
+You can invoke these explicitly in prompts:
+
+```text
+Use ccd-json-excel-guard before commit.
+```
+
+```text
+$ccd-excel-json-guard
+```
+
 ### Priming a new local [CCD-Docker](https://github.com/hmcts/ccd-docker) environment
 
 The quickest way to populate a new/empty [CCD-Docker](https://github.com/hmcts/ccd-docker) environment with the test

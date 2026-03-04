@@ -18,10 +18,8 @@ repositories {
 }
 
 version buildNumber
-tasks.named("build") {
-    doFirst {
-        logger.lifecycle("Building ccd-test-definitions version: ${project.version}")
-    }
+gradle.taskGraph.whenReady {
+    println("ccd-test-definitions version: ${project.version}")
 }
 
 def gitRepo = "https://github.com/hmcts/ccd-test-definitions"

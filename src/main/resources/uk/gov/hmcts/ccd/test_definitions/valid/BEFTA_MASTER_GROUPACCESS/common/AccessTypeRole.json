@@ -4,7 +4,7 @@
   "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
   "AccessTypeID" : "GA_SOLICITOR",
   "OrganisationProfileID" : "SOLICITOR_PROFILE",
-  "OrganisationalRoleName" : "CaseProfessionalGroupAccess_Org_Role",
+  "OrganisationalRoleName" : "",
   "GroupRoleName" : "CaseProfessionalGroupAccess_GA_Role",
   "CaseAssignedRoleField" : "CaseProfessionalGroupAccess_GA_Role",
   "GroupAccessEnabled" : "Yes",
@@ -29,6 +29,6 @@
   "OrganisationalRoleName" : "CaseProfessionalGroupAccess_Org_Role",
   "GroupRoleName" : "",
   "CaseAssignedRoleField" : "",
-  "GroupAccessEnabled" : "Yes",
+  "GroupAccessEnabled" : "No",
   "CaseAccessGroupIDTemplate" : ""
 } ]

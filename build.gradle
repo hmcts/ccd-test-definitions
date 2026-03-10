@@ -11,7 +11,7 @@ java {
     }
 }
 
-def buildNumber = System.getenv("RELEASE_VERSION")?: "7.26.0-SNAPSHOT-CCD-7049_2"
+def buildNumber = System.getenv("RELEASE_VERSION")?: "7.26.0-SNAPSHOT-CCD-7049_3"
 System.out.println('version = ' +  buildNumber)
 
 group 'com.github.hmcts'

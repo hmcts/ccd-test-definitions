@@ -8,7 +8,6 @@ backend microservices.  This library is designed to be used with the [BEFTA Fram
 which can dynamically generate an environment specific version of these definition files and import them to a 
 [CCD Definition Store](https://github.com/hmcts/ccd-definition-store-api) instance.
 
-
 ## Getting Started
 
 For information on prerequisites and how to configure a project to use these test definition files see
@@ -85,6 +84,12 @@ callback URLs in the definition files:
 > environment specific namespaces, e.g. converting AAT URL -> Demo URL.
   
 ### Making changes to definitions
+
+<mark>
+Json files or Excel files can be modified.
+Whichever method is used to modify please ensure that
+json files and the relevant Excel files reflect all modifications
+</mark>
 
 :warning: Any changes made to Excel files in the directory 
 [`src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel`](./src/main/resources/uk/gov/hmcts/ccd/test_definitions/excel/.)

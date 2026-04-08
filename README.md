@@ -14,6 +14,64 @@ which can dynamically generate an environment specific version of these definiti
 For information on prerequisites and how to configure a project to use these test definition files see
 [BEFTA Framework](https://github.com/hmcts/befta-fw).
 
+## Publishing a Release
+
+This repository publishes release artifacts to Azure Artifacts using the GitHub Actions workflow
+`Publish to Azure Artifacts`.
+
+There are two supported ways to publish:
+
+1. Manual run from GitHub Actions using a `release_version` value.
+2. Push a Git tag and use the tag name as the release version.
+
+### Manual publish
+
+Use this when you want to publish a pre-release or a version that should not be derived from the branch name.
+
+In GitHub:
+
+1. Open `Actions`.
+2. Open the `Publish to Azure Artifacts` workflow.
+3. Select `Run workflow`.
+4. Enter a `release_version`.
+5. Run the workflow.
+
+Examples of valid manual `release_version` values:
+
+* `7.26.0`
+* `7.26.0_CCD-1234`
+* `7.26.0-rc1`
+
+Examples of invalid values:
+
+* `feature/my-branch`
+* `CCD-1234`
+* `release 7.26.0`
+
+If the value is invalid, the workflow fails early with an error before publishing anything.
+
+### Tag-based publish
+
+If the workflow is triggered by pushing a Git tag, the tag name is used as the artifact version.
+
+Examples:
+
+* Tag `7.26.0` publishes version `7.26.0`
+* Tag `7.26.0-rc1` publishes version `7.26.0-rc1`
+* Tag `7.26.0_CCD-1234` publishes version `7.26.0_CCD-1234`
+
+### Which option to use
+
+Use manual publish when:
+
+* you are testing a pre-release version
+* you want an explicit version that is independent of the branch name
+
+Use tag-based publish when:
+
+* you want the Git tag to be the release version
+* you are performing a normal tagged release
+
 
 ## Definition files
 

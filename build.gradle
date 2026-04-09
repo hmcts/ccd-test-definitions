@@ -5,6 +5,10 @@ plugins {
 
 apply plugin: 'java'
 
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+
 def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.6-prerelease-CCD-5329"
 System.out.println('version = ' +  buildNumber)
 
@@ -15,8 +19,14 @@ repositories {
     mavenCentral()
     maven {
         url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+
     }
 }
+
+def buildNumber = System.getenv("RELEASE_VERSION")?: "7.26.0-SNAPSHOT-CCD-7049_3"
+System.out.println('version = ' +  buildNumber)
+
+group 'com.github.hmcts'
 
 version buildNumber
 def gitRepo = "https://github.com/hmcts/ccd-test-definitions"
@@ -34,6 +44,21 @@ def pomConfig = {
         url "https://github.com/hmcts/ccd-test-definitions"
     }
 }
+
+// tag::repositories[]
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        name = "AzureArtifacts"
+        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+        credentials {
+            username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
+            password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
+        }
+    }
+}
+// end::repositories[]
 
 ext {
     junitJupiterVersion = '5.2.0'

@@ -8,22 +8,10 @@ apply plugin: 'java'
 java {
     toolchain {
         languageVersion = JavaLanguageVersion.of(21)
-
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.6-prerelease-CCD-5329"
-System.out.println('version = ' +  buildNumber)
-
-group 'com.github.hmcts'
-
-repositories {
-    mavenLocal()
-    mavenCentral()
-    maven {
-        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
-
     }
 }
 
-def buildNumber = System.getenv("RELEASE_VERSION")?: "7.26.0-SNAPSHOT-CCD-7049_3"
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.0-SNAPSHOT-CCD-7049_3"
 System.out.println('version = ' +  buildNumber)
 
 group 'com.github.hmcts'

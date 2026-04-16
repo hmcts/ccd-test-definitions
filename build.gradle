@@ -33,19 +33,20 @@ def pomConfig = {
 }
 
 // tag::repositories[]
-publishing {
-    repositories {
-        mavenLocal()
-        maven {
-            name = "AzureArtifacts"
-            url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
-            credentials {
-                username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
-                password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
-            }
+//publishing {
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        name = "AzureArtifacts"
+        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+        credentials {
+            username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
+            password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
         }
     }
 }
+//}
 // end::repositories[]
 
 ext {
@@ -68,16 +69,16 @@ task javadocJar(type: Jar, dependsOn: javadoc) {
     from javadoc.destinationDir
 }
 tasks.withType(Test) {
-    useJUnitPlatform()
+  useJUnitPlatform()
 
-    testLogging {
-        exceptionFormat = 'full'
-    }
+  testLogging {
+    exceptionFormat = 'full'
+  }
 }
 
 test {
-    failFast = true
-    testLogging.showStandardStreams = true
+  failFast = true
+  testLogging.showStandardStreams = true
 }
 
 artifacts {
@@ -140,10 +141,10 @@ task definitionsToJson(dependsOn: sourcesJar) {
                 classpath = sourceSets.main.runtimeClasspath
                 main = definitionConverterMain
                 args = [
-                        "to-json",
-                        inputPath,
-                        outputFolderPath,
-                        useJurisdictionName
+                    "to-json",
+                    inputPath,
+                    outputFolderPath,
+                    useJurisdictionName
                 ]
             }
         }
@@ -184,7 +185,7 @@ task elasticCurlCommands() {
     group = "Help"
     description = "Displays the curl commands required to delete BEFTA case type indexes from ElasticSearch"
     doFirst() {
-        getCaseTypes().forEach {
+        getCaseTypes().forEach{
             println "curl -X DELETE http://localhost:9200/${it.toLowerCase()}_cases-000001"
         }
     }

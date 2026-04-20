@@ -11,7 +11,7 @@ java {
     }
 }
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.0-SNAPSHOT-CCD-7049_3"
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.2_CCD-7641-0"
 System.out.println('version = ' +  buildNumber)
 
 group 'com.github.hmcts'

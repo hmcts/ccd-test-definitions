@@ -11,7 +11,8 @@ java {
     }
 }
 
-def buildNumber = System.getenv("RELEASE_VERSION")?: "7.25.4"
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.0-SNAPSHOT-CCD-7049_3"
+System.out.println('version = ' +  buildNumber)
 
 group 'com.github.hmcts'
 
@@ -33,16 +34,15 @@ def pomConfig = {
 }
 
 // tag::repositories[]
-publishing {
-    repositories {
-        mavenLocal()
-        maven {
-            name = "AzureArtifacts"
-            url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
-            credentials {
-                username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
-                password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
-            }
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        name = "AzureArtifacts"
+        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+        credentials {
+            username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
+            password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
         }
     }
 }
@@ -83,6 +83,16 @@ test {
 artifacts {
     archives sourcesJar
     archives javadocJar
+}
+
+// tag::repositories[]
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        name = "AzureArtifacts"
+        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+    }
 }
 
 task definitionsToExcel(dependsOn: sourcesJar) {
@@ -171,9 +181,19 @@ publishing {
             }
         }
     }
+    repositories {
+        maven {
+            name = "AzureArtifacts"
+            url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+            credentials {
+                username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
+                password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
+            }
+        }
+    }
 }
 
-wrapper.gradleVersion = '8.7'
+wrapper.gradleVersion = '8.10'
 
 dependencies {
     implementation group: 'com.github.hmcts', name: 'befta-fw', version: '9.2.4'

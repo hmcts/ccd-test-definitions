@@ -5,7 +5,14 @@ plugins {
 
 apply plugin: 'java'
 
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
 def buildNumber = System.getenv("RELEASE_VERSION")?: "7.25.5_CCD-6146"
+
 
 group 'com.github.hmcts'
 

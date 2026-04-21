@@ -53,6 +53,13 @@ If the value is invalid, the workflow fails early with an error before publishin
 
 If the workflow is triggered by pushing a Git tag, the tag name is used as the artifact version.
 
+To use it for a tagged release, push a tag like:
+
+```bash
+git tag 9.2.2
+git push origin 9.2.2
+```
+
 Examples:
 
 * Tag `7.26.0` publishes version `7.26.0`

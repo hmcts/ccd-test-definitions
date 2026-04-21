@@ -20,12 +20,21 @@ This repository publishes release artifacts to Azure Artifacts using the GitHub 
 
 There are two supported ways to publish:
 
-1. Manual run from GitHub Actions using a `release_version` value.
-2. Push a Git tag and use the tag name as the release version.
+| Method | When to use it | Triggers publish? | Version used |
+| --- | --- | --- | --- |
+| Push commits to a branch | Normal code changes | No | None |
+| Run workflow manually from GitHub Actions | Pre-release or explicit version publish | Yes | `release_version` entered when running the workflow |
+| Push a Git tag | Normal tagged release | Yes | The Git tag name |
+
+Notes:
+
+* A normal `git push origin <branch>` does not publish an artifact.
+* A tag push triggers the `Publish to Azure Artifacts` workflow.
+* Gradle does not modify the Git tag. It uses the supplied release version as `project.version`.
 
 ### Manual publish
 
-Use this when you want to publish a pre-release or a version that should not be derived from the branch name.
+Use this when you want to publish a pre-release version or a version that should not come from a Git tag.
 
 In GitHub:
 
@@ -35,25 +44,23 @@ In GitHub:
 4. Enter a `release_version`.
 5. Run the workflow.
 
-Examples of valid manual `release_version` values:
+Valid examples:
 
 * `7.26.0`
 * `7.26.0_CCD-1234`
 * `7.26.0-rc1`
 
-Examples of invalid values:
+Invalid examples:
 
 * `feature/my-branch`
 * `CCD-1234`
 * `release 7.26.0`
 
-If the value is invalid, the workflow fails early with an error before publishing anything.
+If the value is invalid, the workflow fails before publishing.
 
 ### Tag-based publish
 
-If the workflow is triggered by pushing a Git tag, the tag name is used as the artifact version.
-
-To use it for a tagged release, push a tag like:
+Use this for a normal release where the Git tag should be the artifact version.
 
 ```bash
 git tag 9.2.2
@@ -65,18 +72,6 @@ Examples:
 * Tag `7.26.0` publishes version `7.26.0`
 * Tag `7.26.0-rc1` publishes version `7.26.0-rc1`
 * Tag `7.26.0_CCD-1234` publishes version `7.26.0_CCD-1234`
-
-### Which option to use
-
-Use manual publish when:
-
-* you are testing a pre-release version
-* you want an explicit version that is independent of the branch name
-
-Use tag-based publish when:
-
-* you want the Git tag to be the release version
-* you are performing a normal tagged release
 
 
 ## Definition files

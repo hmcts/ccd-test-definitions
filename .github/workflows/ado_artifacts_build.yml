@@ -37,9 +37,9 @@ jobs:
       - name: Validate release version
         run: |
           release_version="${{ env.release_version }}"
-          if [[ ! "$release_version" =~ ^[0-9]+\.[0-9]+\.[0-9]+([_-][A-Za-z0-9.-]+)?$ ]]; then
+          if [[ ! "$release_version" =~ ^[0-9]+\.[0-9]+\.[0-9]+(_CCD-[0-9]+|-rc[0-9]+)?$ ]]; then
             echo "Invalid release_version: $release_version"
-            echo "Expected examples: 7.26.0_CCD-1234 or 7.26.0-rc1"
+            echo "Expected formats: 7.26.0, 7.26.0_CCD-1234, or 7.26.0-rc1"
             exit 1
           fi
         shell: bash

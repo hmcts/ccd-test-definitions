@@ -10,7 +10,8 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DisplayFocus" : ""
 }, {
   "LiveFrom" : "08/01/2017",
   "LiveTo" : "",
@@ -23,7 +24,8 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DisplayFocus" : ""
 }, {
   "LiveFrom" : "09/01/2017",
   "LiveTo" : "",
@@ -36,7 +38,8 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DisplayFocus" : ""
 }, {
   "LiveFrom" : "10/01/2017",
   "LiveTo" : "",
@@ -49,7 +52,8 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : "#TABLE(Name)"
+  "DisplayContextParameter" : "#TABLE(Name)",
+  "DisplayFocus" : ""
 }, {
   "LiveFrom" : "11/01/2017",
   "LiveTo" : "",
@@ -62,5 +66,6 @@
   "TabFieldDisplayOrder" : 2,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : "#TABLE(AddressLine1)"
+  "DisplayContextParameter" : "#TABLE(AddressLine1)",
+  "DisplayFocus" : ""
 } ]

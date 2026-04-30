@@ -11,7 +11,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DisplayFocus" : "true"
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",

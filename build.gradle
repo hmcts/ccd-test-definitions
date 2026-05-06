@@ -11,7 +11,8 @@ java {
     }
 }
 
-def buildNumber = System.getenv("RELEASE_VERSION")?: "7.25.4"
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.25.5_CCD-7642"
+System.out.println("version = " + buildNumber)
 
 group 'com.github.hmcts'
 
@@ -33,17 +34,11 @@ def pomConfig = {
 }
 
 // tag::repositories[]
-publishing {
-    repositories {
-        mavenLocal()
-        maven {
-            name = "AzureArtifacts"
-            url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
-            credentials {
-                username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
-                password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
-            }
-        }
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        url 'https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1'
     }
 }
 // end::repositories[]
@@ -171,9 +166,19 @@ publishing {
             }
         }
     }
+    repositories {
+        maven {
+            name = "AzureArtifacts"
+            url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+            credentials {
+                username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
+                password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
+            }
+        }
+    }
 }
 
-wrapper.gradleVersion = '8.7'
+wrapper.gradleVersion = '8.10'
 
 dependencies {
     implementation group: 'com.github.hmcts', name: 'befta-fw', version: '9.2.4'

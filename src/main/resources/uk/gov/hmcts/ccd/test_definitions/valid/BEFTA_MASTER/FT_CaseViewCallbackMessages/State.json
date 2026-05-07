@@ -6,7 +6,8 @@
   "Name" : "Case created",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -15,5 +16,6 @@
   "Name" : "After Event",
   "Description" : "",
   "DisplayOrder" : 2,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 } ]

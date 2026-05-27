@@ -11,8 +11,8 @@ java {
     }
 }
 
-def buildNumber = System.getenv("RELEASE_VERSION")?: "7.26.0_CCD-6146"
-
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.4"
+System.out.println('version = ' +  buildNumber)
 
 group 'com.github.hmcts'
 
@@ -183,7 +183,7 @@ publishing {
     }
 }
 
-wrapper.gradleVersion = '8.7'
+wrapper.gradleVersion = '8.10'
 
 dependencies {
     implementation group: 'com.github.hmcts', name: 'befta-fw', version: '9.2.4'

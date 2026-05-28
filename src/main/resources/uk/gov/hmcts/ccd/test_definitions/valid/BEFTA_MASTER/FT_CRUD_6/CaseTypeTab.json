@@ -11,5 +11,5 @@
   "FieldShowCondition" : "[INJECTED_DATA.TestField]=\"TTT\"",
   "TabShowCondition" : "[INJECTED_DATA.TestField]=\"TTT\"",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 } ]

@@ -11,7 +11,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "06/01/2017",
   "LiveTo" : "",
@@ -25,7 +25,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "07/01/2017",
   "LiveTo" : "",
@@ -39,7 +39,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "08/01/2017",
   "LiveTo" : "",
@@ -53,7 +53,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "05/01/2017",
   "LiveTo" : "",
@@ -67,7 +67,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "06/01/2017",
   "LiveTo" : "",
@@ -81,7 +81,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "07/01/2017",
   "LiveTo" : "",
@@ -95,5 +95,5 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 } ]

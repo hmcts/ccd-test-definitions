@@ -11,7 +11,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "03/01/2017",
   "LiveTo" : "",
@@ -25,7 +25,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "04/01/2017",
   "LiveTo" : "",
@@ -39,7 +39,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "05/01/2017",
   "LiveTo" : "",
@@ -53,5 +53,5 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : "",
-  "DisplayFocus" : ""
+  "DefaultFocus" : ""
 } ]

@@ -1,5 +1,5 @@
 [ {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -10,9 +10,10 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -23,9 +24,10 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -36,9 +38,10 @@
   "TabFieldDisplayOrder" : 2,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -49,9 +52,10 @@
   "TabFieldDisplayOrder" : 3,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "09/01/2017",
+  "LiveFrom" : "1/9/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -62,9 +66,10 @@
   "TabFieldDisplayOrder" : 3,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "09/01/2017",
+  "LiveFrom" : "1/9/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -75,5 +80,6 @@
   "TabFieldDisplayOrder" : 3,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 } ]

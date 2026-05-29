@@ -1,5 +1,5 @@
 [ {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NHD_Bad_DatePast",
   "Channel" : "notApplicable",
@@ -10,9 +10,10 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NHD_Bad_DatePast",
   "Channel" : "notApplicable",
@@ -23,5 +24,6 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 } ]

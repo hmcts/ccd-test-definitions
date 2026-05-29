@@ -1,5 +1,5 @@
 [ {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -10,9 +10,10 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -23,9 +24,10 @@
   "TabFieldDisplayOrder" : 3,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -36,9 +38,10 @@
   "TabFieldDisplayOrder" : 2,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -49,9 +52,10 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -62,9 +66,10 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -75,9 +80,10 @@
   "TabFieldDisplayOrder" : 3,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -88,9 +94,10 @@
   "TabFieldDisplayOrder" : 3,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -101,9 +108,10 @@
   "TabFieldDisplayOrder" : 3,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -114,9 +122,10 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "ConditionalText=\"showmethemoney\"",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -127,9 +136,10 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "ConditionalFixedList=\"TRUE\"",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_Tabs",
   "Channel" : "notApplicable",
@@ -140,5 +150,6 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "ConditionalYesNo=\"Yes\"",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 } ]

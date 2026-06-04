@@ -1,0 +1,50 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "ChangeOrganisationRequestField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField5",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField4",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "OrganisationPolicyField3",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "CaseFieldID" : "FixedListField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRU"
+} ]

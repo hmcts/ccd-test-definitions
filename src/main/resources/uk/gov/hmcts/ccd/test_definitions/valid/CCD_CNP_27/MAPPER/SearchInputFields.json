@@ -5,4 +5,18 @@
   "CaseFieldID" : "TextField",
   "Label" : "Search `Text` field",
   "DisplayOrder" : 1
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "MAPPER",
+  "CaseFieldID" : "AddressCollectionField",
+  "Label" : "Search `collection address` field",
+  "DisplayOrder" : 2
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "MAPPER",
+  "CaseFieldID" : "ComplexField",
+  "Label" : "Search `complex` field",
+  "DisplayOrder" : 3
 } ]

@@ -110,4 +110,11 @@
   "CaseFieldID" : "HistoryComponentField",
   "UserRole" : "caseworker-autotest1",
   "CRUD" : "CRU"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "MAPPER",
+  "CaseFieldID" : "AddressCollectionField",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRU"
 } ]

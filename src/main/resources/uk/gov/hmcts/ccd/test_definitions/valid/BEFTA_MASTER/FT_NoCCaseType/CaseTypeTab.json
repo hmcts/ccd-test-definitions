@@ -1,5 +1,5 @@
 [ {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -13,7 +13,7 @@
   "DisplayContextParameter" : "",
   "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -27,7 +27,7 @@
   "DisplayContextParameter" : "",
   "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -41,7 +41,7 @@
   "DisplayContextParameter" : "",
   "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -55,7 +55,7 @@
   "DisplayContextParameter" : "",
   "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "1/9/17",
+  "LiveFrom" : "09/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",
@@ -69,7 +69,7 @@
   "DisplayContextParameter" : "",
   "DefaultFocus" : ""
 }, {
-  "LiveFrom" : "1/9/17",
+  "LiveFrom" : "09/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_NoCCaseType",
   "Channel" : "notApplicable",

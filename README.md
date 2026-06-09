@@ -20,10 +20,17 @@ This repository publishes release artifacts to Azure Artifacts using the GitHub 
 
 There are two supported ways to publish:
 
-| Method | When to use | Version source | Naming rule |
-| --- | --- | --- |
-| Manual publish | Pre-release or explicit version publish | `release_version` entered in GitHub Actions | Must match the valid version format below |
-| Tag-based publish | Normal tagged release | Git tag name | Tag name must match the valid version format below |
+| Method | When to use | Triggers publish? | Version source | Naming rule |
+| --- | --- | --- | --- | --- |
+| Push commits to a branch | Normal code changes | No | None | None |
+| Manual publish | Pre-release or explicit version publish | Yes | `release_version` entered in GitHub Actions | Must match the valid version format below |
+| Tag-based publish | Normal tagged release | Yes | Git tag name | Must match the valid version format below |
+
+Notes:
+
+* A normal `git push origin <branch>` does not publish an artifact.
+* A tag push triggers the `Publish to Azure Artifacts` workflow.
+* Gradle does not modify the Git tag. It uses the supplied release version as `project.version`.
 
 ### Version format
 
@@ -53,6 +60,7 @@ If the artifact version already exists in Azure Artifacts, the workflow also fai
 
 ### Manual publish
 
+Use this when you want to publish a pre-release version or a version that should not come from a Git tag.
 In GitHub:
 
 1. Open `Actions`.
@@ -63,9 +71,7 @@ In GitHub:
 
 ### Tag-based publish
 
-If the workflow is triggered by pushing a Git tag, the tag name is used as the artifact version.
-
-For example:
+Use this for a normal release where the Git tag should be the artifact version.
 
 ```bash
 git tag 7.26.0
@@ -98,7 +104,6 @@ Recommended usage:
 | `delete_mode` | Use `recycle_bin` before `permanent_delete` |
 
 Deleting a version from Azure Artifacts does not make that version reusable.
-
 
 ## Definition files
 

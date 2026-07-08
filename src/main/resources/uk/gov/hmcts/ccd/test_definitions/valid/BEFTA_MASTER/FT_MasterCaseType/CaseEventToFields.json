@@ -132,7 +132,7 @@
   "ShowSummaryChangeOption" : "Y",
   "ShowSummaryContentOption" : "",
   "CallBackURLMidEvent" : "",
-  "Publish" : "",
+  "Publish" : "Y",
   "PublishAs" : "",
   "DefaultValue" : "",
   "NullifyByDefault" : ""

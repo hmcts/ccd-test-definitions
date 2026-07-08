@@ -20,11 +20,11 @@ This repository publishes release artifacts to Azure Artifacts using the GitHub 
 
 There are two supported ways to publish:
 
-| Method | When to use it | Triggers publish? | Version used |
-| --- | --- | --- | --- |
-| Push commits to a branch | Normal code changes | No | None |
-| Run workflow manually from GitHub Actions | Pre-release or explicit version publish | Yes | `release_version` entered when running the workflow |
-| Push a Git tag | Normal tagged release | Yes | The Git tag name |
+| Method | When to use | Triggers publish? | Version source | Naming rule |
+| --- | --- | --- | --- | --- |
+| Push commits to a branch | Normal code changes | No | None | None |
+| Manual publish | Pre-release or explicit version publish | Yes | `release_version` entered in GitHub Actions | Must match the valid version format below |
+| Tag-based publish | Normal tagged release | Yes | Git tag name | Must match the valid version format below |
 
 Notes:
 
@@ -32,10 +32,35 @@ Notes:
 * A tag push triggers the `Publish to Azure Artifacts` workflow.
 * Gradle does not modify the Git tag. It uses the supplied release version as `project.version`.
 
+### Version format
+
+The same version format is used for manual `release_version` values and tag-based releases.
+
+Naming rule:
+
+| Case | Format | Example |
+| --- | --- | --- |
+| Released version | `<major>.<minor>.<patch>` | `7.26.0` |
+| PR or pre-release version | `<major>.<minor>.<patch>_CCD-<ticket>` | `7.26.0_CCD-1234` |
+| Release candidate version | `<major>.<minor>.<patch>-<suffix>` | `7.26.0-rc1` |
+
+Examples of valid values:
+
+| Valid | Invalid |
+| --- | --- |
+| `7.26.0` | `feature/my-branch` |
+| `7.26.0_CCD-1234` | `CCD-1234` |
+| `7.26.0-rc1` | `release 7.26.0` |
+|  | `7.26.0_hotfix` |
+|  | `7.26.0-feature1` |
+|  | `7.26.0_CCD1234` |
+
+If the value is invalid, the workflow fails early with an error before publishing anything.
+If the artifact version already exists in Azure Artifacts, the workflow also fails before publishing.
+
 ### Manual publish
 
 Use this when you want to publish a pre-release version or a version that should not come from a Git tag.
-
 In GitHub:
 
 1. Open `Actions`.
@@ -44,35 +69,41 @@ In GitHub:
 4. Enter a `release_version`.
 5. Run the workflow.
 
-Valid examples:
-
-* `7.26.0`
-* `7.26.0_CCD-1234`
-* `7.26.0-rc1`
-
-Invalid examples:
-
-* `feature/my-branch`
-* `CCD-1234`
-* `release 7.26.0`
-
-If the value is invalid, the workflow fails before publishing.
-
 ### Tag-based publish
 
 Use this for a normal release where the Git tag should be the artifact version.
 
 ```bash
-git tag 9.2.2
-git push origin 9.2.2
+git tag 7.26.0
+git push origin 7.26.0
 ```
 
-Examples:
+### Which option to use
 
-* Tag `7.26.0` publishes version `7.26.0`
-* Tag `7.26.0-rc1` publishes version `7.26.0-rc1`
-* Tag `7.26.0_CCD-1234` publishes version `7.26.0_CCD-1234`
+| Use manual publish when | Use tag-based publish when |
+| --- | --- |
+| you are testing a pre-release version | you want the Git tag to be the release version |
+| you want an explicit version that is independent of the branch name | you are performing a normal tagged release |
 
+### Artifact cleanup workflow setup
+
+The `Delete Azure Artifacts Versions` workflow is intended for repository maintainers only.
+
+| Requirement | Purpose |
+| --- | --- |
+| GitHub Actions environment `artifact-cleanup` | Adds an approval gate for deletion |
+| Required reviewers on `artifact-cleanup` | Restricts who can approve cleanup runs |
+| Repository variable `ARTIFACT_DELETE_ALLOWED_USERS` | Restricts who can start the workflow |
+| Secrets `AZURE_DEVOPS_ARTIFACT_USERNAME` and `AZURE_DEVOPS_ARTIFACT_TOKEN` | Authorises Azure Artifacts API calls |
+
+Recommended usage:
+
+| Setting | Recommendation |
+| --- | --- |
+| `dry_run` | Run with `true` first |
+| `delete_mode` | Use `recycle_bin` before `permanent_delete` |
+
+Deleting a version from Azure Artifacts does not make that version reusable.
 
 ## Definition files
 

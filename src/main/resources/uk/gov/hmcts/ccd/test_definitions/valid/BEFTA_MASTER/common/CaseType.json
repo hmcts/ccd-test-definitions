@@ -622,4 +622,16 @@
   "SecurityClassification" : "Public",
   "CallbackGetCaseUrl" : "",
   "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "ID" : "FT_AllDataTypes",
+  "Name" : "FT_AllDataTypes",
+  "Description" : "Case Type for testing fAllDataTypes",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 } ]

@@ -1,0 +1,29 @@
+[ {
+  "LiveFrom" : "1/8/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_AllDataTypes",
+  "CaseFieldID" : "Summary",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/8/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_AllDataTypes",
+  "CaseFieldID" : "Roles",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/8/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_AllDataTypes",
+  "CaseFieldID" : "Hearings",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/8/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_AllDataTypes",
+  "CaseFieldID" : "Task",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+} ]

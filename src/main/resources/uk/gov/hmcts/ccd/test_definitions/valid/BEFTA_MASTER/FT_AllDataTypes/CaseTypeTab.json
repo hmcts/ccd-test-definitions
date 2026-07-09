@@ -1,0 +1,53 @@
+[ {
+  "LiveFrom" : "1/7/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_AllDataTypes",
+  "Channel" : "notApplicable",
+  "TabID" : "Summary",
+  "TabLabel" : "Summary",
+  "TabDisplayOrder" : 1,
+  "CaseFieldID" : "Summary",
+  "TabFieldDisplayOrder" : 1,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "1/7/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_AllDataTypes",
+  "Channel" : "notApplicable",
+  "TabID" : "Roles",
+  "TabLabel" : "Roles",
+  "TabDisplayOrder" : 1,
+  "CaseFieldID" : "Roles",
+  "TabFieldDisplayOrder" : 1,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "1/7/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_AllDataTypes",
+  "Channel" : "notApplicable",
+  "TabID" : "Hearings",
+  "TabLabel" : "Hearings",
+  "TabDisplayOrder" : 1,
+  "CaseFieldID" : "Hearings",
+  "TabFieldDisplayOrder" : 1,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "1/7/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_AllDataTypes",
+  "Channel" : "notApplicable",
+  "TabID" : "Task",
+  "TabLabel" : "Task",
+  "TabDisplayOrder" : 1,
+  "CaseFieldID" : "Task",
+  "TabFieldDisplayOrder" : 1,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
+} ]

@@ -80,21 +80,21 @@ After generation, review the diff carefully and keep only the intended workbook/
 
 Use `BEFTA_Master_Definition.xlsx` as the base where possible, because it already contains case types and complex structures that suit this change.
 
-Recommended source case types:
+Fixture case types:
 
-| Existing case type | Use for | Useful fields / paths |
+| Fixture case type | Use for | CaseTypeTab values |
 |---|---|---|
-| `FT_ComplexCRUD` | Valid direct and nested complex paths | `MySchool.Name`, `MySchool.Class.ClassDetails.ClassLocation.Building.Name` |
-| `FT_ComplexCRUD` | Simple-field negative validation | `Homeless` with populated `ListElementCode` should fail |
-| `FT_ComplexCRUD` | Collection-not-supported validation | `MyCompany.Name` or `CollectionComplexField.AddressLine1` should fail when used on CaseTypeTab |
-| `FT_ComplexCollectionComplex` | Alternative base for valid and invalid CaseTypeTab rows | Existing complex and collection fields already displayed on CaseTypeTab |
+| `FT_CTT_Subfield_Valid` | Valid direct complex path | `CaseFieldID=MySchool`, `ListElementCode=Name` |
+| `FT_CTT_Subfield_Nested` | Valid nested complex path | `CaseFieldID=FamilyDetails`, `ListElementCode=FamilyAddress.Country` |
+| `FT_CTT_Subfield_Simple` | Simple-field negative validation | `CaseFieldID=Homeless`, `ListElementCode=Name` |
+| `FT_CTT_Subfield_Collection` | Collection-not-supported validation | `CaseFieldID=MyCompany`, `ListElementCode=Name`; `CaseFieldID=CollectionComplexField`, `ListElementCode=AddressLine1` |
 
 Suggested workbook structure:
 
 | Workbook | Coverage | Case types | Rows to add |
 |---|---|---|---|
-| `excel/CCD_BEFTA_CTT_LISTELEMENCODE.xlsx` | Valid direct subfield, blank value, valid nested path, and multiple subfields | `FT_CTT_Subfield_Valid`, `FT_CTT_Subfield_Blank`, `FT_CTT_Subfield_Nested`, `FT_CTT_Subfield_Multiple` | `MySchool.Name`, blank `ListElementCode`, `MySchool.Class.ClassDetails.ClassLocation.Building.Name`, and `MySchool.Name` plus `MySchool.Number` |
-| `invalid/CCD_BEFTA_CTT_LISTELEMENCODE_invalid.xlsx` | Invalid path, simple-field subfield, and collection subfield | `FT_CTT_Subfield_BadPath`, `FT_CTT_Subfield_Simple`, `FT_CTT_Subfield_Collection` | `MySchool.DoesNotExist`, `Homeless.Name`, and `MyCompany.Name` or `CollectionComplexField.AddressLine1` |
+| `excel/CCD_BEFTA_CTT_LISTELEMENCODE.xlsx` | Valid direct subfield, blank value, valid nested path, and multiple subfields | `FT_CTT_Subfield_Valid`, `FT_CTT_Subfield_Blank`, `FT_CTT_Subfield_Nested`, `FT_CTT_Subfield_Multiple` | `MySchool` + `Name`, blank `ListElementCode`, `FamilyDetails` + `FamilyAddress.Country`, and `MySchool` + `Name` plus `MySchool` + `Number` |
+| `invalid/CCD_BEFTA_CTT_LISTELEMENCODE_invalid.xlsx` | Invalid path, simple-field subfield, and collection subfield | `FT_CTT_Subfield_BadPath`, `FT_CTT_Subfield_Simple`, `FT_CTT_Subfield_Collection` | `MySchool` + `DoesNotExist`, `Homeless` + `Name`, `MyCompany` + `Name`, and `CollectionComplexField` + `AddressLine1` |
 
 `ListElementCode` should be added next to `CaseFieldID` on `CaseTypeTab` in these workbooks.
 
@@ -103,7 +103,6 @@ Suggested workbook structure:
 - Valid workbook: `excel/CCD_BEFTA_CTT_LISTELEMENCODE.xlsx`
 - Invalid workbook: `invalid/CCD_BEFTA_CTT_LISTELEMENCODE_invalid.xlsx`
 - Generated valid JSON: `valid/CCD_BEFTA_CTT_LISTELEMENCODE`
-- Build version: `7.26.7_CCD-6251_subfields`
 - Multiple-subfield case type: `FT_CTT_Subfield_Multiple`
 - Valid AC comments: 5
 - Invalid AC comments: 4

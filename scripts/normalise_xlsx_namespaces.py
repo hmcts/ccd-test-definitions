@@ -17,6 +17,7 @@ PREFIX_BY_URI = {
 DECL_BY_PREFIX = {prefix: uri for uri, prefix in PREFIX_BY_URI.items()}
 XMLNS_RE = re.compile(r'\s+xmlns:([A-Za-z_][\w.-]*)="([^"]+)"')
 IGNORABLE_RE = re.compile(r'\bmc:Ignorable="([^"]+)"')
+WORKSHEET_ROOT_RE = re.compile(r'(<(?:[A-Za-z_][\w.-]*:)?worksheet\b[^>]*)(>)')
 
 
 def replace_prefix(text: str, old: str, new: str, uri: str) -> str:
@@ -35,7 +36,11 @@ def ensure_root_decl(text: str, prefix: str) -> str:
     uri = DECL_BY_PREFIX.get(prefix)
     if not uri or f'xmlns:{prefix}="' in text:
         return text
-    return text.replace(">", f' xmlns:{prefix}="{uri}">', 1)
+
+    match = WORKSHEET_ROOT_RE.search(text)
+    if not match:
+        raise ValueError("Worksheet root element not found")
+    return text[:match.end(1)] + f' xmlns:{prefix}="{uri}"' + text[match.end(1):]
 
 
 def normalise_worksheet(text: str) -> str:

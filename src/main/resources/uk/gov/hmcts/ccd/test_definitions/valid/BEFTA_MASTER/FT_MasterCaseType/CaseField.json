@@ -539,7 +539,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "Summary",
@@ -557,7 +557,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "Roles",
@@ -575,7 +575,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "Hearings",
@@ -593,7 +593,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "Task",

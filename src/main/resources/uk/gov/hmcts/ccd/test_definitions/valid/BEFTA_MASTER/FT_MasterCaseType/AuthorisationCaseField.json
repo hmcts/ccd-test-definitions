@@ -433,28 +433,28 @@
   "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseFieldID" : "Summary",
   "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseFieldID" : "Roles",
   "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseFieldID" : "Hearings",
   "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CRUD"
 }, {
-  "LiveFrom" : "1/1/17",
+  "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseFieldID" : "Task",

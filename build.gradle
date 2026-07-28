@@ -16,6 +16,14 @@ System.out.println('version = ' +  buildNumber)
 
 group 'com.github.hmcts'
 
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+    }
+}
+
 version buildNumber
 def gitRepo = "https://github.com/hmcts/ccd-test-definitions"
 
@@ -187,7 +195,7 @@ publishing {
 wrapper.gradleVersion = '8.10'
 
 dependencies {
-    implementation group: 'com.github.hmcts', name: 'befta-fw', version: '9.2.4'
+    implementation group: 'com.github.hmcts', name: 'befta-fw', version: '9.2.7'
 }
 // end::dependencies[]
 

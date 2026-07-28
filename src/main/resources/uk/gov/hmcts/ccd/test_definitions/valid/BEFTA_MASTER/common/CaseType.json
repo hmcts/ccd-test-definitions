@@ -610,4 +610,16 @@
   "SecurityClassification" : "Public",
   "CallbackGetCaseUrl" : "",
   "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "ID" : "FT_NewCaseSupplementry",
+  "Name" : "FT_NewCaseSupplementry",
+  "Description" : "Case Type for testing for supplementry data new case",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
 } ]

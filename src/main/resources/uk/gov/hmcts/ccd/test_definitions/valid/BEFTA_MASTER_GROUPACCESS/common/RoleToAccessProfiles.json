@@ -1,0 +1,61 @@
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "CaseProfessionalGroupAccess_GA_Role",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
+  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_jurisdiction_1",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
+  "AccessProfiles" : "caseworker-befta_jurisdiction_1",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:caseworker-befta_master",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
+  "AccessProfiles" : "caseworker-befta_master",
+  "ReadOnly" : "No",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "[Claimant]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
+  "AccessProfiles" : "[Claimant]",
+  "ReadOnly" : "N",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "[Defendant]",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
+  "AccessProfiles" : "[Defendant]",
+  "ReadOnly" : "N",
+  "Disabled" : "No",
+  "CaseAccessCategories" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "RoleName" : "idam:citizen",
+  "Authorisation" : "",
+  "CaseTypeID" : "FT_CaseProfessionalGroupAccess",
+  "AccessProfiles" : "citizen",
+  "ReadOnly" : "N",
+  "Disabled" : "F",
+  "CaseAccessCategories" : ""
+} ]

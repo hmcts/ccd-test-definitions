@@ -82,4 +82,16 @@
   "ResultsOrdering" : "",
   "DisplayContextParameter" : "",
   "UseCase" : "orgcases"
+}, {
+  "LiveFrom" : "2/28/25",
+  "LiveTo" : "2/28/25",
+  "CaseTypeID" : "FT_NewCaseSupplementry",
+  "AccessProfile" : "",
+  "CaseFieldID" : "FixedListField",
+  "ListElementCode" : "",
+  "Label" : "`FixedList` orgcases",
+  "DisplayOrder" : 1,
+  "ResultsOrdering" : "1:ASC",
+  "DisplayContextParameter" : "",
+  "UseCase" : "orgcases"
 } ]

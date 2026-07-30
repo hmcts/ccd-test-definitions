@@ -1,0 +1,8 @@
+[ {
+  "LiveFrom" : "",
+  "LiveTo" : "",
+  "ShellCaseTypeID" : "FT_MasterCaseType",
+  "ShellCaseFieldName" : "EmailField",
+  "OriginatingCaseTypeID" : "FT_Conditionals",
+  "OriginatingCaseFieldName" : "EmailField"
+} ]

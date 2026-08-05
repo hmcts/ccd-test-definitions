@@ -1,5 +1,5 @@
 [ {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -17,12 +17,12 @@
   "ShowSummaryChangeOption" : "Y",
   "ShowSummaryContentOption" : "",
   "CallBackURLMidEvent" : "",
-  "Publish" : "",
+  "Publish" : "Y",
   "PublishAs" : "",
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -45,7 +45,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -68,7 +68,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -91,7 +91,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -114,7 +114,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -132,12 +132,12 @@
   "ShowSummaryChangeOption" : "Y",
   "ShowSummaryContentOption" : "",
   "CallBackURLMidEvent" : "",
-  "Publish" : "Y",
+  "Publish" : "",
   "PublishAs" : "",
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -160,7 +160,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -183,7 +183,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -206,7 +206,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "02/01/2017",
+  "LiveFrom" : "1/2/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -229,7 +229,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -252,7 +252,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -275,7 +275,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -298,7 +298,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -321,7 +321,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -344,7 +344,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -367,7 +367,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -390,7 +390,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -413,7 +413,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -436,7 +436,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCase",
@@ -459,7 +459,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCase",
@@ -482,7 +482,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseTTL",
@@ -505,7 +505,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseTTLInc",
@@ -528,7 +528,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseTTLNullifyByDefault",
@@ -551,7 +551,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseTTLNullifyByDefault",
@@ -574,7 +574,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseTTLNBDNotNull",
@@ -597,7 +597,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseTTLNBDNotNull",
@@ -620,7 +620,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseTTLSECNotNull",
@@ -643,7 +643,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseTTLSECNotNull",
@@ -666,7 +666,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseTTLMidEvent",
@@ -689,7 +689,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseTTLMidEvent",
@@ -712,7 +712,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseTTLMENotNull",
@@ -735,7 +735,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "true"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseTTLMENotNull",
@@ -758,7 +758,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "true"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseTTLASEvent",
@@ -781,7 +781,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseTTLASEvent",
@@ -804,7 +804,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "Yes"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseTTLASNotNull",
@@ -827,7 +827,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "true"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseTTLASNotNull",
@@ -850,7 +850,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : "true"
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCaseNoTTLInc",
@@ -873,7 +873,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateModifiedOverrideTTL",
@@ -896,7 +896,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateModifiedSystemTTL",
@@ -919,7 +919,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateModifiedSuspendedTTL",
@@ -942,7 +942,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "02/01/2017",
+  "LiveFrom" : "1/2/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateMidEventModifiedSuspendedTTL",
@@ -965,7 +965,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "03/01/2017",
+  "LiveFrom" : "1/3/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateMidEventModifiedSystemTTL",
@@ -988,7 +988,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "04/01/2017",
+  "LiveFrom" : "1/4/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateMidEventModifiedOverrideTTL",
@@ -1011,7 +1011,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -1034,7 +1034,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -1057,7 +1057,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -1080,7 +1080,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseCaseLinks",
@@ -1103,7 +1103,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseCaseLinks",
@@ -1126,7 +1126,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCaseCaseLinks",
@@ -1149,7 +1149,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "11/01/2017",
+  "LiveFrom" : "1/11/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
@@ -1172,7 +1172,7 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "11/01/2017",
+  "LiveFrom" : "1/11/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCase",
@@ -1195,22 +1195,22 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/11/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "createCase",
-  "CaseFieldID" : "RichTextAreaField",
-  "PageFieldDisplayOrder" : 91,
-  "DisplayContext" : "Optional",
+  "CaseFieldID" : "StaffUser",
+  "PageFieldDisplayOrder" : 1,
+  "DisplayContext" : "OPTIONAL",
   "PageID" : "SingleFormPage",
-  "PageLabel" : "Data Field Types Page",
-  "PageDisplayOrder" : 1,
+  "PageLabel" : "StaffUser Fields",
+  "PageDisplayOrder" : "",
   "PageColumnNumber" : "",
   "FieldShowCondition" : "",
   "RetainHiddenValue" : "",
   "PageShowCondition" : "",
-  "DisplayContextParameter" : "",
-  "ShowSummaryChangeOption" : "Y",
+  "DisplayContextParameter" : "#ARGUMENT(CATEGORY-LEGAL-OPS,CATEGORY-ADMIN,REGION-1235) ",
+  "ShowSummaryChangeOption" : "Yes",
   "ShowSummaryContentOption" : "",
   "CallBackURLMidEvent" : "",
   "Publish" : "",
@@ -1218,68 +1218,22 @@
   "DefaultValue" : "",
   "NullifyByDefault" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_MasterCaseType",
-  "CaseEventID" : "createCase",
-  "CaseFieldID" : "RichTextAreaMinField",
-  "PageFieldDisplayOrder" : 92,
-  "DisplayContext" : "Optional",
-  "PageID" : "SingleFormPage",
-  "PageLabel" : "Data Field Types Page",
-  "PageDisplayOrder" : 1,
-  "PageColumnNumber" : "",
-  "FieldShowCondition" : "",
-  "RetainHiddenValue" : "",
-  "PageShowCondition" : "",
-  "DisplayContextParameter" : "",
-  "ShowSummaryChangeOption" : "Y",
-  "ShowSummaryContentOption" : "",
-  "CallBackURLMidEvent" : "",
-  "Publish" : "",
-  "PublishAs" : "",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
-}, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/11/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "CaseEventID" : "updateCase",
-  "CaseFieldID" : "RichTextAreaField",
-  "PageFieldDisplayOrder" : 91,
-  "DisplayContext" : "Optional",
+  "CaseFieldID" : "StaffUser",
+  "PageFieldDisplayOrder" : 1,
+  "DisplayContext" : "OPTIONAL",
   "PageID" : "SingleFormPage",
-  "PageLabel" : "Update Organisation policy",
-  "PageDisplayOrder" : 1,
+  "PageLabel" : "StaffUser Fields",
+  "PageDisplayOrder" : "",
   "PageColumnNumber" : "",
   "FieldShowCondition" : "",
   "RetainHiddenValue" : "",
   "PageShowCondition" : "",
-  "DisplayContextParameter" : "",
-  "ShowSummaryChangeOption" : "Y",
-  "ShowSummaryContentOption" : "",
-  "CallBackURLMidEvent" : "",
-  "Publish" : "",
-  "PublishAs" : "",
-  "DefaultValue" : "",
-  "NullifyByDefault" : ""
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_MasterCaseType",
-  "CaseEventID" : "updateCase",
-  "CaseFieldID" : "RichTextAreaMinField",
-  "PageFieldDisplayOrder" : 92,
-  "DisplayContext" : "Optional",
-  "PageID" : "SingleFormPage",
-  "PageLabel" : "Update Organisation policy",
-  "PageDisplayOrder" : 1,
-  "PageColumnNumber" : "",
-  "FieldShowCondition" : "",
-  "RetainHiddenValue" : "",
-  "PageShowCondition" : "",
-  "DisplayContextParameter" : "",
-  "ShowSummaryChangeOption" : "Y",
+  "DisplayContextParameter" : " #ARGUMENT(CATEGORY-LEGAL-OPS,CATEGORY-ADMIN,REGION-1235) ",
+  "ShowSummaryChangeOption" : "Yes",
   "ShowSummaryContentOption" : "",
   "CallBackURLMidEvent" : "",
   "Publish" : "",

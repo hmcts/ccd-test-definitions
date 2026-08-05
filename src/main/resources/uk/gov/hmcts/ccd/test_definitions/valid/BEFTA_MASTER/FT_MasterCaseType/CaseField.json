@@ -1,5 +1,5 @@
 [ {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "TextField",
@@ -17,7 +17,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "TextAreaField",
@@ -35,7 +35,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "DateField",
@@ -53,7 +53,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "AddressField",
@@ -71,7 +71,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "PhoneField",
@@ -89,7 +89,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "NumberField",
@@ -107,7 +107,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "YesNoField",
@@ -125,7 +125,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "CollectionFieldMan",
@@ -143,7 +143,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "CollectionField",
@@ -161,7 +161,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "02/01/2017",
+  "LiveFrom" : "1/2/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "AddressUKField",
@@ -179,7 +179,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "MarritalStatus",
@@ -197,7 +197,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "MoneyField",
@@ -215,7 +215,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "DocumentField",
@@ -233,7 +233,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "DecreeNisiDocumentField",
@@ -251,7 +251,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "DocumentField1",
@@ -269,7 +269,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "EmailField",
@@ -287,7 +287,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "MultiSelectField",
@@ -305,7 +305,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "CaseHistory",
@@ -323,7 +323,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "LabelField",
@@ -341,7 +341,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "DynamicList",
@@ -359,7 +359,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "OrganisationPolicyField1",
@@ -377,7 +377,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "OrganisationPolicyField2",
@@ -395,7 +395,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "CaseLinkField",
@@ -413,7 +413,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "TTL",
@@ -431,7 +431,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "CaseLinkCollection",
@@ -449,7 +449,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "caseLinks",
@@ -467,7 +467,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "02/01/2017",
+  "LiveFrom" : "1/2/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "SearchCriteria",
@@ -485,7 +485,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "03/01/2017",
+  "LiveFrom" : "1/3/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "caseManagementLocation",
@@ -503,7 +503,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "03/01/2017",
+  "LiveFrom" : "1/3/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "caseNameHmctsInternal",
@@ -521,7 +521,7 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/1/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
   "ID" : "CaseAccessGroups",
@@ -539,13 +539,13 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 }, {
-  "LiveFrom" : "01/01/2017",
+  "LiveFrom" : "1/3/17",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
-  "ID" : "RichTextAreaField",
-  "Label" : "Rich Text Area",
+  "ID" : "StaffUser",
+  "Label" : "Staff User",
   "HintText" : "",
-  "FieldType" : "RichTextArea",
+  "FieldType" : "Text",
   "CategoryID" : "",
   "FieldTypeParameter" : "",
   "RegularExpression" : "",
@@ -553,25 +553,7 @@
   "Min" : "",
   "Max" : "",
   "DefaultHidden" : "No",
-  "Searchable" : "",
-  "FieldShowCondition" : "",
-  "TabShowCondition" : ""
-}, {
-  "LiveFrom" : "01/01/2017",
-  "LiveTo" : "",
-  "CaseTypeID" : "FT_MasterCaseType",
-  "ID" : "RichTextAreaMinField",
-  "Label" : "Rich Text Area with minimum length",
-  "HintText" : "",
-  "FieldType" : "RichTextArea",
-  "CategoryID" : "",
-  "FieldTypeParameter" : "",
-  "RegularExpression" : "",
-  "SecurityClassification" : "Public",
-  "Min" : "10",
-  "Max" : "",
-  "DefaultHidden" : "No",
-  "Searchable" : "",
+  "Searchable" : "Y",
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
 } ]

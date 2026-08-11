@@ -436,6 +436,34 @@
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
   "CaseTypeID" : "FT_MasterCaseType",
+  "CaseFieldID" : "RichTextAreaField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseFieldID" : "RichTextAreaField",
+  "UserRole" : "caseworker-befta_master-solicitor",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseFieldID" : "RichTextAreaMinField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "CaseFieldID" : "RichTextAreaMinField",
+  "UserRole" : "caseworker-befta_master-solicitor",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
   "CaseFieldID" : "Summary",
   "UserRole" : "caseworker-befta_jurisdiction_1",
   "CRUD" : "CRUD"

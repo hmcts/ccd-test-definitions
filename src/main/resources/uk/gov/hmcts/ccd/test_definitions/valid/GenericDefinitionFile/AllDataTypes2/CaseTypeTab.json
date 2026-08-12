@@ -37,4 +37,43 @@
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
   "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "Channel" : "notApplicable",
+  "TabID" : "NameTab",
+  "TabLabel" : "Details",
+  "TabDisplayOrder" : 2,
+  "CaseFieldID" : "RichTextAreaField",
+  "TabFieldDisplayOrder" : 91,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "Channel" : "notApplicable",
+  "TabID" : "NameTab",
+  "TabLabel" : "Details",
+  "TabDisplayOrder" : 2,
+  "CaseFieldID" : "RichTextAreaMinField",
+  "TabFieldDisplayOrder" : 92,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "Channel" : "notApplicable",
+  "TabID" : "NameTab",
+  "TabLabel" : "Details",
+  "TabDisplayOrder" : 2,
+  "CaseFieldID" : "RichTextAreaComplexField",
+  "TabFieldDisplayOrder" : 93,
+  "FieldShowCondition" : "",
+  "TabShowCondition" : "",
+  "DisplayContextParameter" : ""
 } ]

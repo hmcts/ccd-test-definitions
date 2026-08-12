@@ -278,4 +278,46 @@
   "SecurityClassification" : "Public",
   "Min" : "",
   "Max" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "ID" : "RichTextAreaField",
+  "Label" : "Rich Text Area",
+  "HintText" : "",
+  "FieldType" : "RichTextArea",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "ID" : "RichTextAreaMinField",
+  "Label" : "Rich Text Area with minimum length",
+  "HintText" : "",
+  "FieldType" : "RichTextArea",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "10",
+  "Max" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "ID" : "RichTextAreaComplexField",
+  "Label" : "Rich Text Area Complex",
+  "HintText" : "",
+  "FieldType" : "RichTextAreaComplexType",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : ""
 } ]

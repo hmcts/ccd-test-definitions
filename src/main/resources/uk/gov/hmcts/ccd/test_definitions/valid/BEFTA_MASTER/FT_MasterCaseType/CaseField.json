@@ -625,5 +625,43 @@
     "Searchable": "",
     "FieldShowCondition": "",
     "TabShowCondition": ""
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "LiveTo": "",
+    "CaseTypeID": "FT_MasterCaseType",
+    "ID": "StaffUserCollection",
+    "Label": "Staff User Collection",
+    "HintText": "",
+    "FieldType": "Collection",
+    "CategoryID": "",
+    "FieldTypeParameter": "StaffUser",
+    "RegularExpression": "",
+    "SecurityClassification": "Public",
+    "Min": "",
+    "Max": "",
+    "DefaultHidden": "No",
+    "Searchable": "",
+    "FieldShowCondition": "",
+    "TabShowCondition": ""
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "LiveTo": "",
+    "CaseTypeID": "FT_MasterCaseType",
+    "ID": "StaffUserComplexField",
+    "Label": "Staff User Complex",
+    "HintText": "",
+    "FieldType": "StaffUserComplex",
+    "CategoryID": "",
+    "FieldTypeParameter": "",
+    "RegularExpression": "",
+    "SecurityClassification": "Public",
+    "Min": "",
+    "Max": "",
+    "DefaultHidden": "No",
+    "Searchable": "",
+    "FieldShowCondition": "",
+    "TabShowCondition": ""
   }
 ]

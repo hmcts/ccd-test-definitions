@@ -1,0 +1,17 @@
+[ {
+  "LiveFrom" : "",
+  "LiveTo" : "",
+  "ID" : "",
+  "CaseEventID" : "",
+  "CaseFieldId" : "",
+  "ListElementCode" : "",
+  "DefaultValue" : "",
+  "EventElementLabel" : "",
+  "EventHintText" : "",
+  "FieldDisplayOrder" : "",
+  "DisplayContext" : "",
+  "FieldShowCondition" : "",
+  "RetainHiddenValue" : "",
+  "Publish" : "",
+  "PublishAs" : ""
+} ]

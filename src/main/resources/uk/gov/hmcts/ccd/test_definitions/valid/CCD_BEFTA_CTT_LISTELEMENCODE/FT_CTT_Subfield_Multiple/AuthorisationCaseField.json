@@ -1,0 +1,50 @@
+[ {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "CaseFieldID" : "Children",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "CaseFieldID" : "Homeless",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "CaseFieldID" : "FamilyDetails",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "CaseFieldID" : "MySchool",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "CaseFieldID" : "CaseHistory",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "CaseFieldID" : "MyCompany",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "CaseFieldID" : "CollectionComplexField",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+} ]

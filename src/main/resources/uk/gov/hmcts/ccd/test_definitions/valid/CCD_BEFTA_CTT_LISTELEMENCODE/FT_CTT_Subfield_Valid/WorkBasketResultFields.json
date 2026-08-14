@@ -1,0 +1,21 @@
+[ {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Valid",
+  "CaseFieldID" : "MySchool",
+  "ListElementCode" : "",
+  "Label" : "Child full name",
+  "DisplayOrder" : 2,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Valid",
+  "CaseFieldID" : "FamilyDetails",
+  "ListElementCode" : "",
+  "Label" : "Family Details",
+  "DisplayOrder" : 1,
+  "ResultsOrdering" : "",
+  "DisplayContextParameter" : ""
+} ]

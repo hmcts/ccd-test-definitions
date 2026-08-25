@@ -592,4 +592,22 @@
   "Searchable" : "",
   "FieldShowCondition" : "",
   "TabShowCondition" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_MasterCaseType",
+  "ID" : "AddressCollectionField",
+  "Label" : "Address Collection",
+  "HintText" : "Zero to many items, here of type `AddressTypeID`",
+  "FieldType" : "Collection",
+  "CategoryID" : "",
+  "FieldTypeParameter" : "AddressTypeID",
+  "RegularExpression" : "",
+  "SecurityClassification" : "Public",
+  "Min" : "",
+  "Max" : "",
+  "DefaultHidden" : "No",
+  "Searchable" : "",
+  "FieldShowCondition" : "",
+  "TabShowCondition" : ""
 } ]

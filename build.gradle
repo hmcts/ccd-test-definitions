@@ -11,10 +11,18 @@ java {
     }
 }
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.5"
-System.out.println("version = " + buildNumber)
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.10"
+System.out.println('version = ' +  buildNumber)
 
 group 'com.github.hmcts'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+    }
+}
 
 version buildNumber
 def gitRepo = "https://github.com/hmcts/ccd-test-definitions"
@@ -34,15 +42,16 @@ def pomConfig = {
 }
 
 // tag::repositories[]
-repositories {
-    mavenLocal()
-    mavenCentral()
-    maven {
-        name = "AzureArtifacts"
-        url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
-        credentials {
-            username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
-            password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
+publishing {
+    repositories {
+        mavenLocal()
+        maven {
+            name = "AzureArtifacts"
+            url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
+            credentials {
+                username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
+                password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
+            }
         }
     }
 }
@@ -168,16 +177,6 @@ publishing {
                 root.appendNode('name', 'CCD Test Definitions')
                 root.appendNode('url', gitRepo)
                 root.children().last() + pomConfig
-            }
-        }
-    }
-    repositories {
-        maven {
-            name = "AzureArtifacts"
-            url = uri("https://pkgs.dev.azure.com/hmcts/Artifacts/_packaging/hmcts-lib/maven/v1")
-            credentials {
-                username = System.getenv("AZURE_DEVOPS_ARTIFACT_USERNAME")
-                password = System.getenv("AZURE_DEVOPS_ARTIFACT_TOKEN")
             }
         }
     }

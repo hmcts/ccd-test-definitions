@@ -6,7 +6,8 @@
   "Name" : "Create case",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -15,7 +16,8 @@
   "Name" : "Update case",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -24,7 +26,8 @@
   "Name" : "Amend case",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -33,7 +36,8 @@
   "Name" : "Revoke case",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -42,7 +46,8 @@
   "Name" : "Delete case",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -51,7 +56,8 @@
   "Name" : "Update case 2",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -60,7 +66,8 @@
   "Name" : "Amend case 2",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -69,5 +76,6 @@
   "Name" : "Revoke case 2",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 } ]

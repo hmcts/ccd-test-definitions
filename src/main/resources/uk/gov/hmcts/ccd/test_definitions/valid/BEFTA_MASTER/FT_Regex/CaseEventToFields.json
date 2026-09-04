@@ -21,4 +21,27 @@
   "PublishAs" : "",
   "DefaultValue" : "",
   "NullifyByDefault" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_Regex",
+  "CaseEventID" : "createCase",
+  "CaseFieldID" : "PostcodeField",
+  "PageFieldDisplayOrder" : 2,
+  "DisplayContext" : "Optional",
+  "PageID" : "SingleFormPage",
+  "PageLabel" : "Regex Validation Fields Page",
+  "PageDisplayOrder" : 1,
+  "PageColumnNumber" : "",
+  "FieldShowCondition" : "",
+  "RetainHiddenValue" : "",
+  "PageShowCondition" : "",
+  "DisplayContextParameter" : "",
+  "ShowSummaryChangeOption" : "Y",
+  "ShowSummaryContentOption" : "",
+  "CallBackURLMidEvent" : "",
+  "Publish" : "",
+  "PublishAs" : "",
+  "DefaultValue" : "",
+  "NullifyByDefault" : ""
 } ]

@@ -1,1 +1,25 @@
-[ ]
+[ {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "nextHearingDetails",
+  "ListElementCode" : "hearingID",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "nextHearingDetails",
+  "ListElementCode" : "hearingDateTime",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_GlobalSearch",
+  "CaseFieldID" : "nextHearingDetails",
+  "ListElementCode" : "hearingID",
+  "UserRole" : "caseworker-befta_jurisdiction_1",
+  "CRUD" : "R"
+} ]

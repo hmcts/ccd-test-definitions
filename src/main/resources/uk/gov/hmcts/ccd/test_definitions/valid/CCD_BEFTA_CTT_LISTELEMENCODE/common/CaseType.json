@@ -1,0 +1,49 @@
+[ {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "ID" : "FT_CTT_Subfield_Valid",
+  "Name" : "FT_CTT_Subfield_Valid",
+  "Description" : "CaseTypeTab valid direct complex subfield",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "ID" : "FT_CTT_Subfield_Blank",
+  "Name" : "FT_CTT_Subfield_Blank",
+  "Description" : "CaseTypeTab blank ListElementCode whole-field behaviour",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "ID" : "FT_CTT_Subfield_Nested",
+  "Name" : "FT_CTT_Subfield_Nested",
+  "Description" : "CaseTypeTab valid nested complex subfield",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "ID" : "FT_CTT_Subfield_Multiple",
+  "Name" : "FT_CTT_Subfield_Multiple",
+  "Description" : "CaseTypeTab multiple complex subfields",
+  "JurisdictionID" : "BEFTA_MASTER",
+  "PrintableDocumentsUrl" : "",
+  "RetriesTimeoutURLPrintEvent" : "",
+  "SecurityClassification" : "Public",
+  "CallbackGetCaseUrl" : "",
+  "RetriesGetCaseUrl" : ""
+} ]

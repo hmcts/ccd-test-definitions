@@ -2387,7 +2387,7 @@
   "SecurityClassification" : "Public",
   "Min" : "",
   "Max" : "",
-  "DisplayContextParameter" : "",
+  "DisplayContextParameter" : "#ARGUMENT(CATEGORY-LEGAL-OPS,CATEGORY-ADMIN,REGION-1235)",
   "Column2" : "",
   "Column3" : "",
   "Column4" : "",

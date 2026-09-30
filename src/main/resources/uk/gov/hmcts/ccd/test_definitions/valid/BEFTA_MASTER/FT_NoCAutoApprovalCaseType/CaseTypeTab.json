@@ -52,5 +52,6 @@
   "TabFieldDisplayOrder" : 3,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 } ]

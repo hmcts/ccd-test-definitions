@@ -19,4 +19,25 @@
   "ShowEventNotes" : "",
   "CanSaveDraft" : "N",
   "EndButtonLabel" : ""
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "ID" : "updateRichTextArea",
+  "Name" : "Update rich text area",
+  "Description" : "Update rich text area fields",
+  "DisplayOrder" : 2,
+  "PreConditionState(s)" : "CaseCreated",
+  "PostConditionState" : "CaseCreated",
+  "CallBackURLAboutToStartEvent" : "",
+  "RetriesTimeoutAboutToStartEvent" : "",
+  "CallBackURLAboutToSubmitEvent" : "",
+  "RetriesTimeoutURLAboutToSubmitEvent" : "",
+  "CallBackURLSubmittedEvent" : "",
+  "RetriesTimeoutURLSubmittedEvent" : "",
+  "SecurityClassification" : "Public",
+  "ShowSummary" : "Y",
+  "ShowEventNotes" : "",
+  "CanSaveDraft" : "N",
+  "EndButtonLabel" : ""
 } ]

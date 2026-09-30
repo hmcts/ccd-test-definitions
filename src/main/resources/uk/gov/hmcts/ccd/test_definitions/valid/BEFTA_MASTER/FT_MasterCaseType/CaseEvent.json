@@ -20,7 +20,7 @@
   "ShowEventNotes" : "",
   "CanSaveDraft" : "N",
   "EndButtonLabel" : "",
-  "Publish" : "",
+  "Publish" : "Y",
   "TTLIncrement" : ""
 }, {
   "LiveFrom" : "01/01/2017",

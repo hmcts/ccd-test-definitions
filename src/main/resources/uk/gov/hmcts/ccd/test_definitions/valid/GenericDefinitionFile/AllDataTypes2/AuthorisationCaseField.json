@@ -131,4 +131,25 @@
   "CaseFieldID" : "DynamicList",
   "UserRole" : "caseworker-autotest1",
   "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "CaseFieldID" : "RichTextAreaField",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "CaseFieldID" : "RichTextAreaMinField",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "01/01/2017",
+  "LiveTo" : "",
+  "CaseTypeID" : "AllDataTypes2",
+  "CaseFieldID" : "RichTextAreaComplexField",
+  "UserRole" : "caseworker-autotest1",
+  "CRUD" : "CRUD"
 } ]

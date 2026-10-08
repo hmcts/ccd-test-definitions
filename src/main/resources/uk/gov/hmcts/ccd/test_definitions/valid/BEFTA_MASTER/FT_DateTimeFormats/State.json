@@ -6,7 +6,8 @@
   "Name" : "To do",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "03/01/2017",
   "LiveTo" : "",
@@ -15,7 +16,8 @@
   "Name" : "In progress",
   "Description" : "",
   "DisplayOrder" : 2,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "04/01/2017",
   "LiveTo" : "",
@@ -24,5 +26,6 @@
   "Name" : "Done",
   "Description" : "",
   "DisplayOrder" : 3,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 } ]

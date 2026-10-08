@@ -1,0 +1,12 @@
+[ {
+  "LiveFrom" : "",
+  "LiveTo" : "",
+  "CaseTypeID" : "",
+  "AccessTypeID" : "",
+  "OrganisationProfileID" : "",
+  "OrganisationalRoleName" : "",
+  "GroupRoleName" : "",
+  "CaseAssignedRoleField" : "",
+  "GroupAccessEnabled" : "",
+  "CaseAccessGroupIDTemplate" : ""
+} ]

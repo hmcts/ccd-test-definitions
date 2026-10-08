@@ -1,0 +1,28 @@
+[ {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "ID" : "CaseCreated",
+  "Name" : "Case created",
+  "Description" : "",
+  "DisplayOrder" : 1,
+  "TitleDisplay" : ""
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "ID" : "CaseModified",
+  "Name" : "Case modified",
+  "Description" : "",
+  "DisplayOrder" : 2,
+  "TitleDisplay" : ""
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Multiple",
+  "ID" : "CaseClosed",
+  "Name" : "Case closed",
+  "Description" : "",
+  "DisplayOrder" : 3,
+  "TitleDisplay" : ""
+} ]

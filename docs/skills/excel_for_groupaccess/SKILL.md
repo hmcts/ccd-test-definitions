@@ -83,7 +83,7 @@ This removes rows 5–100 from `Jurisdiction`, tightens the sheet dimension, and
 ```
 3) Import the Excel file into CCD.
 
-## How to use this MD in the future
+## How to update this skill doc
 - Append any new fixes or changes to the “Import fixes applied” and “Current state summary” sections.
 - If you add new scripts, include them in “Post-edit cleanup (required)” with the exact command.
 - Keep the “Current state summary” accurate after each successful import.

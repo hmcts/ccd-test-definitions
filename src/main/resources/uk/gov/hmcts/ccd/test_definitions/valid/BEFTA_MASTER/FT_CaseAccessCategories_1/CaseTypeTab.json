@@ -10,7 +10,8 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -23,5 +24,6 @@
   "TabFieldDisplayOrder" : 1,
   "FieldShowCondition" : "",
   "TabShowCondition" : "",
-  "DisplayContextParameter" : ""
+  "DisplayContextParameter" : "",
+  "DefaultFocus" : ""
 } ]

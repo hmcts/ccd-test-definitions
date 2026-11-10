@@ -11,8 +11,8 @@ java {
     }
 }
 
-def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.16"
-System.out.println('version = ' +  buildNumber)
+def buildNumber = System.getenv("RELEASE_VERSION")?.replace("refs/tags/", "") ?: "7.26.16_CCD-6251-SNAPSHOT"
+System.out.println("version = " + buildNumber)
 
 group 'com.github.hmcts'
 
@@ -65,7 +65,6 @@ publishing {
         }
     }
 }
-// end::repositories[]
 
 ext {
     junitJupiterVersion = '5.2.0'

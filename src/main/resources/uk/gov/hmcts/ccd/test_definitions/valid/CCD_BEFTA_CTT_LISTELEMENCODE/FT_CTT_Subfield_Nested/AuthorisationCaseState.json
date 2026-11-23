@@ -1,0 +1,22 @@
+[ {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Nested",
+  "CaseStateID" : "CaseCreated",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Nested",
+  "CaseStateID" : "CaseModified",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+}, {
+  "LiveFrom" : "1/1/17",
+  "LiveTo" : "",
+  "CaseTypeID" : "FT_CTT_Subfield_Nested",
+  "CaseStateID" : "CaseClosed",
+  "UserRole" : "caseworker-befta_master",
+  "CRUD" : "CRUD"
+} ]

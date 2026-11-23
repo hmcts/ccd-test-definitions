@@ -6,7 +6,8 @@
   "Name" : "Delete case",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -15,7 +16,8 @@
   "Name" : "Update case",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 }, {
   "LiveFrom" : "01/01/2017",
   "LiveTo" : "",
@@ -24,5 +26,6 @@
   "Name" : "Amend case",
   "Description" : "",
   "DisplayOrder" : 1,
-  "TitleDisplay" : ""
+  "TitleDisplay" : "",
+  "StateCategory" : ""
 } ]
